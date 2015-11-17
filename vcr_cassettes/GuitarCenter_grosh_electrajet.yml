@@ -1,0 +1,318 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://www.guitarcenter.com/Used/?Ns=r&Ntt=grosh%20electrajet
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - Apache
+      X-Dynatrace-Js-Agent:
+      - 'true'
+      X-Atg-Version:
+      - version=QVRHUGxhdGZvcm0vMTEuMXAx
+      X-International-Origin:
+      - 'false'
+      X-Origin-Country-Code:
+      - US
+      X-Mfi-Route:
+      - atg11
+      X-Is-Mobile:
+      - 'false'
+      Pragma:
+      - no-cache
+      Cache-Control:
+      - no-cache
+      Expires:
+      - Tue, 04 Dec 1993 21:29:02 GMT
+      Content-Language:
+      - en-US
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Cnection:
+      - close
+      Content-Type:
+      - text/html;charset=UTF-8
+      Vary:
+      - Accept-Encoding
+      Date:
+      - Tue, 17 Nov 2015 20:59:39 GMT
+      Content-Length:
+      - '21725'
+      Connection:
+      - keep-alive
+      Set-Cookie:
+      - JSESSIONID=VkECYLRzHrWaBPWWWs-cJlOa.atg11; Path=/
+      - MobileUser=false; Expires=Wed, 18-Nov-2015 20:59:41 GMT; Path=/
+      - dtCookie=0D0C961BEE7B15DBBC5C8DD991935572|d3d3Lmd1aXRhcmNlbnRlci5jb218MQ;
+        Path=/; Domain=.guitarcenter.com
+    body:
+      encoding: UTF-8
+      string: "<!DOCTYPE html>\n<html xmlns:fb=\"https://www.facebook.com/2008/fbml\"
+        xml:lang=\"en\" lang=\"en\">\n<head>\n<!-- Head - Dynamic Meta Data -->\n<title>Used
+        Musical Instruments &amp; Gear | Guitar Center</title>\n<meta name=\"description\"
+        content=\"Save even more on guitars, basses, drums, pro audio and accessories.
+        Used musical instruments bought and sold daily so check back often.\"/>\n<!--
+        Head - Manual Head Content -->\n<script type=\"text/javascript\" src=\"/dtagent623_jnr23_1048.js\"
+        data-dtconfig=\"rid=RID_-1096151414|rpid=-1646241715|tp=500,50,0|reportUrl=/dynaTraceMonitor|domain=guitarcenter.com\"></script><style>\n\t\t\t\t\t\t/*
+        safe to remove after 3.4.1 */\n\t\t\t\t\t\t#clpPromo {\n\t\t\t\t\t\theight:
+        165px; }\n\t\t\t\t\t\t#clpPromo .carousel { height: 165px; }\n\t\t\t\t\t\t#clpPromo\n\t\t\t\t\t\t.carousel
+        li { height: 165px !important; }\n\t\t\t\t\t\t#clpPromoAreaTop\n\t\t\t\t\t\t.promoArea
+        {max-height: 165px !important; }\n\t\t\t\t\t\t.promoArea div.second\n\t\t\t\t\t\t{display:
+        none; }\n\t\t\t\t\t\t#clpPromo ul.pager { top: -80px !important;}\n\t\t\t\t\t\t</style><link
+        rel=\"canonical\" href=\"http://www.guitarcenter.com/Used/\"/>\n<meta http-equiv=\"Content-type\"
+        content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"Content-Language\"
+        content=\"en-us\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"
+        />\n<meta name=\"format-detection\" content=\"telephone=no\" />\n<meta id=\"headerImageItemProp\"
+        itemprop=\"image\" content=\"http://static.guitarcenter.com/img/brand/gc/cmn/gc_logo_icon_square.jpg\"
+        />\n<link id=\"headerImageSrc\" rel=\"image_src\" href=\"http://static.guitarcenter.com/img/brand/gc/cmn/gc_logo_icon_square.jpg\"
+        />\n<!-- ===== START [STYLESHEETS] ===== -->\n<!-- START [COMMON] -->\n<meta
+        name=\"viewport\" content=\"width=976\" />\n<link href=\"http://static.guitarcenter.com/cmn/brand/gc/productionCss/global.css?vId=GCCOM_1.1.22&cb=6\"
+        rel=\"stylesheet\" type=\"text/css\" />\n<!-- end [common] -->\n<!-- START
+        [PAGE] -->\n<link href=\"http://static.guitarcenter.com/cmn/brand/gc/productionCss/category.css?vId=GCCOM_1.1.22&cb=6\"
+        rel=\"stylesheet\" type=\"text/css\" />\n<!-- end [page] -->\n<!-- START [IE]
+        -->\n<!--[if IE 9]>\n<link href=\"http://static.guitarcenter.com/cmn/brand/gc/productionCss/ie9.css?vId=GCCOM_1.1.22&cb=6\"
+        rel=\"stylesheet\" type=\"text/css\" />\n<![endif]-->\n<!--[if IE 8]>\n<link
+        href=\"http://static.guitarcenter.com/cmn/brand/gc/productionCss/ie8.css?vId=GCCOM_1.1.22&cb=6\"
+        rel=\"stylesheet\" type=\"text/css\" />\n<![endif]-->\n<!--[if IE 7]>\n<link
+        href=\"http://static.guitarcenter.com/cmn/brand/gc/productionCss/ie7.css?vId=GCCOM_1.1.22&cb=6\"
+        rel=\"stylesheet\" type=\"text/css\" />\n<![endif]-->\n<!-- end [ie] -->\n<link
+        href=\"http://static.guitarcenter.com/cmn/brand/gc/productionCss/print.css?vId=GCCOM_1.1.22&cb=6\"
+        rel=\"stylesheet\" type=\"text/css\" media=\"print\" />\n<!-- end [stylesheets]
+        -->\n<var id=\"pageData\" style=\"display:none\">\n{\n\"siteName\" : \"/gc\",\n\"sourceCodeId\"
+        : \"263510597\",\n\"sourceName\" : \"GCDIRECTSOURCECODE1\",\n\"sourceSegment\"
+        : \"Direct\",\n\"contextPath\" : \"\",\n\"unicaEnv\" : \"site-prod\",\n\"staticContentUrl\"
+        : \"http://static.guitarcenter.com\",\n\"styleStaticContentUrl\" : \"http://static.guitarcenter.com\",\n\"catalogAssetStaticContentUrl\"
+        : \"http://static.guitarcenter.com\",\n\"scene7StaticContentUrl\" : \"http://media.guitarcenter.com/is/image/\",\n\"scene7BasePath\"
+        : \"MMGS7/\",\n\"staticVersion\" : \"GCCOM_1.1.22&cb=6\",\n\"versionParam\"
+        : \"?vId=GCCOM_1.1.22&cb=6\",\n\"customerService\" : \"866-498-7882\",\n\"profileID\"
+        : \"202861895\",\n\"contentKey\": \"Used\",\n\"isInternational\": \"false\",\n\"isInternationalCommerceEnabled\":
+        \"true\",\n\"currencySymbol\": \"$\",\n\"profileCountryCode\": \"US\",\n\"profileCurrencyCode\":
+        \"USD\",\n\n\"oLOnExitNumber\": \"0\",\n\"liveChat\" : \"true\",\n\"cookieLoggedIn\"
+        : false,\n\"fullyLoggedIn\" : false,\n\"welcomeMat\" : \"false\",\n\"powerReviewsUrl\"
+        : \"http://static.guitarcenter.com/\",\n\"prodEnvEnabled\" : true,\n\"isMobile\":\"false\",\n\"madMobileEnabled\"
+        : false,\n\"janrainAppDomain\":\"https://login.guitarcenter.com\",\n\"janrainAppId\":\"fpfceefgnphmdjjkhnio\",\n\"janrainAppName\":\"login.guitarcenter.com\"\n}\n</var>\n<script
+        src=\"https://static.guitarcenter.com/static/gc/js/preload.js?staticVID=GCCOM_1.1.22&cb=6\"></script>\n<script
+        type=\"text/javascript\" src=\"http://static.guitarcenter.com/cmn/productionJs/globalHeader.js?vId=GCCOM_1.1.22&cb=6\"></script>\n<script
+        src=\"//assets.adobedtm.com/d9f8b1d39bf634105995a2857c408c129f44bfb7/satelliteLib-07f62b205923b8edfb43ac03a58910b97c29a600.js\"></script>\n</head>\n<body
+        class=\"category isDesktop\">\n<var id=\"queryString\" class=\"hidden\">?pageName=used-page</var>\n<var
+        class=\"hidden\" id=\"suppliedSkuId\"></var>\n<var class=\"hidden\" id=\"product_id\"></var>\n<var
+        class=\"hidden\" id=\"itemType\"></var>\n<var id=\"ent_product_id\" class=\"hidden
+        sku\"></var>\n<var class=\"hidden fn\">&nbsp;</var>\n<var class=\"hidden\"
+        id=\"sellable_skus\"></var>\n<!-- Layout - LayoutDynamicSlot -->\n<!-- Layout
+        - Tag -->\n<!-- sourceCodeId:263510597\nsourceName:GCDIRECTSOURCECODE1\nexpirationDate:2015-12-01-->\n<!--
+        for old navigation, swap with header.jsp -->\n<var id=\"testAndTargetEnabled\"
+        class=\"hidden\">false</var>\n<div class=\"mboxDefault\"></div>\n<!-- This
+        will need to move on the footer - footer.jsp file for now since Omniture tag
+        got moved on the footer: R.C.S.: 10.08.14\n<script type=\"text/javascript\">\nif(typeof(testAndTarget)!='undefined')
+        testAndTarget();\n</script>\n-->\n<div id=\"blackBarPromo\"><a href=\"/Countdown-to-Black-Friday.gc\"
+        class=\"promoLink\"><span class=\"promoCopy\">Countdown to Black Friday: New
+        Deals Daily</span><span class=\"promoAction hover\">Shop now &#187;</span></a></div><link
+        rel=\"stylesheet\" type=\"text/css\" href=\"http://static.guitarcenter.com/static/gc/home/Holiday/GC-MD-CS-style_v2.css\"><header
+        id=\"gc-header\" class=\"clearfix\">\n<section id=\"header_valueProps\">\n<div
+        class=\"headerContainer\">\n<ul id=\"valueProps_list\">\n<li class=\"\"><a
+        href=\"/pages/Guitar-Center-Shipping.gc\" id=\"headerValuePropLink_freeShipping\"><span
+        class=\"valueProps_icon\"></span>Free Shipping Details</a></li>\n<li class=\"\"><a
+        href=\"/Gift-Card\" id=\"headerValuePropLink_giftCard\"><span class=\"valueProps_icon\"></span>Gift
+        Card</a></li>\n<li id=\"headerPromo\" class=\"modeDomestic\">\nDON'T SEE THE
+        DEAL YOU WANT? <em>CALL NOW</em></li>\n<li id=\"contactGC\">\n<span id=\"contact_wrap\"><span
+        id=\"callCenterNumber\">866-498-7882</span>\n\n&nbsp;<span class=\"unbold\">or</span>
+        <span class=\"magicLink chatButton newWindow button secondary\" title=\"ContactUs\"
+        ><span id=\"link-ChatText\">Chat Now</span></span>\n</span>\n</li>\n</ul>\n</div>\n</section>\n<section
+        id=\"header_tools\">\n<div class=\"headerContainer\">\n<div id=\"brand\" class=\"xmas\">\n<a
+        class=\"gl\"  href=\"/\">\n<strong id=\"logo\">Guitar Center</strong>\n<em
+        id=\"tagline\">Best Selection, Price &amp; Service. Guaranteed.</em>\n<span></span>\n</a>\n</div>\n<div
+        id=\"search-form-wrap\">\n<form id=\"search-form\" action=\"/search\" method=\"get\">\n<input
+        type=\"hidden\" name=\"Ns\" value=\"r\"/>\n<fieldset>\n<label for=\"searchTerm\"
+        class=\"inlineLabel\">Search</label>\n<div class=\"txt txtSearch\">\n<input
+        class=\"typeAheadEnabled\" id=\"searchTerm\" name=\"Ntt\" type=\"text\" value=\"grosh
+        electrajet\"/>\n</div>\n<input type=\"submit\" value=\"Search\" id=\"searchSubmit\"
+        class=\"btnSearch img\" />\n<div id=\"note\"></div>\n</fieldset>\n</form>\n</div>\n<div
+        id=\"widgets-wrap\">\n<div class=\"widgetsPositioning\">\n<ul id=\"gc-header-tools\">\n<li
+        class=\"storeLocator\">\n<span class=\"headerInfoLink\">\n<span class=\"magicLink
+        storeFinderLink\" data-url=\"http://stores.guitarcenter.com\"><span></span>Store
+        Finder</span>\n<div id=\"internationalError\">You must set your country to
+        US to select a store.</div>\n</span>\n</li>\n<li id=\"shopping-login\">\n<span
+        class=\"headerInfoLink\">\n<span id=\"userLoggedWrap\">\n<span class=\"magicLink
+        nav-login\" data-url=\"/myaccount/login\">\nHi,\nSign In</span></span>\n<div
+        id=\"myAccountLink\">\n<a href=\"/myaccount/overview\" class=\"nav-myaccount\">My
+        Account</a><div class=\"downArrow\"></div>\n<div id=\"nav-myaccount\" class=\"dropdown-content\">\n<div
+        class=\"content-base\">\n<section id=\"myAccount-options\">\n<ul>\n<li><a
+        href=\"/myaccount/overview\">Account Overview</a></li>\n<li><a href=\"/trackorder\">Your
+        Orders</a></li>\n<li><span class=\"magicLink\" data-url=\"/wishlists\">Your
+        Wish List</span></li>\n<li><a title=\"ContactUs\" href=\"/customer-service\">Need
+        Help?</a></li>\n</ul>\n</section>\n<section id=\"logMyAccountWrap\">\n<a href=\"/myaccount/login\"
+        id=\"btnLogMyAcct\" class=\"button primary\">\nSign In</a>\n</section>\n<section
+        id=\"myAccount-createNew\">\n<ul>\n<li><div class=\"myAccountListLabel\">New
+        Customer?</div></li>\n<li><a href=\"/myaccount/login\">Create an Account</a></li>\n</ul>\n</section>\n</div>\n</div>\n</div>\n</span>\n</li>\n<li
+        id=\"cart-link\">\n<span class=\"headerInfoLink\">\n<span class=\"magicLink
+        nav-cart\" data-url=\"/cart\"><span><var id=\"miniCartTotal\"> </var></span>
+        <span class=\"cartText\">Cart<div class=\"downArrow\"></div></span></span>\n<div
+        id=\"nav-cart\" class=\"dropdown-content singleClickTouchNav\">\n<var id=\"cartTimeStamp\">Tue,
+        17 Nov 2015 20:59:41 GMT</var>\n<div class=\"noItems\">\n</div>\n<div class=\"content-base\">\n<div
+        class=\"noItems\">\n<strong>Your Cart: 0 item</strong><br>\nYour shopping
+        cart is currently empty<br><br>\n<strong>Sign-in to your account</strong><br>\n<a
+        class=\"button primary\" href=\"/myaccount/overview\" id=\"btnCartSignIn\">Sign
+        In</a>\n<var id=\"cartItems\">0</var>\n</div>\n</div>\n</div>\n</span>\n</li>\n</ul>\n</div>\n</div>\n</div>\n</section>\n</header>\n<div
+        id=\"main_nav_wrap\">\n<div id=\"navBar\">\n<div class=\"headerNav\">\n<nav
+        id=\"gc_mainNav\">\n<div class=\"headerContainer\">\n<div class=\"container\">\n<ul
+        class=\"gc_linkList\">\n<li>\n<a href=\"/\" >\nProduct<span></span>\n</a>\n</li>\n<li
+        class=\"active\">\n<span class=\"magicLink\" data-url=\"/Used/\" >\nUsed Gear<span></span>\n</span>\n</li>\n<li>\n<a
+        href=\"/Platinum/\" >\nPlatinum<span></span>\n</a>\n</li>\n<li>\n<a href=\"/Vintage/\"
+        >\nVintage<span></span>\n</a>\n</li>\n<li>\n<a href=\"/Outlet/\" >\nOutlet<span></span>\n</a>\n</li>\n<li>\n<a
+        href=\"/GC-Pro/\" >\nGC Pro<span></span>\n</a>\n</li>\n<li>\n<a href=\"/Services\"
+        >\nServices<span></span>\n</a>\n</li>\n<li>\n<a href=\"http://guitarcenter.tumblr.com/\"
+        target='_blank'>\nGC Music<span></span>\n</a>\n</li>\n</ul>\n</div>\n</div>\n</nav>\n<nav
+        id=\"gc_subNav\">\n<div class=\"headerContainer\">\n<div id=\"pane_products\"
+        class=\"container\" style=\"overflow:visible;\">\n<ul class=\"gc_linkList
+        megamenu\">\n<li class=\"mm-item association_id_m1580220\">\n<a href=\"/Used/#mainPageHeader\">All
+        Used Gear</a>\n</li>\n<li class=\"mm-item association_id_m1520002\">\n<a href=\"/Used/Guitars.gc\">Used
+        Guitars</a>\n</li>\n<li class=\"mm-item association_id_m1520001\">\n<a href=\"/Used/Amplifiers-Effects.gc\">Used
+        Amps &amp; Effects</a>\n</li>\n<li class=\"mm-item association_id_m900033\">\n<a
+        href=\"/Used/Bass.gc\">Used Bass</a>\n</li>\n<li class=\"mm-item association_id_m1520003\">\n<a
+        href=\"/Used/Drums-Percussion.gc\">Used Drums</a>\n</li>\n<li class=\"mm-item
+        association_id_m1520004\">\n<a href=\"/Used/Live-Sound.gc\">Used Live Sound</a>\n</li>\n<li
+        class=\"mm-item association_id_m1520005\">\n<a href=\"/Used/Recording-Gear.gc\">Used
+        Recording</a>\n</li>\n<li class=\"mm-item association_id_m1520006\">\n<a href=\"/Used/Accessories.gc\">Used
+        Accessories</a>\n</li>\n<li class=\"mm-item association_id_m1580209\">\n<a
+        href=\"/Used/Keyboards-MIDI.gc\">Used Keyboards &amp; MIDI</a>\n</li>\n</ul>\n</div>\n</div>\n</nav>\n</div>\n</div>\n</div>\n<div
+        id=\"mfPromoContainer\">\n</div>\n<div id=\"main\">\n<!-- Layout - LayoutDynamicSlot
+        -->\n<!-- Layout - Tag -->\n<!-- Function - BreadCrumbs Start -->\n<ol class=\"breadcrumbs\">\n<li><a
+        href=\"/\">Home</a></li>\n<li class=\"active\">\n&quot;grosh electrajet&quot;</li>\n</ol>\n<!--
+        Function - BreadCrumbs End -->\n<!-- Layout - Tag -->\n<!-- Layout - Tag -->\n<div
+        class=\"gridRow\" ><!-- Layout - LayoutDynamicSlot -->\n<!-- Layout - Tag
+        -->\n<div class=\"span24\" ><!-- Layout - Tag -->\n<!-- Function - Category
+        Description -->\n<!-- Layout - Tag -->\n<div id=\"searchTabs\">\n<ol id=\"browseTopTabs\"
+        class=\"tabs noImage\">\n<li class=\"browseAllResults first-child txt\"><a
+        class=\"selected\" id=\"search_tab_all\">\nAll Products<strong>&nbsp;(0)</strong><span></span>\n</a></li>\n</ol>\n<var
+        class=\"hidden\" id=\"selectedFacetTabName\">all</var>\n<div class=\"tabContent\"
+        id=\"browseAllResults\">\n<div id=\"compareForm\" class=\"productGroup hasChrome
+        sharp-tl\">\n<div id=\"searchNoneReturned\" >\n<div id=\"searchFormContainer\">\n<h3
+        id=\"searchAgain\">No Results Found</h3>\n</div>\n<h4 id=\"searchTips\">Quick
+        Search Tips:</h4>\n<ol>\n<li>Try just one or two terms.</li>\n<li>Instead
+        of using the search box, find your gear by clicking the product category tabs
+        and other navigation links.</li>\n<li>Try varying the spelling to see if the
+        word is spelled correctly.</li>\n<li>Check out the items below that are suggested
+        based on your search terms.</li>\n</ol>\n<p>We'd love to help you find what
+        you're looking for-call us anytime at <strong>866-498-7882</strong>.</p>\n</div>\n</div>\n</div>\n</div>\n</div></div><!--
+        Layout - Tag -->\n<!-- Function - PageOmnitureTagging -->\n<!-- Pass params
+        configured in the ExperienceManager into this droplet-->\n</div>\n<!-- Layout
+        - LayoutDynamicSlot -->\n<!-- Layout - Tag -->\n<div class=\"hidden\">\n<var
+        id=\"refreshMiniCart\"></var>\n</div>\n<var id=\"omnitureReportData\" class=\"omnitureData
+        hidden\">\n{\"reportSuiteIds\":\"guitarcenterprod\",\"pageName\":\"[gc] shop\",\"eVar3\":\"shop\",\"prop2\":\"[gc]
+        shop\",\"prop18\":\"relevance\",\"prop1\":\"[gc] shop\",\"events\":\"event2\",\"prop17\":\"sort
+        by\",\"evar51\":\"default: united states\",\"prop10\":\"condition\",\"prop11\":\"used\",\"prop5\":\"[gc]
+        shop\",\"prop6\":\"[gc] shop\",\"prop3\":\"[gc] shop\",\"prop4\":\"[gc] shop\",\"eVar1\":\"grosh
+        electrajet\",\"prop9\":\"0\",\"campaign\":\"gcdirectsourcecode1\",\"channel\":\"[gc]
+        shop\",\"linkInternalFilters\":\"javascript:,guitarcenter.com\",\"prop7\":\"[gc]
+        site section\",\"prop8\":\"grosh electrajet\"}</var>\n<noscript><img\nsrc=\"http://guitarcenter.112.2O7.net/b/ss/guitarcenterprod/1/H.20.3--NS/0\"\nheight=\"1\"
+        width=\"1\" border=\"0\" alt=\"adobe analytics\" /></noscript>\n<script type=\"text/javascript\">\nif(typeof(testAndTarget)!='undefined')
+        testAndTarget();\n</script>\n<!-- ===== START [FOOTER] ===== -->\n<!-- start
+        [footer] -->\n<footer id=\"gc_footer\">\n<input id=\"currentURIInput\" type=\"hidden\"
+        value=\"/Used/?Ntt=grosh%20electrajet&amp;Ns=r\"/>\n<nav id=\"footer_nav\">\n<div
+        id=\"nav_container\">\n<ul class=\"gc_linkList\">\n<li><span></span> <a href=\"/pages/Guitar-Center-Shipping.gc\">Free
+        Shipping*</a></li>\n<li><span></span> <a href=\"/pages/return-policy\">Easy
+        Returns</a></li>\n<li><span></span> <a href=\"/pages/gc-advantages#pickup-store\">Pick
+        Up in Store</a></li>\n<li><span></span> <a href=\"/pages/Pro-Coverage.gc\">Pro
+        Coverage</a></li>\t\n</ul>\n<div id=\"gc_feedback\"><a href=\"#\" class=\"footer_oo\">+
+        Give Feedback</a></div> </div>\n</nav>\n<div id=\"footer_content\">\n<div
+        id=\"gc_footer_row1\">\n<ul class=\"gc_footer_promos\">\n<li class=\"gc_grid_big\">\r\t\t\t\t\t\t\t\t\t<h3>Financing</h3>\r\t\t\t\t\t\t\t\t\t<img
+        src=\"//static.guitarcenter.com/img/brand/gc/cmn/icon-gc-creditcard.png\"
+        alt=\"Guitar Center Gear Card\" border=\"0\" height=\"76\" title=\"Guitar
+        Center Gear Card\" width=\"121\">\r\t\t\t\t\t\t\t\t\t<p>\r\t\t\t\t\t\t\t\t\t\t<a
+        href=\"/pages/Finance--Special-Financing-Offers\">\r\t\t\t\t\t\t\t\t\t\tGEAR
+        CARD<br>\r\t\t\t\t\t\t\t\t\t\tGet the financing<br>\r\t\t\t\t\t\t\t\t\t\tyou
+        need now <span></span>\r\t\t\t\t\t\t\t\t\t\t</a>\r\t\t\t\t\t\t\t\t\t</p>\r\t\t\t\t\t\t\t\t</li>\r\t\t\t\t\t\t\t\t<li
+        class=\"gc_grid_small\">\r\t\t\t\t\t\t\t\t\t<h3>Buyer's Guide</h3>\r\t\t\t\t\t\t\t\t\t<img
+        src=\"//static.guitarcenter.com/img/brand/gc/cmn/icon-catalog.png\" alt=\"Guitar
+        Center Catalog\" border=\"0\" height=\"92\" title=\"Guitar Center Catalog\"
+        width=\"53\">\r\t\t\t\t\t\t\t\t\t<p>\r\t\t\t\t\t\t\t\t\t\t<a href=\"/pages/Buyers-Guide\">\r\t\t\t\t\t\t\t\t\t\tGC
+        CATALOG<br>\r\t\t\t\t\t\t\t\t\t\tThe latest gear, deals, artist interviews
+        and more <span></span>\r\t\t\t\t\t\t\t\t\t\t</a>\r\t\t\t\t\t\t\t\t\t</p>\t\t\t\t\t\t\t\t\r\t\t\t\t\t\t\t\t</li><li
+        class=\"gc_grid_small\">\n<h3>GC Email News</h3>\n<p>\nSign up for super savings<br>\nto
+        your inbox\n</p><form id=\"gcNewsletterForm\" method=\"GET\" action=\"/pages/manage-subscription\"
+        >\n<fieldset>\n<label class=\"inlineLabel\" for=\"Email\">Enter Email</label>\n<input
+        type=\"email\" id=\"Email\" name=\"Email\" value=\"\" class=\"inlineLabel\">\n<input
+        type=\"submit\" id=\"btnJoinNow\" class=\"button primary\" value=\"Sign Up\">\n</fieldset>\n</form>\n</li>\n</ul>\n<div
+        id=\"gc_social_links\" class=\"gc_grid_leftBorderLeft\">\n<h3>Connect With
+        Us</h3>\n<ul id=\"gc_social_media_icons\">\n\t<li id=\"gc_social_fb\"><a href=\"http://www.facebook.com/GuitarCenter\"
+        target=\"_blank\">Facebook</a></li>\n\t<li id=\"gc_social_tw\"><a href=\"http://twitter.com/guitarcenter\"
+        \ target=\"_blank\">Twitter</a></li>\n\t<li id=\"gc_social_yt\"><a href=\"http://www.youtube.com/guitarcenter\"
+        target=\"_blank\">YouTube</a></li>\n\t<li id=\"gc_social_in\"><a href=\"http://instagram.com/guitarcenter#\"
+        target=\"_blank\">Instagram</a></li>\n</ul>\t<div id=\"gc_country_changer\"
+        class=\"country-selector\" >\n<img class=\"countryFlag\" src=\"//static.guitarcenter.com/img/cmn/international/flags_small/US.gif\"
+        alt=\"US Flag\" height=\"14\" title=\"US Flag\" width=\"21\">\n<span class=\"countryName\">United
+        States</span>&nbsp;\n<span class=\"magicLink change-country countryChooser\"
+        data-url=\"\" id=\"intPayment\">\nChange Country\n<div id=\"contextSwithConfirm\"></div>\n</span>\n</div>\n</div>\n</div>\n<div
+        id=\"gc_footer_row2\">\n<ul class=\"gc_footer_promos\">\n<li class=\"gc_grid_big\">\n<h3>Account</h3>\r<ul>\r\t<li><a
+        href=\"/trackorder/\">Order History</a></li>\r\t<li><a href=\"/pages/return-policy\">Returns</a></li>\r\t<li><a
+        href=\"/wishlists/\">Wish List</a></li>\r\t<li><a href=\"/pages/manage-subscription\">Email
+        Preferences</a></li>\r</ul>\t</li>\n<li class=\"gc_grid_small\">\n<h3>Features</h3>\r<ul>\r\t\t<!--
+        NOTE: May add this back later:R.C.S.: 04.01.15 li><a href=\"\">Gift Guide</a></li
+        -->\r\t\t<li><a href=\"/Rebates.gc\">Rebates</a></li>\r\t\t<li><a href=\"/pages/financing#layaway\">Layaway</a></li>\r\t\t<li><a
+        href=\"/pages/corporate-giving\">Donations</a></li>\r\t\t<li><a href=\"/pages/gc-advantages#pro-coverage\">Pro
+        Coverage</a></li>\r\t\t<li><a href=\"/pages/affiliate-program\">Affiliate
+        Program</a></li>\r\t\t<li><a href=\"/pages/press-room\">Press Room</a></li>\r\t\t<li><a
+        href=\"/pages/Buyers-Guide\">Catalog</a></li>\t\t\t\t\t\t\t\t\t\r</ul>\t\t\t</li>\n<li
+        class=\"gc_grid_small\">\n<h3>Support</h3>\r<ul>\r\t<li><a href=\"/customer-service/\">Service
+        &amp; Support</a></li>\r\t<li><a href=\"/pages/company-information\">About</a></li>\r\t<li><a
+        href=\"/pages/careers\">Careers</a></li>\r\t<li><a href=\"/sitemap/\">Site
+        Map</a></li>\r      <li><a href=\"/?mobile=yes\">Mobile Site</a></li>\t\r</ul>\t\t</li>\n</ul>\n<div
+        class=\"gc_grid_leftBorderLeft\">\n<div id=\"gc_banner_bbbTrust\">\n<span
+        class=\"magicLink targetBlank\" data-url=\"http://www.bbb.org/\"><img src=\"//static.guitarcenter.com/img/brand/gc/cmn/icon-bbb.png\"
+        alt=\"Better Business Bureau\" border=\"0\" height=\"141\" title=\"Better
+        Business Bureau\" width=\"117\"></span>\n</div>\n<!-- Google Trusted Store
+        -->\n<div id=\"GTS_CONTAINER\"></div>\n</div>\n<a href=\"/\" id=\"logo_footer\"
+        title=\"guitarcenter.com\"><img src=\"//static.guitarcenter.com/img/brand/gc/cmn/gc_footer_logo.png\"
+        alt=\"guitarcenter.com\" height=\"63\" width=\"96\"></a>\n</div>\n<div id=\"copyright_row\">\n<p>\n<span>Copyright
+        &copy; Guitar Center, Inc.</span>\n-\n<span>All Rights Reserved.</span>\n-\n<a
+        href=\"/pages/terms-of-use\">Terms of Use</a>\n|\n<a href=\"/pages/privacy-rights-policy\">Your
+        Privacy Rights</a>\n|\n<a href=\"/pages/purchase-terms\">Purchase Terms &amp;
+        Conditions</a>\n|\n<a href=\"/pages/ca-transparency-supply-chain\">California
+        Transparency In Supply Chains Act</a>\n</p>\n</div>\n</div>\n</footer>\n<!--
+        end [footer] -->\n<div class=\"accoutrements top\"></div>\n<div class=\"accoutrements
+        bot\"></div>\n<input type=\"hidden\" id=\"unica_UN\"\nvalue=\"\" />\n<input
+        type=\"hidden\" id=\"unica_newtofile\"\nvalue=\"null\" />\n<div id=\"confirmCountryChange\">\n<div
+        id=\"arrowFlag\"></div>\n<div>\n<span class=\"modalHeading\">You are changing
+        the Ship-To country.</span>\n</div>\n<div>\n<p>\nOur product catalog varies
+        by country due to manufacturer\nrestrictions. If you change the Ship-To country,
+        some or\nall of the items in your cart may not ship to the\nnew destination.\n</p>\n</div>\n<div
+        id=\"bottom-links\">\n<input id=\"btnChangeCountry\" type=\"button\" value=\"Change
+        Country\" />  <span class=\"magicLink close\" data-url=\"#\">Cancel</span>\n</div>\n<var
+        class=\"hidden omnitureData\">\n{\"reportSuiteIds\":\"\",\"prop2\":\"\",\"prop1\":\"\",\"prop5\":\"\",\"prop6\":\"\",\"prop3\":\"\",\"prop4\":\"\",\"channel\":\"\",\"linkInternalFilters\":\"\"}</var>\n</div>\n<var
+        id=\"gcHeaderContentLoaded\" class=\"hidden\"></var>\n<div id=\"nav-content\">\n</div>\n<!--
+        end [footer] -->\n<var id=\"bundleTemplate\" class=\"hidden\">category</var>\n<script
+        type=\"text/javascript\">\n//must wait until the globalHeader.js has loaded
+        since it has jQuery\n/*********************\n* FIRE CUSTOM HEADER JS - once
+        the header script and flyoutmenu DOM has loaded\n*********************/\n$(document).trigger('headerInit');\n//make
+        sure this page isn't loading into mobile site via ajax\n$(document).trigger('preDesktopJavascriptIncludes');\n//convert
+        magic links now that the DOM has loaded\n//header specific magicLinks are
+        converted as part of global_site.js and header_v2.js\nmagicSpanLinks();\nvar
+        captureOnLoad = false;\nfunction initPostLoad(){\ncaptureOnLoad = true;\n}\nif(window.addEventListener)
+        {\nwindow.addEventListener('load', initPostLoad, false);\n}else if(window.attachEvent){\nwindow.attachEvent('onload',
+        initPostLoad);\n}\n//initialize a new ScriptLoader object to load the main
+        JS include files and functions\nvar scriptLoader = new ScriptLoader();\nscriptLoader.push(\"http://static.guitarcenter.com/cmn/productionJs/global.js?vId=GCCOM_1.1.22&cb=6\",
+        true);\n\nscriptLoader.push(\"http://static.guitarcenter.com/cmn/productionJs/category.js?vId=GCCOM_1.1.22&cb=6\",
+        true);\n\nscriptLoader.push(function() {\nfunction loadScript(){\n$.ajax({\nurl:
+        'http://static.guitarcenter.com/cmn/productionJs/3rdPartyGlobalPostLoad.js?vId=GCCOM_1.1.22&cb=6',\ndataType:
+        \"script\",\ncache: true\n});\n}\nif(captureOnLoad){\nloadScript();\n}else{\nif(window.addEventListener)
+        {\nwindow.addEventListener('load', loadScript, false);\n}else if(window.attachEvent){\nwindow.attachEvent('onload',
+        loadScript);\n}\n}\n}, false);\n\nscriptLoader.loadAndRunScriptsInOrder();\n//Adobe
+        Dynamic Tag Management - Footer Embed\n_satellite.pageBottom();\n</script>\n<var
+        class=\"hidden\" id=\"rootURL\"></var>\n<var id=\"browseTemplate\" class=\"hidden\">cat|</var>\n</body>\n</html>\n"
+    http_version: 
+  recorded_at: Tue, 17 Nov 2015 20:59:40 GMT
+recorded_with: VCR 2.9.2

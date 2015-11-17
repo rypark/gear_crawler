@@ -1,0 +1,768 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://www.guitarcenter.com/Used/?Ns=r&Ntt=ludwig%20supraphonic
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Server:
+      - Apache
+      X-Dynatrace-Js-Agent:
+      - 'true'
+      X-Atg-Version:
+      - version=QVRHUGxhdGZvcm0vMTEuMXAx
+      X-International-Origin:
+      - 'false'
+      X-Origin-Country-Code:
+      - US
+      X-Mfi-Route:
+      - atg15
+      X-Is-Mobile:
+      - 'false'
+      Pragma:
+      - no-cache
+      Cache-Control:
+      - no-cache
+      Expires:
+      - Tue, 04 Dec 1993 21:29:02 GMT
+      Content-Language:
+      - en-US
+      X-Frame-Options:
+      - SAMEORIGIN
+      X-Cnection:
+      - close
+      Content-Type:
+      - text/html;charset=UTF-8
+      Vary:
+      - Accept-Encoding
+      Date:
+      - Tue, 17 Nov 2015 18:02:40 GMT
+      Transfer-Encoding:
+      - chunked
+      Connection:
+      - Transfer-Encoding
+      - keep-alive
+      Set-Cookie:
+      - JSESSIONID=VsYnHoRmOfxF0ZZ-Jaa3gh7b.atg15; Path=/
+      - MobileUser=false; Expires=Wed, 18-Nov-2015 18:02:42 GMT; Path=/
+      - dtCookie=FF98369AAE5B179DBA7E13FE7DFA0AC0|d3d3Lmd1aXRhcmNlbnRlci5jb218MQ;
+        Path=/; Domain=.guitarcenter.com
+    body:
+      encoding: UTF-8
+      string: "<!DOCTYPE html>\n<html xmlns:fb=\"https://www.facebook.com/2008/fbml\"
+        xml:lang=\"en\" lang=\"en\">\n<head>\n<!-- Head - Dynamic Meta Data -->\n<title>Used
+        Musical Instruments &amp; Gear | Guitar Center</title>\n<meta name=\"description\"
+        content=\"Save even more on guitars, basses, drums, pro audio and accessories.
+        Used musical instruments bought and sold daily so check back often.\"/>\n<!--
+        Head - Configurable Meta Data -->\n<meta name=\"pageTemplate\" content=\"category\"
+        />\n<title>Used  | Guitar Center</title>\n<script type=\"text/javascript\"
+        src=\"/dtagent623_jnr23_1048.js\" data-dtconfig=\"rid=RID_2135274506|rpid=1096594833|tp=500,50,0|reportUrl=/dynaTraceMonitor|domain=guitarcenter.com\"></script><link
+        rel=\"canonical\" href=\"http://www.guitarcenter.com/Used/\"/>\n<meta http-equiv=\"Content-type\"
+        content=\"text/html; charset=UTF-8\" />\n<meta http-equiv=\"Content-Language\"
+        content=\"en-us\" />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"
+        />\n<meta name=\"format-detection\" content=\"telephone=no\" />\n<meta id=\"headerImageItemProp\"
+        itemprop=\"image\" content=\"http://static.guitarcenter.com/img/brand/gc/cmn/gc_logo_icon_square.jpg\"
+        />\n<link id=\"headerImageSrc\" rel=\"image_src\" href=\"http://static.guitarcenter.com/img/brand/gc/cmn/gc_logo_icon_square.jpg\"
+        />\n<!-- ===== START [STYLESHEETS] ===== -->\n<!-- START [COMMON] -->\n<meta
+        name=\"viewport\" content=\"width=976\" />\n<link href=\"http://static.guitarcenter.com/cmn/brand/gc/productionCss/global.css?vId=GCCOM_1.1.22&cb=6\"
+        rel=\"stylesheet\" type=\"text/css\" />\n<!-- end [common] -->\n<!-- START
+        [PAGE] -->\n<link href=\"http://static.guitarcenter.com/cmn/brand/gc/productionCss/category.css?vId=GCCOM_1.1.22&cb=6\"
+        rel=\"stylesheet\" type=\"text/css\" />\n<!-- end [page] -->\n<!-- START [IE]
+        -->\n<!--[if IE 9]>\n<link href=\"http://static.guitarcenter.com/cmn/brand/gc/productionCss/ie9.css?vId=GCCOM_1.1.22&cb=6\"
+        rel=\"stylesheet\" type=\"text/css\" />\n<![endif]-->\n<!--[if IE 8]>\n<link
+        href=\"http://static.guitarcenter.com/cmn/brand/gc/productionCss/ie8.css?vId=GCCOM_1.1.22&cb=6\"
+        rel=\"stylesheet\" type=\"text/css\" />\n<![endif]-->\n<!--[if IE 7]>\n<link
+        href=\"http://static.guitarcenter.com/cmn/brand/gc/productionCss/ie7.css?vId=GCCOM_1.1.22&cb=6\"
+        rel=\"stylesheet\" type=\"text/css\" />\n<![endif]-->\n<!-- end [ie] -->\n<link
+        href=\"http://static.guitarcenter.com/cmn/brand/gc/productionCss/print.css?vId=GCCOM_1.1.22&cb=6\"
+        rel=\"stylesheet\" type=\"text/css\" media=\"print\" />\n<!-- end [stylesheets]
+        -->\n<var id=\"pageData\" style=\"display:none\">\n{\n\"siteName\" : \"/gc\",\n\"sourceCodeId\"
+        : \"262607300\",\n\"sourceName\" : \"GCDIRECTSOURCECODE1\",\n\"sourceSegment\"
+        : \"Direct\",\n\"contextPath\" : \"\",\n\"unicaEnv\" : \"site-prod\",\n\"staticContentUrl\"
+        : \"http://static.guitarcenter.com\",\n\"styleStaticContentUrl\" : \"http://static.guitarcenter.com\",\n\"catalogAssetStaticContentUrl\"
+        : \"http://static.guitarcenter.com\",\n\"scene7StaticContentUrl\" : \"http://media.guitarcenter.com/is/image/\",\n\"scene7BasePath\"
+        : \"MMGS7/\",\n\"staticVersion\" : \"GCCOM_1.1.22&cb=6\",\n\"versionParam\"
+        : \"?vId=GCCOM_1.1.22&cb=6\",\n\"customerService\" : \"866-498-7882\",\n\"profileID\"
+        : \"202158215\",\n\"contentKey\": \"Used\",\n\"isInternational\": \"false\",\n\"isInternationalCommerceEnabled\":
+        \"true\",\n\"currencySymbol\": \"$\",\n\"profileCountryCode\": \"US\",\n\"profileCurrencyCode\":
+        \"USD\",\n\n\"oLOnExitNumber\": \"0\",\n\"liveChat\" : \"true\",\n\"cookieLoggedIn\"
+        : false,\n\"fullyLoggedIn\" : false,\n\"welcomeMat\" : \"false\",\n\"powerReviewsUrl\"
+        : \"http://static.guitarcenter.com/\",\n\"prodEnvEnabled\" : true,\n\"isMobile\":\"false\",\n\"madMobileEnabled\"
+        : false,\n\"janrainAppDomain\":\"https://login.guitarcenter.com\",\n\"janrainAppId\":\"fpfceefgnphmdjjkhnio\",\n\"janrainAppName\":\"login.guitarcenter.com\"\n}\n</var>\n<script
+        src=\"https://static.guitarcenter.com/static/gc/js/preload.js?staticVID=GCCOM_1.1.22&cb=6\"></script>\n<script
+        type=\"text/javascript\" src=\"http://static.guitarcenter.com/cmn/productionJs/globalHeader.js?vId=GCCOM_1.1.22&cb=6\"></script>\n<script
+        src=\"//assets.adobedtm.com/d9f8b1d39bf634105995a2857c408c129f44bfb7/satelliteLib-07f62b205923b8edfb43ac03a58910b97c29a600.js\"></script>\n</head>\n<body
+        class=\"category used  isDesktop\">\n<var id=\"queryString\" class=\"hidden\">?pageName=used-page&amp;N=1076</var>\n<var
+        class=\"hidden\" id=\"suppliedSkuId\"></var>\n<var class=\"hidden\" id=\"product_id\"></var>\n<var
+        class=\"hidden\" id=\"itemType\"></var>\n<var id=\"ent_product_id\" class=\"hidden
+        sku\"></var>\n<var class=\"hidden fn\">&nbsp;</var>\n<var class=\"hidden\"
+        id=\"sellable_skus\"></var>\n<!-- Layout - LayoutDynamicSlot -->\n<!-- Layout
+        - Tag -->\n<!-- sourceCodeId:262607300\nsourceName:GCDIRECTSOURCECODE1\nexpirationDate:2015-12-01-->\n<!--
+        for old navigation, swap with header.jsp -->\n<var id=\"testAndTargetEnabled\"
+        class=\"hidden\">false</var>\n<div class=\"mboxDefault\"></div>\n<!-- This
+        will need to move on the footer - footer.jsp file for now since Omniture tag
+        got moved on the footer: R.C.S.: 10.08.14\n<script type=\"text/javascript\">\nif(typeof(testAndTarget)!='undefined')
+        testAndTarget();\n</script>\n-->\n<div id=\"blackBarPromo\"><a href=\"/Countdown-to-Black-Friday.gc\"
+        class=\"promoLink\"><span class=\"promoCopy\">Countdown to Black Friday: New
+        Deals Daily</span><span class=\"promoAction hover\">Shop now &#187;</span></a></div><link
+        rel=\"stylesheet\" type=\"text/css\" href=\"http://static.guitarcenter.com/static/gc/home/Holiday/GC-MD-CS-style_v2.css\"><header
+        id=\"gc-header\" class=\"clearfix\">\n<section id=\"header_valueProps\">\n<div
+        class=\"headerContainer\">\n<ul id=\"valueProps_list\">\n<li class=\"\"><a
+        href=\"/pages/Guitar-Center-Shipping.gc\" id=\"headerValuePropLink_freeShipping\"><span
+        class=\"valueProps_icon\"></span>Free Shipping Details</a></li>\n<li class=\"\"><a
+        href=\"/Gift-Card\" id=\"headerValuePropLink_giftCard\"><span class=\"valueProps_icon\"></span>Gift
+        Card</a></li>\n<li id=\"headerPromo\" class=\"modeDomestic\">\nDON'T SEE THE
+        DEAL YOU WANT? <em>CALL NOW</em></li>\n<li id=\"contactGC\">\n<span id=\"contact_wrap\"><span
+        id=\"callCenterNumber\">866-498-7882</span>\n\n&nbsp;<span class=\"unbold\">or</span>
+        <span class=\"magicLink chatButton newWindow button secondary\" title=\"ContactUs\"
+        ><span id=\"link-ChatText\">Chat Now</span></span>\n</span>\n</li>\n</ul>\n</div>\n</section>\n<section
+        id=\"header_tools\">\n<div class=\"headerContainer\">\n<div id=\"brand\" class=\"xmas\">\n<a
+        class=\"gl\"  href=\"/\">\n<strong id=\"logo\">Guitar Center</strong>\n<em
+        id=\"tagline\">Best Selection, Price &amp; Service. Guaranteed.</em>\n<span></span>\n</a>\n</div>\n<div
+        id=\"search-form-wrap\">\n<form id=\"search-form\" action=\"/search\" method=\"get\">\n<input
+        type=\"hidden\" name=\"Ns\" value=\"r\"/>\n<fieldset>\n<label for=\"searchTerm\"
+        class=\"inlineLabel\">Search</label>\n<div class=\"txt txtSearch\">\n<input
+        class=\"typeAheadEnabled\" id=\"searchTerm\" name=\"Ntt\" type=\"text\" value=\"ludwig
+        supraphonic\"/>\n</div>\n<input type=\"submit\" value=\"Search\" id=\"searchSubmit\"
+        class=\"btnSearch img\" />\n<div id=\"note\"></div>\n</fieldset>\n</form>\n</div>\n<div
+        id=\"widgets-wrap\">\n<div class=\"widgetsPositioning\">\n<ul id=\"gc-header-tools\">\n<li
+        class=\"storeLocator\">\n<span class=\"headerInfoLink\">\n<span class=\"magicLink
+        storeFinderLink\" data-url=\"http://stores.guitarcenter.com\"><span></span>Store
+        Finder</span>\n<div id=\"internationalError\">You must set your country to
+        US to select a store.</div>\n</span>\n</li>\n<li id=\"shopping-login\">\n<span
+        class=\"headerInfoLink\">\n<span id=\"userLoggedWrap\">\n<span class=\"magicLink
+        nav-login\" data-url=\"/myaccount/login\">\nHi,\nSign In</span></span>\n<div
+        id=\"myAccountLink\">\n<a href=\"/myaccount/overview\" class=\"nav-myaccount\">My
+        Account</a><div class=\"downArrow\"></div>\n<div id=\"nav-myaccount\" class=\"dropdown-content\">\n<div
+        class=\"content-base\">\n<section id=\"myAccount-options\">\n<ul>\n<li><a
+        href=\"/myaccount/overview\">Account Overview</a></li>\n<li><a href=\"/trackorder\">Your
+        Orders</a></li>\n<li><span class=\"magicLink\" data-url=\"/wishlists\">Your
+        Wish List</span></li>\n<li><a title=\"ContactUs\" href=\"/customer-service\">Need
+        Help?</a></li>\n</ul>\n</section>\n<section id=\"logMyAccountWrap\">\n<a href=\"/myaccount/login\"
+        id=\"btnLogMyAcct\" class=\"button primary\">\nSign In</a>\n</section>\n<section
+        id=\"myAccount-createNew\">\n<ul>\n<li><div class=\"myAccountListLabel\">New
+        Customer?</div></li>\n<li><a href=\"/myaccount/login\">Create an Account</a></li>\n</ul>\n</section>\n</div>\n</div>\n</div>\n</span>\n</li>\n<li
+        id=\"cart-link\">\n<span class=\"headerInfoLink\">\n<span class=\"magicLink
+        nav-cart\" data-url=\"/cart\"><span><var id=\"miniCartTotal\"> </var></span>
+        <span class=\"cartText\">Cart<div class=\"downArrow\"></div></span></span>\n<div
+        id=\"nav-cart\" class=\"dropdown-content singleClickTouchNav\">\n<var id=\"cartTimeStamp\">Tue,
+        17 Nov 2015 18:02:42 GMT</var>\n<div class=\"noItems\">\n</div>\n<div class=\"content-base\">\n<div
+        class=\"noItems\">\n<strong>Your Cart: 0 item</strong><br>\nYour shopping
+        cart is currently empty<br><br>\n<strong>Sign-in to your account</strong><br>\n<a
+        class=\"button primary\" href=\"/myaccount/overview\" id=\"btnCartSignIn\">Sign
+        In</a>\n<var id=\"cartItems\">0</var>\n</div>\n</div>\n</div>\n</span>\n</li>\n</ul>\n</div>\n</div>\n</div>\n</section>\n</header>\n<div
+        id=\"main_nav_wrap\">\n<div id=\"navBar\">\n<div class=\"headerNav\">\n<nav
+        id=\"gc_mainNav\">\n<div class=\"headerContainer\">\n<div class=\"container\">\n<ul
+        class=\"gc_linkList\">\n<li>\n<a href=\"/\" >\nProduct<span></span>\n</a>\n</li>\n<li
+        class=\"active\">\n<span class=\"magicLink\" data-url=\"/Used/\" >\nUsed Gear<span></span>\n</span>\n</li>\n<li>\n<a
+        href=\"/Platinum/\" >\nPlatinum<span></span>\n</a>\n</li>\n<li>\n<a href=\"/Vintage/\"
+        >\nVintage<span></span>\n</a>\n</li>\n<li>\n<a href=\"/Outlet/\" >\nOutlet<span></span>\n</a>\n</li>\n<li>\n<a
+        href=\"/GC-Pro/\" >\nGC Pro<span></span>\n</a>\n</li>\n<li>\n<a href=\"/Services\"
+        >\nServices<span></span>\n</a>\n</li>\n<li>\n<a href=\"http://guitarcenter.tumblr.com/\"
+        target='_blank'>\nGC Music<span></span>\n</a>\n</li>\n</ul>\n</div>\n</div>\n</nav>\n<nav
+        id=\"gc_subNav\">\n<div class=\"headerContainer\">\n<div id=\"pane_products\"
+        class=\"container\" style=\"overflow:visible;\">\n<ul class=\"gc_linkList
+        megamenu\">\n<li class=\"mm-item association_id_m1580220\">\n<a href=\"/Used/#mainPageHeader\">All
+        Used Gear</a>\n</li>\n<li class=\"mm-item association_id_m1520002\">\n<a href=\"/Used/Guitars.gc\">Used
+        Guitars</a>\n</li>\n<li class=\"mm-item association_id_m1520001\">\n<a href=\"/Used/Amplifiers-Effects.gc\">Used
+        Amps &amp; Effects</a>\n</li>\n<li class=\"mm-item association_id_m900033\">\n<a
+        href=\"/Used/Bass.gc\">Used Bass</a>\n</li>\n<li class=\"mm-item association_id_m1520003\">\n<a
+        href=\"/Used/Drums-Percussion.gc\">Used Drums</a>\n</li>\n<li class=\"mm-item
+        association_id_m1520004\">\n<a href=\"/Used/Live-Sound.gc\">Used Live Sound</a>\n</li>\n<li
+        class=\"mm-item association_id_m1520005\">\n<a href=\"/Used/Recording-Gear.gc\">Used
+        Recording</a>\n</li>\n<li class=\"mm-item association_id_m1520006\">\n<a href=\"/Used/Accessories.gc\">Used
+        Accessories</a>\n</li>\n<li class=\"mm-item association_id_m1580209\">\n<a
+        href=\"/Used/Keyboards-MIDI.gc\">Used Keyboards &amp; MIDI</a>\n</li>\n</ul>\n</div>\n</div>\n</nav>\n</div>\n</div>\n</div>\n<div
+        id=\"mfPromoContainer\">\n</div>\n<div id=\"main\">\n<!-- Layout - LayoutDynamicSlot
+        -->\n<!-- Layout - Tag -->\n<div class=\"gridRow\" ><!-- Layout - Tag -->\n<div
+        ><!-- Function - HTML Text Area -->\n<link href=\"http://static.guitarcenter.com/cmn/brand/gc/productionCss/landingpage_used.css?vId=GCCOM_1.1.22&cb=6\"
+        rel=\"stylesheet\" type=\"text/css\"/></div><!-- Layout - Tag -->\n<div class=\"backgroundimage\"
+        ></div><!-- Layout - Tag -->\n<div class=\"herowhiteBG\" ><!-- Layout - Tag
+        -->\n<div id=\"heroSection\" class=\"span30\" ><!-- Layout - Tag -->\n<div
+        class=\"heroLeftSection\" ><!-- Function - HTML Text Area -->\n<div class=\"hero-logo\"><h1><img
+        src=\"http://static.guitarcenter.com/static/gc/lpages/platinum_used_outlet_vintage/usedgear_title_logo.png\"
+        alt=\"Used Musical Instruments & Gear\" width=\"418\" height=\"152\"></h1></div><div
+        class=\"content\"><p>We buy, sell and trade used gear. See our entire inventory
+        or used gear in every department, from every location in the country, all
+        in one place. If it's out there, chances are it'll come through one of our
+        stores.</p></div><a id=\"btnShopAll\" class=\"button secondary\" href=\"/Used/#mainPageHeader\">Shop
+        All Used</a></div><!-- Layout - Tag -->\n<div class=\"heroRightSection\" ><!--
+        Layout - Tag -->\n<div class=\"shopByStore\" ><!-- Layout - Tag -->\n<!--
+        Function - HTML Text Area -->\n<div id=\"storeSection\" class=\"storeSection\"><h3><span></span>Shop
+        By Store</h3><p>See what Used gear is available at your local Guitar Center.</p><div
+        class=\"storeImage\"><img src=\"http://static.guitarcenter.com/img/brand/gc/cmn/storeImg.png\"></div><!--
+        Layout - Tag -->\n<div class=\"shopInfo displayStoreList\">\n<span id=\"storeCount\">6</span>&nbsp;Store(s)
+        Within <span class=\"radius\">100</span>\n<input type=\"text\" maxlength=\"3\"
+        value=\"100\" name=\"radius\" class=\"distance readonly\" readonly> mile(s)
+        of <input type=\"text\" value=\"85001\" name=\"postalCode\" class=\"postalCode
+        readonly\" placeholder=\"zip code\" readonly>\n<input type=\"hidden\" id=\"hidRadiusRange\"
+        name=\"hidRadiusRange\" value=\"100\" />\n<input type=\"hidden\" id=\"hidZipAndCityState\"
+        name=\"hidZipAndCityState\" value=\"85001\" />\n<input type=\"hidden\" id=\"seoUrl\"
+        name=\"seoUrl\" value=\"/Used/?Ns=r&Ntt=ludwig+supraphonic\" />\n<input type=\"hidden\"
+        id=\"N\" name=\"N\" value=\"33571 33467 33260 33508 33564 33538 \" />\n<input
+        type=\"hidden\" id=\"filterStore\" name=\"filterStore\" value=\"true\" />\n<a
+        class=\"changeStore change\" href=\"#\">Change</a>\n</div>\n<div class=\"shopNow\">\n<a
+        id=\"btnShopNow\" style=\"\" class=\"shopsellNow\" href=\"/Used/?Ns=r&amp;Ntt=ludwig+supraphonic#mainPageHeader&amp;radius=100&amp;postalCode=85001&amp;N=33571+33467+33260+33508+33564+33538+#mainPageHeader\">Shop
+        Now\n</a></div>\n<!-- Layout - Tag -->\n<!-- Function - HTML Text Area -->\n</div></div><!--
+        Layout - Tag -->\n<div class=\"sellYourGear\" ><!-- Function - HTML Text Area
+        -->\n<div class=\"sellgearInfo\"><h3>Sell Your Used Gear</h3>Find out more
+        about selling your used gear and start the process.<br><div class=\"sellNow\"><a
+        id=\"btnSellNow\" class=\"shopsellNow\" href=\"/Used/Sell-Your-Gear.gc\">Sell
+        Now</a></div></div><div class=\"salesperson\"><img src=\"http://static.guitarcenter.com/static/gc/hero/20141124/salesPerson.png\"
+        alt=\"Used\"></div></div></div></div><!-- Layout - Tag -->\n<div class=\"backgroundGrey\"
+        ></div><!-- Layout - Tag -->\n<div class=\"backgroundWhite\" ></div><!-- Layout
+        - Tag -->\n<div id=\"compareForms\" class=\"span30 vintage_used_outlet_productList\"
+        ><!-- Layout - Tag -->\n<div class=\"breadcrumb\" ><!-- Function - BreadCrumbs
+        Start -->\n<ol class=\"breadcrumbs\">\n<li><a href=\"/\">Home</a></li>\n<li
+        class=\"active\">\n&quot;ludwig supraphonic&quot;</li>\n</ol>\n<!-- Function
+        - BreadCrumbs End -->\n</div><!-- Layout - Tag -->\n<!-- EMmessage: tag is
+        disabled -->\n<!-- Layout - Tag -->\n<!-- EMmessage: tag is disabled -->\n<!--
+        Layout - Tag -->\n<!-- EMmessage: tag is disabled -->\n<!-- Layout - Tag -->\n<!--
+        EMmessage: tag is disabled -->\n</div></div></div><!-- Layout - LayoutDynamicSlot
+        -->\n<!-- Layout - Tag -->\n<div id=\"advanceSearchOption\" class=\"advanceSearchOption\"
+        ><!-- Function - HTML Text Area -->\n<form id=\"advanced-search-form\" action=\"/search\"
+        method=\"get\"> <div id=\"search-form-wrap\"> <label for=\"searchTerms\" class=\"labelCaption\">Search:</label>
+        <div class=\"txt txtSearch\"> <input class=\"default-value\" id=\"searchTerms\"
+        name=\"Ntt\" type=\"text\" placeholder=\"Enter keywords\" value=\"\" autocomplete=\"off\"
+        /> </div> <div id=\"note\"></div> </div> <div class=\"priceRange-wrap\"> <div
+        class=\"pricelabelwrap\"> <label for=\"minPrice\" class=\"labelCaption\">Set
+        Price Range:</label> </div> <div class=\"price-min-max-wrap\"> <span class=\"range-label
+        min\">$</span> <select name=\"min-priceRange\" id=\"minPrice\" class=\"styled-select
+        min-priceRange\"> <option value=\"\">Min</option> </select> <span class=\"range-label
+        max\">to $</span> <select name=\"max-priceRange\" id=\"maxPrice\" class=\"styled-select
+        max-priceRange\"> <option value=\"\">Max</option> </select> </div> </div>\t
+        <div class=\"justArrived-wrap checkbox-wrap\"> <label><input id=\"justArrived\"
+        name=\"justArrived\" rel=\"new-arrivals\" value=\"true\" type=\"checkbox\"
+        data-cacheval=\"false\" /><span></span>Just Arrived</label> </div> <div class=\"priceDrop-wrap
+        checkbox-wrap\"><label><input id=\"priceDrop\" name=\"priceDrop\" value=\"true\"
+        rel=\"price-drop\" type=\"checkbox\" data-cacheval=\"false\" /><span></span>Price
+        Drop</label> </div> <div class=\"imagesOnly-wrap checkbox-wrap\"> <label><input
+        id=\"imagesOnly\" name=\"imagesOnly\" value=\"true\" rel=\"has-image\" type=\"checkbox\"
+        data-cacheval=\"false\" /><span></span>Has Image</label> </div> <div class=\"submitSearch\">
+        <input name=\"submit\" value=\"Go\" id=\"searchSubmits\" class=\"button\"
+        type=\"submit\" /> </div>  <!--<input type=\"hidden\" name=\"N\" value=\"\"
+        />--> </form></div><!-- Layout - Tag -->\n<div id=\"mainPageHeader\" class=\"gridRow\"
+        ><!-- Layout - Tag -->\n<div class=\"span6\" ><!-- Layout - LayoutDynamicSlot
+        -->\n<!-- Layout - Tag -->\n<!-- Function - GuidedNavigation - Start -->\n<div
+        class=\"view viewList hasChrome\" id=\"narrowSideBar\">\n<strong class=\"gl
+        header black short\">Refine<span class=\"magicLink notVisible\" data-url=\"/Used/\"
+        id=\"clearAllFacets\">Clear All</span></strong>\n<div id=\"facets\" class=\"expandAll\">\n<div
+        id=\"facetBody_1097\" data-dimension=\"1097\" class=\"alwaysShow facetBody
+        ajax Find In Stores \">\n<strong>\n<span class=\"facetArrow\"></span>\n<var
+        class=\"hidden facetId\">1097</var>\nFind In Stores</strong>\n<div class=\"alwaysShow
+        clearfix displayStoreList\">\n<ul id=\"searchStoreParam\" class=\"facets\">\n<li
+        class=\"inactive\">\n<div class=\"storeResults facetLink\" rel=\"\">Within&nbsp;</div><span
+        class=\"radius\">100</span>\n<input type=\"text\" maxlength=\"3\" value=\"100\"
+        name=\"radius\" id=\"distance\" class=\"distance readonly\" readonly>&nbsp;miles
+        of&nbsp;<input type=\"text\" value=\"85001\" name=\"postalCode\" placeholder=\"Zip\"
+        id=\"postalCode\" class=\"postalCode readonly\" readonly>\n</li>\n</ul>\n<a
+        href=\"#\" class=\"changeStore change\">Change</a>\n</div>\n<div class=\"facetContainer
+        clearfix storesHidden\" id=\"facetCont_1097\">\n<ul class=\"facets\" id=\"facet_1097\">\n<li
+        id=\"store_154\" class=\"inactive\">\n<div class=\"facetLink disabled\" rel=\"33538\">Scottsdale(8.3&nbsp;miles)</div>\n</li>\n<li
+        id=\"store_151\" class=\"inactive\">\n<div class=\"facetLink \" rel=\"33564\">Tempe(9.17&nbsp;miles)</div>\n</li>\n<li
+        id=\"store_152\" class=\"inactive\">\n<div class=\"facetLink disabled\" rel=\"33508\">Phoenix(9.83&nbsp;miles)</div>\n</li>\n<li
+        id=\"store_155\" class=\"inactive\">\n<div class=\"facetLink disabled\" rel=\"33260\">Avondale(12.35&nbsp;miles)</div>\n</li>\n<li
+        id=\"store_156\" class=\"inactive\">\n<div class=\"facetLink disabled\" rel=\"33467\">Mesa(18.1&nbsp;miles)</div>\n</li>\n<li
+        id=\"store_157\" class=\"inactive\">\n<div class=\"facetLink disabled\" rel=\"33571\">NW
+        Tucson(97.69&nbsp;miles)</div>\n</li>\n</ul>\n</div>\n<var id='storeDimensionIds'
+        class='hidden'>33538+33564+33508+33260+33467+33571</var>\n</div>\n<div id=\"facetBody_1080\"
+        data-dimension=\"1080\" class=\" facetBody ajax Price \">\n<strong>\n<span
+        class=\"facetArrow\"></span>\n<var class=\"hidden facetId\">1080</var>\n<span
+        class=\"clearFacets notVisible magicLink\">Clear</span>\nPrice</strong>\n<div
+        class=\"facetContainer clearfix \" id=\"facetCont_1080\">\n<ul class=\"facets\"
+        id=\"facet_1080\">\n<li class=\"inactive\">\n<div class=\"facetLink\" rel=\"1084\">\n$100
+        - $200 (1)</div>\n</li>\n<li class=\"inactive\">\n<div class=\"facetLink\"
+        rel=\"1085\">\n$200 - $300 (6)</div>\n</li>\n<li class=\"inactive\">\n<div
+        class=\"facetLink\" rel=\"1086\">\n$300 - $500 (8)</div>\n</li>\n</ul>\n</div>\n</div>\n<div
+        id=\"facetBody_1036\" data-dimension=\"1036\" class=\" facetBody ajax Condition
+        \">\n<strong>\n<span class=\"facetArrow\"></span>\n<var class=\"hidden facetId\">1036</var>\n<span
+        class=\"clearFacets notVisible magicLink\">Clear</span>\nCondition<span class=\"conditionTooltipWrap\">\n<a
+        class=\"tooltipTrigger moreInfoTooltip\" rel=\"[tooltip]|Loading...|{direction:'right',
+        eventType:'hover', selectorPath:'#conditionTooltip', width:500, headerText:'Condition',
+        containerClass:'moreInfoTooltip'}\"></a>\n<div id=\"conditionTooltip\" class=\"tooltipContent
+        moreInfoTooltip\">\n<aside class=\"tooltipMessage\">\n<dl>\n<dt>Excellent</dt>\n<dd>\nThis
+        product is in \"like new\" condition and shows little to no signs of use.
+        Free from blemishes, scratches, and user wear. All controls are completely
+        functional.</dd>\n<dt>Great</dt>\n<dd>\nThis product shows little signs of
+        use and all controls are completely functional. It may have minor surface
+        scratches.</dd>\n<dt>Good</dt>\n<dd>\nThis product is completely functional
+        and shows some signs of use. It may have surface scratches and/or dings and
+        dents.</dd>\n<dt>Fair</dt>\n<dd>\nThis product is functional but shows signs
+        of heavy use that could include, but not limited to; scratches, dings, dent,
+        chips, and worn parts/controls.</dd>\n<dt>Poor</dt>\n<dd>\nThis product shows
+        significant cosmetic and functional wear. It may need repair and/or part(s)
+        replaced.</dd>\n</dl>\n</aside>\n</div>\n</span>\n</strong>\n<div class=\"facetContainer
+        clearfix \" id=\"facetCont_1036\">\n<ul class=\"facets\" id=\"facet_1036\">\n<li
+        class=\"inactive\">\n<div class=\"facetLink\" rel=\"1041\">\nExcellent (2)</div>\n</li>\n<li
+        class=\"inactive\">\n<div class=\"facetLink\" rel=\"1042\">\nGreat (4)</div>\n</li>\n<li
+        class=\"inactive\">\n<div class=\"facetLink\" rel=\"1044\">\nGood (7)</div>\n</li>\n<li
+        class=\"inactive\">\n<div class=\"facetLink\" rel=\"1046\">\nFair (1)</div>\n</li>\n<li
+        class=\"inactive\">\n<div class=\"facetLink\" rel=\"1047\">\nPoor (1)</div>\n</li>\n</ul>\n</div>\n</div>\n<div
+        id=\"facetBody_1060\" data-dimension=\"1060\" class=\" facetBody ajax Savings
+        & Specials \">\n<strong>\n<span class=\"facetArrow\"></span>\n<var class=\"hidden
+        facetId\">1060</var>\n<span class=\"clearFacets notVisible magicLink\">Clear</span>\nSavings
+        & Specials</strong>\n<div class=\"facetContainer clearfix \" id=\"facetCont_1060\">\n<ul
+        class=\"facets\" id=\"facet_1060\">\n<li class=\"inactive\">\n<div class=\"facetLink\"
+        rel=\"1062\">\nPrice Drop (2)</div>\n</li>\n</ul>\n</div>\n</div>\n<div id=\"facetBody_1048\"
+        data-dimension=\"1048\" class=\" facetBody ajax More Ways to Shop \">\n<strong>\n<span
+        class=\"facetArrow\"></span>\n<var class=\"hidden facetId\">1048</var>\n<span
+        class=\"clearFacets notVisible magicLink\">Clear</span>\nMore Ways to Shop</strong>\n<div
+        class=\"facetContainer clearfix \" id=\"facetCont_1048\">\n<ul class=\"facets\"
+        id=\"facet_1048\">\n<li class=\"inactive\">\n<div class=\"facetLink\" rel=\"1051\">\nTop
+        Sellers (1)</div>\n</li>\n</ul>\n</div>\n</div>\n<var class=\"hidden\" id=\"brandData\"></var>\n</div>\n<var
+        class=\"hidden\" id=\"uniqueFacetNames\">Brand,Price,Category</var>\n<var
+        class=\"hidden\" id=\"navState\">1076</var>\n</div>\n<!-- Layout - Tag -->\n<!--
+        Function-ATGPromo -->\n<!-- Layout - Tag -->\n<!-- Function-ATGPromo -->\n</div><!--
+        Layout - Tag -->\n<div class=\"span24\" ><!-- Layout - Tag -->\n<!-- Function-ATGPromo
+        -->\n<!-- Layout - LayoutDynamicSlot -->\n<!-- Layout - Tag -->\n<!-- Function
+        - ResultsList - Start -->\n<var class=\"hidden\" id=\"notDisplayProductRatingInfo\">false</var>\n<div
+        id=\"searchTabs\">\n<div id=\"searchContent\">\n<div class=\"tabContent\"
+        id=\"browseAllResults\">\n<div id=\"compareForm\" class=\"productGroup sharp-tl\">\n<fieldset
+        class=\"view top \">\n<fieldset class=\"sortBy\">\n<strong><label>Sort by:</label></strong>\n<select
+        name=\"Ns\" class=\"styled-select\">\n<option  value=\"bM\">Best Match</option>\n<option
+        \ value=\"bS\">Top Sellers</option>\n<option selected=\"selected\" value=\"r\">Relevance</option>\n<option
+        \ value=\"oR\">Customer Ratings</option>\n<option  value=\"sP\">Highest Saving
+        %</option>\n<option  value=\"pHL\">Price - High to Low</option>\n<option  value=\"pLH\">Price
+        - Low to High</option>\n<option  value=\"cD\">Newest First</option>\n<option
+        \ value=\"bN\">Brand Name A-Z</option>\n</select>\n</fieldset>\n<fieldset
+        class=\"viewAs pager\">\n<strong>View as:</strong>\n<ul>\n<li class=\"grid\"><span
+        class=\"magicLink selected\" data-url=\"#\" >Grid</span></li>\n<li class=\"list\"><span
+        class=\"magicLink\" data-url=\"/Used/?Ns=r&Ntt=ludwig+supraphonic&v=l\" >List</span></li>\n<input
+        type=\"hidden\" id=\"current_view\" value=\"grid\" />\n</ul>\n</fieldset>\n<fieldset
+        class=\"display pager\">\n<strong>Show:</strong>\n<select id=\"displayNumber\"
+        class=\"displayNumber styled-select\">\n<option value=\"20\" selected=\"selected\">20</option>\n<option
+        value=\"40\" >40</option>\n<option value=\"60\" >60</option>\n<option value=\"80\"
+        >80</option>\n<option value=\"100\" >100</option>\n</select>\n</fieldset>\n<p
+        class=\"searchResultsUpdateContainer\">\nResults\n<var class=\"pageRange\">\n1-15</var>\nof&nbsp;<var
+        class=\"searchTotalResults\">15</var> </p>\n</fieldset>\n<div id=\"resultsContent\"
+        class=\"\">\n<div class=\"productGrid\">\n<div class=\"grid view4 highlight\">\n<ol
+        class=\"products\">\n<li class=\"compare\">\n<div class=\"productTag\">\n<div
+        class=\"stickerText\">\n<span>\nPrice Drop</span>\n</div>\n</div>\n<div class=\"productItemWrapper\">\n<div
+        class=\"product\">\n<div class=\"thumb\">\n <span class=\"magicLink quickView
+        prodThumb120 test2\" data-rel=\"/pdp/quickView.jsp?productId=site5107780207&itemType=Vintage\"
+        data-url=\"/Used/Ludwig/Vintage-1969-Supraphonic-Snare-Drum.gc\" >\n<img src=\"http://static.guitarcenter.com/img/cmn/c.gif\"
+        class=\"lazy\" data-original=\"http://media.guitarcenter.com/is/image/MMGS7/1969-Supraphonic-Snare-Drum/000000107780207-00-180x180.jpg\"
+        alt=\"Ludwig 1969 Supraphonic Snare Drum\" />\n<span>\n</span>\n</span>\n</div>\n<div
+        class=\"productDetails\">\n<div class=\"productTitle\">\n<strong>\n<a href=\"/Used/Ludwig/Vintage-1969-Supraphonic-Snare-Drum.gc\">\nVintage
+        Ludwig 1969 Supraphonic Snare Drum</a>\n</strong>\n</div>\n<div class=\"priceContainer
+        mainPrice\">\n<span class=\"productPrice\">\n<sup class=\"currency\">$</sup>499<sup
+        class=\"decimals\">99.00</sup>\n</span>\n<var id=\"skuPriceDisplay\" class=\"hidden\">msrp:,lowPrice:499.99</var>\n</div>\n<div
+        class=\"priceContainer alternatePrices\">\n</div>\n<div class=\"productCondition\">Good
+        Condition</div>\n<div class=\"storeName\"><span class=\"magicLink\" data-url=\"http://stores.guitarcenter.com/visalia\">Visalia</span></div>\n<span
+        class=\"productCompare\">\n<input id=\"site5107780207\" data-prodid=\"site5107780207\"
+        class=\"site5107780207\" type=\"checkbox\" name=\"compareCheckbox\"/><label
+        for=\"site5107780207\"></label>\n<span class=\"compareLabel\">Compare</span>\n<span
+        class=\"compare compareNowLabel\"><span class=\"magicLink\" data-url=\"/product-comparison\">Compare
+        Now </span></span>\n</span>\n<var class=\"hidden productId\">site5107780207</var>\n<var
+        class=\"hidden displayId\">107780207</var>\n</div>\n</div>\n</div>\n</li>\n<li
+        class=\"compare\">\n<div class=\"productTag\">\n<div class=\"stickerText\">\n<span>\nVintage</span>\n</div>\n</div>\n<div
+        class=\"productItemWrapper\">\n<div class=\"product\">\n<div class=\"thumb\">\n
+        <span class=\"magicLink quickView prodThumb120 test2\" data-rel=\"/pdp/quickView.jsp?productId=site5111498645&itemType=Vintage\"
+        data-url=\"/Used/Ludwig/Vintage-1966-55X14-Supraphonic-Snare-Drum.gc\" >\n<img
+        src=\"http://static.guitarcenter.com/img/cmn/c.gif\" class=\"lazy\" data-original=\"http://media.guitarcenter.com/is/image/MMGS7/1966-5.5X14-Supraphonic-Snare-Drum/000000111498645-00-180x180.jpg\"
+        alt=\"Ludwig 1966 5.5X14 Supraphonic Snare Drum\" />\n<span>\n</span>\n</span>\n</div>\n<div
+        class=\"productDetails\">\n<div class=\"productTitle\">\n<strong>\n<a href=\"/Used/Ludwig/Vintage-1966-55X14-Supraphonic-Snare-Drum.gc\">\nVintage
+        Ludwig 1966 5.5X14 Supraphonic Snare Drum</a>\n</strong>\n</div>\n<div class=\"priceContainer
+        mainPrice\">\n<span class=\"productPrice\">\n<sup class=\"currency\">$</sup>249<sup
+        class=\"decimals\">99.00</sup>\n</span>\n<var id=\"skuPriceDisplay\" class=\"hidden\">msrp:,lowPrice:249.99</var>\n</div>\n<div
+        class=\"priceContainer alternatePrices\">\n</div>\n<div class=\"productCondition\">Fair
+        Condition</div>\n<div class=\"storeName\"><span class=\"magicLink\" data-url=\"http://stores.guitarcenter.com/southington\">Southington</span></div>\n<span
+        class=\"productCompare\">\n<input id=\"site5111498645\" data-prodid=\"site5111498645\"
+        class=\"site5111498645\" type=\"checkbox\" name=\"compareCheckbox\"/><label
+        for=\"site5111498645\"></label>\n<span class=\"compareLabel\">Compare</span>\n<span
+        class=\"compare compareNowLabel\"><span class=\"magicLink\" data-url=\"/product-comparison\">Compare
+        Now </span></span>\n</span>\n<var class=\"hidden productId\">site5111498645</var>\n<var
+        class=\"hidden displayId\">111498645</var>\n</div>\n</div>\n</div>\n</li>\n<li
+        class=\"compare\">\n<div class=\"productTag\">\n<div class=\"stickerText\">\n<span>\nUsed</span>\n</div>\n</div>\n<div
+        class=\"productItemWrapper\">\n<div class=\"product\">\n<div class=\"thumb\">\n
+        <span class=\"magicLink quickView prodThumb120 test2\" data-rel=\"/pdp/quickView.jsp?productId=site5111598229&itemType=Used\"
+        data-url=\"/Used/Ludwig/5X14-Supraphonic-Snare-Drum-111598229.gc\" >\n<img
+        src=\"http://static.guitarcenter.com/img/cmn/c.gif\" class=\"lazy\" data-original=\"http://media.guitarcenter.com/is/image/MMGS7/5X14-Supraphonic-Snare-Drum/000000111598229-00-180x180.jpg\"
+        alt=\"Ludwig 5X14 Supraphonic Snare Drum\" />\n<span>\n</span>\n</span>\n</div>\n<div
+        class=\"productDetails\">\n<div class=\"productTitle\">\n<strong>\n<a href=\"/Used/Ludwig/5X14-Supraphonic-Snare-Drum-111598229.gc\">\nUsed
+        Ludwig 5X14 Supraphonic Snare Drum</a>\n</strong>\n</div>\n<div class=\"priceContainer
+        mainPrice\">\n<span class=\"productPrice\">\n<sup class=\"currency\">$</sup>329<sup
+        class=\"decimals\">99.00</sup>\n</span>\n<var id=\"skuPriceDisplay\" class=\"hidden\">msrp:,lowPrice:329.99</var>\n</div>\n<div
+        class=\"priceContainer alternatePrices\">\n</div>\n<div class=\"productCondition\">Excellent
+        Condition</div>\n<div class=\"storeName\"><span class=\"magicLink\" data-url=\"http://stores.guitarcenter.com/canton\">Canton</span></div>\n<span
+        class=\"productCompare\">\n<input id=\"site5111598229\" data-prodid=\"site5111598229\"
+        class=\"site5111598229\" type=\"checkbox\" name=\"compareCheckbox\"/><label
+        for=\"site5111598229\"></label>\n<span class=\"compareLabel\">Compare</span>\n<span
+        class=\"compare compareNowLabel\"><span class=\"magicLink\" data-url=\"/product-comparison\">Compare
+        Now </span></span>\n</span>\n<var class=\"hidden productId\">site5111598229</var>\n<var
+        class=\"hidden displayId\">111598229</var>\n</div>\n</div>\n</div>\n</li>\n<li
+        class=\"last-child compare\">\n<div class=\"productTag\">\n<div class=\"stickerText\">\n<span>\nUsed</span>\n</div>\n</div>\n<div
+        class=\"productItemWrapper\">\n<div class=\"product\">\n<div class=\"thumb\">\n
+        <span class=\"magicLink quickView prodThumb120 test2\" data-rel=\"/pdp/quickView.jsp?productId=site5111579858&itemType=Used\"
+        data-url=\"/Used/Ludwig/55X14-Supraphonic-Drum.gc\" >\n<img src=\"http://static.guitarcenter.com/img/cmn/c.gif\"
+        class=\"lazy\" data-original=\"http://media.guitarcenter.com/is/image/MMGS7/5.5X14-Supraphonic-Drum/000000111579858-00-180x180.jpg\"
+        alt=\"Ludwig 5.5X14 Supraphonic Drum\" />\n<span>\n</span>\n</span>\n</div>\n<div
+        class=\"productDetails\">\n<div class=\"productTitle\">\n<strong>\n<a href=\"/Used/Ludwig/55X14-Supraphonic-Drum.gc\">\nUsed
+        Ludwig 5.5X14 Supraphonic Drum</a>\n</strong>\n</div>\n<div class=\"priceContainer
+        mainPrice\">\n<span class=\"productPrice\">\n<sup class=\"currency\">$</sup>249<sup
+        class=\"decimals\">99.00</sup>\n</span>\n<var id=\"skuPriceDisplay\" class=\"hidden\">msrp:,lowPrice:249.99</var>\n</div>\n<div
+        class=\"priceContainer alternatePrices\">\n</div>\n<div class=\"productCondition\">Good
+        Condition</div>\n<div class=\"storeName\"><span class=\"magicLink\" data-url=\"http://stores.guitarcenter.com/gwinnett\">Gwinnett</span></div>\n<span
+        class=\"productCompare\">\n<input id=\"site5111579858\" data-prodid=\"site5111579858\"
+        class=\"site5111579858\" type=\"checkbox\" name=\"compareCheckbox\"/><label
+        for=\"site5111579858\"></label>\n<span class=\"compareLabel\">Compare</span>\n<span
+        class=\"compare compareNowLabel\"><span class=\"magicLink\" data-url=\"/product-comparison\">Compare
+        Now </span></span>\n</span>\n<var class=\"hidden productId\">site5111579858</var>\n<var
+        class=\"hidden displayId\">111579858</var>\n</div>\n</div>\n</div>\n</li>\n</ol>\n<ol
+        class=\"products\">\n<li class=\"compare\">\n<div class=\"productTag\">\n<div
+        class=\"stickerText\">\n<span>\nVintage</span>\n</div>\n</div>\n<div class=\"productItemWrapper\">\n<div
+        class=\"product\">\n<div class=\"thumb\">\n <span class=\"magicLink quickView
+        prodThumb120 test2\" data-rel=\"/pdp/quickView.jsp?productId=site5110803468&itemType=Vintage\"
+        data-url=\"/Used/Ludwig/Vintage-1970s-5X14-Supraphonic-Snare-Drum.gc\" >\n<img
+        src=\"http://static.guitarcenter.com/img/cmn/c.gif\" class=\"lazy\" data-original=\"http://media.guitarcenter.com/is/image/MMGS7/1970s-5X14-Supraphonic-Snare-Drum/000000110803468-00-180x180.jpg\"
+        alt=\"Ludwig 1970s 5X14 Supraphonic Snare Drum\" />\n<span>\n</span>\n</span>\n</div>\n<div
+        class=\"productDetails\">\n<div class=\"productTitle\">\n<strong>\n<a href=\"/Used/Ludwig/Vintage-1970s-5X14-Supraphonic-Snare-Drum.gc\">\nVintage
+        Ludwig 1970s 5X14 Supraphonic Snare Drum</a>\n</strong>\n</div>\n<div class=\"priceContainer
+        mainPrice\">\n<span class=\"productPrice\">\n<sup class=\"currency\">$</sup>349<sup
+        class=\"decimals\">99.00</sup>\n</span>\n<var id=\"skuPriceDisplay\" class=\"hidden\">msrp:,lowPrice:349.99</var>\n</div>\n<div
+        class=\"priceContainer alternatePrices\">\n</div>\n<div class=\"productCondition\">Good
+        Condition</div>\n<div class=\"storeName\"><span class=\"magicLink\" data-url=\"http://stores.guitarcenter.com/south-chicago\">South
+        Chicago</span></div>\n<span class=\"productCompare\">\n<input id=\"site5110803468\"
+        data-prodid=\"site5110803468\" class=\"site5110803468\" type=\"checkbox\"
+        name=\"compareCheckbox\"/><label for=\"site5110803468\"></label>\n<span class=\"compareLabel\">Compare</span>\n<span
+        class=\"compare compareNowLabel\"><span class=\"magicLink\" data-url=\"/product-comparison\">Compare
+        Now </span></span>\n</span>\n<var class=\"hidden productId\">site5110803468</var>\n<var
+        class=\"hidden displayId\">110803468</var>\n</div>\n</div>\n</div>\n</li>\n<li
+        class=\"compare\">\n<div class=\"productTag\">\n<div class=\"stickerText\">\n<span>\nVintage</span>\n</div>\n</div>\n<div
+        class=\"productItemWrapper\">\n<div class=\"product\">\n<div class=\"thumb\">\n
+        <span class=\"magicLink quickView prodThumb120 test2\" data-rel=\"/pdp/quickView.jsp?productId=site5111597947&itemType=Vintage\"
+        data-url=\"/Used/Ludwig/Vintage-1970s-5X14-Supraphonic-Snare-Drum-111597947.gc\"
+        >\n<img src=\"http://static.guitarcenter.com/img/cmn/c.gif\" class=\"lazy\"
+        data-original=\"http://media.guitarcenter.com/is/image/MMGS7/1970s-5X14-Supraphonic-Snare-Drum/000000111597947-00-180x180.jpg\"
+        alt=\"Ludwig 1970s 5X14 Supraphonic Snare Drum\" />\n<span>\n</span>\n</span>\n</div>\n<div
+        class=\"productDetails\">\n<div class=\"productTitle\">\n<strong>\n<a href=\"/Used/Ludwig/Vintage-1970s-5X14-Supraphonic-Snare-Drum-111597947.gc\">\nVintage
+        Ludwig 1970s 5X14 Supraphonic Snare Drum</a>\n</strong>\n</div>\n<div class=\"priceContainer
+        mainPrice\">\n<span class=\"productPrice\">\n<sup class=\"currency\">$</sup>179<sup
+        class=\"decimals\">99.00</sup>\n</span>\n<var id=\"skuPriceDisplay\" class=\"hidden\">msrp:,lowPrice:179.99</var>\n</div>\n<div
+        class=\"priceContainer alternatePrices\">\n</div>\n<div class=\"productCondition\">Poor
+        Condition</div>\n<div class=\"storeName\"><span class=\"magicLink\" data-url=\"http://stores.guitarcenter.com/brownsville\">Brownsville</span></div>\n<span
+        class=\"productCompare\">\n<input id=\"site5111597947\" data-prodid=\"site5111597947\"
+        class=\"site5111597947\" type=\"checkbox\" name=\"compareCheckbox\"/><label
+        for=\"site5111597947\"></label>\n<span class=\"compareLabel\">Compare</span>\n<span
+        class=\"compare compareNowLabel\"><span class=\"magicLink\" data-url=\"/product-comparison\">Compare
+        Now </span></span>\n</span>\n<var class=\"hidden productId\">site5111597947</var>\n<var
+        class=\"hidden displayId\">111597947</var>\n</div>\n</div>\n</div>\n</li>\n<li
+        class=\"compare\">\n<div class=\"productTag\">\n<div class=\"stickerText\">\n<span>\nUsed</span>\n</div>\n</div>\n<div
+        class=\"productItemWrapper\">\n<div class=\"product\">\n<div class=\"thumb\">\n
+        <span class=\"magicLink quickView prodThumb120 test2\" data-rel=\"/pdp/quickView.jsp?productId=site5111563500&itemType=Used\"
+        data-url=\"/Used/Ludwig/5X14-Supraphonic-Snare-Drum-111563500.gc\" >\n<img
+        src=\"http://static.guitarcenter.com/img/cmn/c.gif\" class=\"lazy\" data-original=\"http://media.guitarcenter.com/is/image/MMGS7/5X14-Supraphonic-Snare-Drum/000000111563500-00-180x180.jpg\"
+        alt=\"Ludwig 5X14 Supraphonic Snare Drum\" />\n<span>\n</span>\n</span>\n</div>\n<div
+        class=\"productDetails\">\n<div class=\"productTitle\">\n<strong>\n<a href=\"/Used/Ludwig/5X14-Supraphonic-Snare-Drum-111563500.gc\">\nUsed
+        Ludwig 5X14 Supraphonic Snare Drum</a>\n</strong>\n</div>\n<div class=\"priceContainer
+        mainPrice\">\n<span class=\"productPrice\">\n<sup class=\"currency\">$</sup>249<sup
+        class=\"decimals\">99.00</sup>\n</span>\n<var id=\"skuPriceDisplay\" class=\"hidden\">msrp:,lowPrice:249.99</var>\n</div>\n<div
+        class=\"priceContainer alternatePrices\">\n</div>\n<div class=\"productCondition\">Great
+        Condition</div>\n<div class=\"storeName\"><span class=\"magicLink\" data-url=\"http://stores.guitarcenter.com/tempe\">Tempe</span></div>\n<span
+        class=\"productCompare\">\n<input id=\"site5111563500\" data-prodid=\"site5111563500\"
+        class=\"site5111563500\" type=\"checkbox\" name=\"compareCheckbox\"/><label
+        for=\"site5111563500\"></label>\n<span class=\"compareLabel\">Compare</span>\n<span
+        class=\"compare compareNowLabel\"><span class=\"magicLink\" data-url=\"/product-comparison\">Compare
+        Now </span></span>\n</span>\n<var class=\"hidden productId\">site5111563500</var>\n<var
+        class=\"hidden displayId\">111563500</var>\n</div>\n</div>\n</div>\n</li>\n<li
+        class=\"last-child compare\">\n<div class=\"productTag\">\n<div class=\"stickerText\">\n<span>\nUsed</span>\n</div>\n</div>\n<div
+        class=\"productItemWrapper\">\n<div class=\"product\">\n<div class=\"thumb\">\n
+        <span class=\"magicLink quickView prodThumb120 test2\" data-rel=\"/pdp/quickView.jsp?productId=site5111361372&itemType=Used\"
+        data-url=\"/Used/Ludwig/5X14-Supraphonic-Snare-Drum-111361372.gc\" >\n<img
+        src=\"http://static.guitarcenter.com/img/cmn/c.gif\" class=\"lazy\" data-original=\"http://media.guitarcenter.com/is/image/MMGS7/5X14-Supraphonic-Snare-Drum/000000111361372-00-180x180.jpg\"
+        alt=\"Ludwig 5X14 Supraphonic Snare Drum\" />\n<span>\n</span>\n</span>\n</div>\n<div
+        class=\"productDetails\">\n<div class=\"productTitle\">\n<strong>\n<a href=\"/Used/Ludwig/5X14-Supraphonic-Snare-Drum-111361372.gc\">\nUsed
+        Ludwig 5X14 Supraphonic Snare Drum</a>\n</strong>\n</div>\n<div class=\"priceContainer
+        mainPrice\">\n<span class=\"productPrice\">\n<sup class=\"currency\">$</sup>240<sup
+        class=\"decimals\">99.00</sup>\n</span>\n<var id=\"skuPriceDisplay\" class=\"hidden\">msrp:,lowPrice:240.99</var>\n</div>\n<div
+        class=\"priceContainer alternatePrices\">\n</div>\n<div class=\"productCondition\">Good
+        Condition</div>\n<div class=\"storeName\"><span class=\"magicLink\" data-url=\"http://stores.guitarcenter.com/monroeville\">Monroeville</span></div>\n<span
+        class=\"productCompare\">\n<input id=\"site5111361372\" data-prodid=\"site5111361372\"
+        class=\"site5111361372\" type=\"checkbox\" name=\"compareCheckbox\"/><label
+        for=\"site5111361372\"></label>\n<span class=\"compareLabel\">Compare</span>\n<span
+        class=\"compare compareNowLabel\"><span class=\"magicLink\" data-url=\"/product-comparison\">Compare
+        Now </span></span>\n</span>\n<var class=\"hidden productId\">site5111361372</var>\n<var
+        class=\"hidden displayId\">111361372</var>\n</div>\n</div>\n</div>\n</li>\n</ol>\n<ol
+        class=\"products\">\n<li class=\"compare\">\n<div class=\"productTag\">\n<div
+        class=\"stickerText\">\n<span>\nUsed</span>\n</div>\n</div>\n<div class=\"productItemWrapper\">\n<div
+        class=\"product\">\n<div class=\"thumb\">\n <span class=\"magicLink quickView
+        prodThumb120 test2\" data-rel=\"/pdp/quickView.jsp?productId=site5111598088&itemType=Used\"
+        data-url=\"/Used/Ludwig/5X14-Supraphonic-Snare-Drum-111598088.gc\" >\n<img
+        src=\"http://static.guitarcenter.com/img/cmn/c.gif\" class=\"lazy\" data-original=\"http://media.guitarcenter.com/is/image/MMGS7/5X14-Supraphonic-Snare-Drum/000000111598088-00-180x180.jpg\"
+        alt=\"Ludwig 5X14 Supraphonic Snare Drum\" />\n<span>\n</span>\n</span>\n</div>\n<div
+        class=\"productDetails\">\n<div class=\"productTitle\">\n<strong>\n<a href=\"/Used/Ludwig/5X14-Supraphonic-Snare-Drum-111598088.gc\">\nUsed
+        Ludwig 5X14 Supraphonic Snare Drum</a>\n</strong>\n</div>\n<div class=\"priceContainer
+        mainPrice\">\n<span class=\"productPrice\">\n<sup class=\"currency\">$</sup>249<sup
+        class=\"decimals\">99.00</sup>\n</span>\n<var id=\"skuPriceDisplay\" class=\"hidden\">msrp:,lowPrice:249.99</var>\n</div>\n<div
+        class=\"priceContainer alternatePrices\">\n</div>\n<div class=\"productCondition\">Good
+        Condition</div>\n<div class=\"storeName\"><span class=\"magicLink\" data-url=\"http://stores.guitarcenter.com/lewisville\">Lewisville</span></div>\n<span
+        class=\"productCompare\">\n<input id=\"site5111598088\" data-prodid=\"site5111598088\"
+        class=\"site5111598088\" type=\"checkbox\" name=\"compareCheckbox\"/><label
+        for=\"site5111598088\"></label>\n<span class=\"compareLabel\">Compare</span>\n<span
+        class=\"compare compareNowLabel\"><span class=\"magicLink\" data-url=\"/product-comparison\">Compare
+        Now </span></span>\n</span>\n<var class=\"hidden productId\">site5111598088</var>\n<var
+        class=\"hidden displayId\">111598088</var>\n</div>\n</div>\n</div>\n</li>\n<li
+        class=\"compare\">\n<div class=\"productTag\">\n<div class=\"stickerText\">\n<span>\nUsed</span>\n</div>\n</div>\n<div
+        class=\"productItemWrapper\">\n<div class=\"product\">\n<div class=\"thumb\">\n
+        <span class=\"magicLink quickView prodThumb120 test2\" data-rel=\"/pdp/quickView.jsp?productId=site5110989113&itemType=Used\"
+        data-url=\"/Used/Ludwig/5X14-Supraphonic-Snare-Drum.gc\" >\n<img src=\"http://static.guitarcenter.com/img/cmn/c.gif\"
+        class=\"lazy\" data-original=\"http://media.guitarcenter.com/is/image/MMGS7/5X14-Supraphonic-Snare-Drum/000000110989113-00-180x180.jpg\"
+        alt=\"Ludwig 5X14 Supraphonic Snare Drum\" />\n<span>\n</span>\n</span>\n</div>\n<div
+        class=\"productDetails\">\n<div class=\"productTitle\">\n<strong>\n<a href=\"/Used/Ludwig/5X14-Supraphonic-Snare-Drum.gc\">\nUsed
+        Ludwig 5X14 Supraphonic Snare Drum</a>\n</strong>\n</div>\n<div class=\"priceContainer
+        mainPrice\">\n<span class=\"productPrice\">\n<sup class=\"currency\">$</sup>329<sup
+        class=\"decimals\">99.00</sup>\n</span>\n<var id=\"skuPriceDisplay\" class=\"hidden\">msrp:,lowPrice:329.99</var>\n</div>\n<div
+        class=\"priceContainer alternatePrices\">\n</div>\n<div class=\"productCondition\">Excellent
+        Condition</div>\n<div class=\"storeName\"><span class=\"magicLink\" data-url=\"http://stores.guitarcenter.com/canton\">Canton</span></div>\n<span
+        class=\"productCompare\">\n<input id=\"site5110989113\" data-prodid=\"site5110989113\"
+        class=\"site5110989113\" type=\"checkbox\" name=\"compareCheckbox\"/><label
+        for=\"site5110989113\"></label>\n<span class=\"compareLabel\">Compare</span>\n<span
+        class=\"compare compareNowLabel\"><span class=\"magicLink\" data-url=\"/product-comparison\">Compare
+        Now </span></span>\n</span>\n<var class=\"hidden productId\">site5110989113</var>\n<var
+        class=\"hidden displayId\">110989113</var>\n</div>\n</div>\n</div>\n</li>\n<li
+        class=\"compare\">\n<div class=\"productTag\">\n<div class=\"stickerText\">\n<span>\nPrice
+        Drop</span>\n</div>\n</div>\n<div class=\"productItemWrapper\">\n<div class=\"product\">\n<div
+        class=\"thumb\">\n <span class=\"magicLink quickView prodThumb120 test2\"
+        data-rel=\"/pdp/quickView.jsp?productId=site5110212800&itemType=Vintage\"
+        data-url=\"/Used/Ludwig/Vintage-1980s-5X14-Supraphonic-Snare-Drum.gc\" >\n<img
+        src=\"http://static.guitarcenter.com/img/cmn/c.gif\" class=\"lazy\" data-original=\"http://media.guitarcenter.com/is/image/MMGS7/1980s-5X14-Supraphonic-Snare-Drum/000000110212800-00-180x180.jpg\"
+        alt=\"Ludwig 1980s 5X14 Supraphonic Snare Drum\" />\n<span>\n</span>\n</span>\n</div>\n<div
+        class=\"productDetails\">\n<div class=\"productTitle\">\n<strong>\n<a href=\"/Used/Ludwig/Vintage-1980s-5X14-Supraphonic-Snare-Drum.gc\">\nVintage
+        Ludwig 1980s 5X14 Supraphonic Snare Drum</a>\n</strong>\n</div>\n<div class=\"priceContainer
+        mainPrice\">\n<span class=\"productPrice\">\n<sup class=\"currency\">$</sup>286<sup
+        class=\"decimals\">99.00</sup>\n</span>\n<var id=\"skuPriceDisplay\" class=\"hidden\">msrp:,lowPrice:286.99</var>\n</div>\n<div
+        class=\"priceContainer alternatePrices\">\n</div>\n<div class=\"productCondition\">Great
+        Condition</div>\n<div class=\"storeName\"><span class=\"magicLink\" data-url=\"http://stores.guitarcenter.com/south-miami\">South
+        Miami</span></div>\n<span class=\"productCompare\">\n<input id=\"site5110212800\"
+        data-prodid=\"site5110212800\" class=\"site5110212800\" type=\"checkbox\"
+        name=\"compareCheckbox\"/><label for=\"site5110212800\"></label>\n<span class=\"compareLabel\">Compare</span>\n<span
+        class=\"compare compareNowLabel\"><span class=\"magicLink\" data-url=\"/product-comparison\">Compare
+        Now </span></span>\n</span>\n<var class=\"hidden productId\">site5110212800</var>\n<var
+        class=\"hidden displayId\">110212800</var>\n</div>\n</div>\n</div>\n</li>\n<li
+        class=\"last-child compare\">\n<div class=\"productTag\">\n<div class=\"stickerText\">\n<span>\nUsed</span>\n</div>\n</div>\n<div
+        class=\"productItemWrapper\">\n<div class=\"product\">\n<div class=\"thumb\">\n
+        <span class=\"magicLink quickView prodThumb120 test2\" data-rel=\"/pdp/quickView.jsp?productId=site5111603682&itemType=Used\"
+        data-url=\"/Used/Ludwig/5X14-Supraphonic-Snare-Drum-111603682.gc\" >\n<img
+        src=\"http://static.guitarcenter.com/img/cmn/c.gif\" class=\"lazy\" data-original=\"http://media.guitarcenter.com/is/image/MMGS7/5X14-Supraphonic-Snare-Drum/000000111603682-00-180x180.jpg\"
+        alt=\"Ludwig 5X14 Supraphonic Snare Drum\" />\n<span>\n</span>\n</span>\n</div>\n<div
+        class=\"productDetails\">\n<div class=\"productTitle\">\n<strong>\n<a href=\"/Used/Ludwig/5X14-Supraphonic-Snare-Drum-111603682.gc\">\nUsed
+        Ludwig 5X14 Supraphonic Snare Drum</a>\n</strong>\n</div>\n<div class=\"priceContainer
+        mainPrice\">\n<span class=\"productPrice\">\n<sup class=\"currency\">$</sup>324<sup
+        class=\"decimals\">99.00</sup>\n</span>\n<var id=\"skuPriceDisplay\" class=\"hidden\">msrp:,lowPrice:324.99</var>\n</div>\n<div
+        class=\"priceContainer alternatePrices\">\n</div>\n<div class=\"productCondition\">Great
+        Condition</div>\n<div class=\"storeName\"><span class=\"magicLink\" data-url=\"http://stores.guitarcenter.com/canton\">Canton</span></div>\n<span
+        class=\"productCompare\">\n<input id=\"site5111603682\" data-prodid=\"site5111603682\"
+        class=\"site5111603682\" type=\"checkbox\" name=\"compareCheckbox\"/><label
+        for=\"site5111603682\"></label>\n<span class=\"compareLabel\">Compare</span>\n<span
+        class=\"compare compareNowLabel\"><span class=\"magicLink\" data-url=\"/product-comparison\">Compare
+        Now </span></span>\n</span>\n<var class=\"hidden productId\">site5111603682</var>\n<var
+        class=\"hidden displayId\">111603682</var>\n</div>\n</div>\n</div>\n</li>\n</ol>\n<ol
+        class=\"products last-child\">\n<li class=\"compare\">\n<div class=\"productTag\">\n<div
+        class=\"stickerText\">\n<span>\nVintage</span>\n</div>\n</div>\n<div class=\"productItemWrapper\">\n<div
+        class=\"product\">\n<div class=\"thumb\">\n <span class=\"magicLink quickView
+        prodThumb120 test2\" data-rel=\"/pdp/quickView.jsp?productId=site5111225694&itemType=Vintage\"
+        data-url=\"/Used/Ludwig/Vintage-1965-55X14-Supraphonic-Snare-Drum.gc\" >\n<img
+        src=\"http://static.guitarcenter.com/img/cmn/c.gif\" class=\"lazy\" data-original=\"http://media.guitarcenter.com/is/image/MMGS7/1965-5.5X14-Supraphonic-Snare-Drum/000000111225694-00-180x180.jpg\"
+        alt=\"Ludwig 1965 5.5X14 Supraphonic Snare Drum\" />\n<span>\n</span>\n</span>\n</div>\n<div
+        class=\"productDetails\">\n<div class=\"productTitle\">\n<strong>\n<a href=\"/Used/Ludwig/Vintage-1965-55X14-Supraphonic-Snare-Drum.gc\">\nVintage
+        Ludwig 1965 5.5X14 Supraphonic Snare Drum</a>\n</strong>\n</div>\n<div class=\"priceContainer
+        mainPrice\">\n<span class=\"productPrice\">\n<sup class=\"currency\">$</sup>399<sup
+        class=\"decimals\">99.00</sup>\n</span>\n<var id=\"skuPriceDisplay\" class=\"hidden\">msrp:,lowPrice:399.99</var>\n</div>\n<div
+        class=\"priceContainer alternatePrices\">\n</div>\n<div class=\"productCondition\">Good
+        Condition</div>\n<div class=\"storeName\"><span class=\"magicLink\" data-url=\"http://stores.guitarcenter.com/dayton\">Dayton</span></div>\n<span
+        class=\"productCompare\">\n<input id=\"site5111225694\" data-prodid=\"site5111225694\"
+        class=\"site5111225694\" type=\"checkbox\" name=\"compareCheckbox\"/><label
+        for=\"site5111225694\"></label>\n<span class=\"compareLabel\">Compare</span>\n<span
+        class=\"compare compareNowLabel\"><span class=\"magicLink\" data-url=\"/product-comparison\">Compare
+        Now </span></span>\n</span>\n<var class=\"hidden productId\">site5111225694</var>\n<var
+        class=\"hidden displayId\">111225694</var>\n</div>\n</div>\n</div>\n</li>\n<li
+        class=\"compare\">\n<div class=\"productTag\">\n<div class=\"stickerText\">\n<span>\nUsed</span>\n</div>\n</div>\n<div
+        class=\"productItemWrapper\">\n<div class=\"product\">\n<div class=\"thumb\">\n
+        <span class=\"magicLink quickView prodThumb120 test2\" data-rel=\"/pdp/quickView.jsp?productId=site5111437893&itemType=Used\"
+        data-url=\"/Used/Ludwig/6X14-Supraphonic-Snare-Drum-111437893.gc\" >\n<img
+        src=\"http://static.guitarcenter.com/img/cmn/c.gif\" class=\"lazy\" data-original=\"http://media.guitarcenter.com/is/image/MMGS7/6X14-Supraphonic-Snare-Drum/000000111437893-00-180x180.jpg\"
+        alt=\"Ludwig 6X14 Supraphonic Snare Drum\" />\n<span>\n</span>\n</span>\n</div>\n<div
+        class=\"productDetails\">\n<div class=\"productTitle\">\n<strong>\n<a href=\"/Used/Ludwig/6X14-Supraphonic-Snare-Drum-111437893.gc\">\nUsed
+        Ludwig 6X14 Supraphonic Snare Drum</a>\n</strong>\n</div>\n<div class=\"priceContainer
+        mainPrice\">\n<span class=\"productPrice\">\n<sup class=\"currency\">$</sup>399<sup
+        class=\"decimals\">99.00</sup>\n</span>\n<var id=\"skuPriceDisplay\" class=\"hidden\">msrp:,lowPrice:399.99</var>\n</div>\n<div
+        class=\"priceContainer alternatePrices\">\n</div>\n<div class=\"productCondition\">Great
+        Condition</div>\n<div class=\"storeName\"><span class=\"magicLink\" data-url=\"http://stores.guitarcenter.com/atlantic-city\">Atlantic
+        City</span></div>\n<span class=\"productCompare\">\n<input id=\"site5111437893\"
+        data-prodid=\"site5111437893\" class=\"site5111437893\" type=\"checkbox\"
+        name=\"compareCheckbox\"/><label for=\"site5111437893\"></label>\n<span class=\"compareLabel\">Compare</span>\n<span
+        class=\"compare compareNowLabel\"><span class=\"magicLink\" data-url=\"/product-comparison\">Compare
+        Now </span></span>\n</span>\n<var class=\"hidden productId\">site5111437893</var>\n<var
+        class=\"hidden displayId\">111437893</var>\n</div>\n</div>\n</div>\n</li>\n<li
+        class=\"compare\">\n<div class=\"productTag\">\n<div class=\"stickerText\">\n<span>\nUsed</span>\n</div>\n</div>\n<div
+        class=\"productItemWrapper\">\n<div class=\"product\">\n<div class=\"thumb\">\n
+        <span class=\"magicLink quickView prodThumb120 test2\" data-rel=\"/pdp/quickView.jsp?productId=site5111280637&itemType=Used\"
+        data-url=\"/Used/Ludwig/6X14-Supraphonic-Snare-Drum-111280637.gc\" >\n<img
+        src=\"http://static.guitarcenter.com/img/cmn/c.gif\" class=\"lazy\" data-original=\"http://media.guitarcenter.com/is/image/MMGS7/6X14-Supraphonic-Snare-Drum/000000111280637-00-180x180.jpg\"
+        alt=\"Ludwig 6X14 Supraphonic Snare Drum\" />\n<span>\n</span>\n</span>\n</div>\n<div
+        class=\"productDetails\">\n<div class=\"productTitle\">\n<strong>\n<a href=\"/Used/Ludwig/6X14-Supraphonic-Snare-Drum-111280637.gc\">\nUsed
+        Ludwig 6X14 Supraphonic Snare Drum</a>\n</strong>\n</div>\n<div class=\"priceContainer
+        mainPrice\">\n<span class=\"productPrice\">\n<sup class=\"currency\">$</sup>309<sup
+        class=\"decimals\">99.00</sup>\n</span>\n<var id=\"skuPriceDisplay\" class=\"hidden\">msrp:,lowPrice:309.99</var>\n</div>\n<div
+        class=\"priceContainer alternatePrices\">\n</div>\n<div class=\"productCondition\">Good
+        Condition</div>\n<div class=\"storeName\"><span class=\"magicLink\" data-url=\"http://stores.guitarcenter.com/albuquerque\">Albuquerque</span></div>\n<span
+        class=\"productCompare\">\n<input id=\"site5111280637\" data-prodid=\"site5111280637\"
+        class=\"site5111280637\" type=\"checkbox\" name=\"compareCheckbox\"/><label
+        for=\"site5111280637\"></label>\n<span class=\"compareLabel\">Compare</span>\n<span
+        class=\"compare compareNowLabel\"><span class=\"magicLink\" data-url=\"/product-comparison\">Compare
+        Now </span></span>\n</span>\n<var class=\"hidden productId\">site5111280637</var>\n<var
+        class=\"hidden displayId\">111280637</var>\n</div>\n</div>\n</div>\n</li>\n</ol>\n</div>\n</div>\n</div>\n<div
+        class=\"pager\">\n<p class=\"searchResultsUpdateContainer\">\nResults\n<var
+        class=\"pageRange\">\n1-15</var>\nof&nbsp;<var class=\"searchTotalResults\">15</var>
+        </p>\n<div class=\"searchPagination\" id=\"searchPaginationBottom\">\n<a class=\"pageLink
+        pageSelected singlePage\">1</a>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<!--
+        Function - ResultsList - End -->\n</div></div><!-- Layout - LayoutDynamicSlot
+        -->\n<!-- Layout - Tag -->\n<div id=\"moreInfo\" class=\"landing-seo-text\"
+        ><!-- Function - Html Content -->\n<p>\nSometimes, buying used gear just makes
+        sense. Saving money and finding out-of-production models are just a couple
+        of reasons why a visit to this section is a must for any serious musician.
+        For example, on the same budget, you can probably find a used high-end instrument
+        for around the same cost as a much more basic brand-new equivalent. And you
+        can be sure that anything in this section, although its previous owner may
+        have decided to let it go, has definitely got a lot of life left in it. There
+        are tens of thousands of items to choose from, including instruments, amps,
+        DJ equipment and more, and additional used gear is arriving constantly. \n<br
+        /><br />\nBy far the most popular and well-stocked category of used instruments
+        is our selection of guitars, where we've got a huge variety of all the big
+        names. Used Gibson Les Paul, pre-owned Fender Telecaster and secondhand Stratocaster
+        guitars are commonly found within these pages, waiting for their new homes
+        with players and collectors. And if you're in the market for an exceptional
+        acoustic guitar, you'll see pre-loved Takamine, Martin and Taylor guitars
+        in excellent condition here as well. \n<br /><br />\nWhen finding the absolute
+        best deal is your main concern, there's also a price drop section where you
+        can browse used gear that's been reduced even further from its original listed
+        price. This is the place to look if you're gearing up for a tour or improving
+        your studio setup on a budget. And if you've had your eye on a particular
+        item that's still a little out of your sticker range, you may just find it
+        in this section. \n<br /><br />\nWhether you consider yourself the master
+        of thriftiness or this is your first time looking at previously-played equipment,
+        one thing that's certain is that some of the best deals around are waiting
+        for you in this section. Just be sure to keep in mind that if you find your
+        dream amp or instrument, you may want to snatch it up before it catches somebody
+        else's eye: every used item is unique, so when it's gone, it's gone for good.\n</p>
+        </div><!-- Layout - Tag -->\n<!-- Function - PageOmnitureTagging -->\n<!--
+        Pass params configured in the ExperienceManager into this droplet-->\n</div>\n<!--
+        Layout - LayoutDynamicSlot -->\n<!-- Layout - Tag -->\n<div class=\"hidden\">\n<var
+        id=\"refreshMiniCart\"></var>\n</div>\n<var id=\"omnitureReportData\" class=\"omnitureData
+        hidden\">\n{\"reportSuiteIds\":\"guitarcenterprod\",\"pageName\":\"[gc] used\",\"eVar3\":\"used\",\"prop2\":\"[gc]
+        used\",\"prop18\":\"relevance\",\"prop1\":\"[gc] used\",\"events\":\"event1\",\"prop17\":\"sort
+        by\",\"evar51\":\"default: united states\",\"prop10\":\"productcollections\",\"prop11\":\"brand
+        exclusion list 01\",\"prop5\":\"[gc] used\",\"prop6\":\"[gc] used\",\"prop3\":\"[gc]
+        used\",\"prop4\":\"[gc] used\",\"eVar1\":\"ludwig supraphonic\",\"prop9\":\"15\",\"campaign\":\"gcdirectsourcecode1\",\"channel\":\"[gc]
+        used\",\"linkInternalFilters\":\"javascript:,guitarcenter.com\",\"prop7\":\"[gc]
+        used\",\"prop8\":\"ludwig supraphonic\"}</var>\n<noscript><img\nsrc=\"http://guitarcenter.112.2O7.net/b/ss/guitarcenterprod/1/H.20.3--NS/0\"\nheight=\"1\"
+        width=\"1\" border=\"0\" alt=\"adobe analytics\" /></noscript>\n<script type=\"text/javascript\">\nif(typeof(testAndTarget)!='undefined')
+        testAndTarget();\n</script>\n<!-- ===== START [FOOTER] ===== -->\n<!-- start
+        [footer] -->\n<footer id=\"gc_footer\">\n<input id=\"currentURIInput\" type=\"hidden\"
+        value=\"/Used/?Ntt=ludwig%20supraphonic&amp;Ns=r\"/>\n<nav id=\"footer_nav\">\n<div
+        id=\"nav_container\">\n<ul class=\"gc_linkList\">\n<li><span></span> <a href=\"/pages/Guitar-Center-Shipping.gc\">Free
+        Shipping*</a></li>\n<li><span></span> <a href=\"/pages/return-policy\">Easy
+        Returns</a></li>\n<li><span></span> <a href=\"/pages/gc-advantages#pickup-store\">Pick
+        Up in Store</a></li>\n<li><span></span> <a href=\"/pages/Pro-Coverage.gc\">Pro
+        Coverage</a></li>\t\n</ul>\n<div id=\"gc_feedback\"><a href=\"#\" class=\"footer_oo\">+
+        Give Feedback</a></div> </div>\n</nav>\n<div id=\"footer_content\">\n<div
+        id=\"gc_footer_row1\">\n<ul class=\"gc_footer_promos\">\n<li class=\"gc_grid_big\">\r\t\t\t\t\t\t\t\t\t<h3>Financing</h3>\r\t\t\t\t\t\t\t\t\t<img
+        src=\"//static.guitarcenter.com/img/brand/gc/cmn/icon-gc-creditcard.png\"
+        alt=\"Guitar Center Gear Card\" border=\"0\" height=\"76\" title=\"Guitar
+        Center Gear Card\" width=\"121\">\r\t\t\t\t\t\t\t\t\t<p>\r\t\t\t\t\t\t\t\t\t\t<a
+        href=\"/pages/Finance--Special-Financing-Offers\">\r\t\t\t\t\t\t\t\t\t\tGEAR
+        CARD<br>\r\t\t\t\t\t\t\t\t\t\tGet the financing<br>\r\t\t\t\t\t\t\t\t\t\tyou
+        need now <span></span>\r\t\t\t\t\t\t\t\t\t\t</a>\r\t\t\t\t\t\t\t\t\t</p>\r\t\t\t\t\t\t\t\t</li>\r\t\t\t\t\t\t\t\t<li
+        class=\"gc_grid_small\">\r\t\t\t\t\t\t\t\t\t<h3>Buyer's Guide</h3>\r\t\t\t\t\t\t\t\t\t<img
+        src=\"//static.guitarcenter.com/img/brand/gc/cmn/icon-catalog.png\" alt=\"Guitar
+        Center Catalog\" border=\"0\" height=\"92\" title=\"Guitar Center Catalog\"
+        width=\"53\">\r\t\t\t\t\t\t\t\t\t<p>\r\t\t\t\t\t\t\t\t\t\t<a href=\"/pages/Buyers-Guide\">\r\t\t\t\t\t\t\t\t\t\tGC
+        CATALOG<br>\r\t\t\t\t\t\t\t\t\t\tThe latest gear, deals, artist interviews
+        and more <span></span>\r\t\t\t\t\t\t\t\t\t\t</a>\r\t\t\t\t\t\t\t\t\t</p>\t\t\t\t\t\t\t\t\r\t\t\t\t\t\t\t\t</li><li
+        class=\"gc_grid_small\">\n<h3>GC Email News</h3>\n<p>\nSign up for super savings<br>\nto
+        your inbox\n</p><form id=\"gcNewsletterForm\" method=\"GET\" action=\"/pages/manage-subscription\"
+        >\n<fieldset>\n<label class=\"inlineLabel\" for=\"Email\">Enter Email</label>\n<input
+        type=\"email\" id=\"Email\" name=\"Email\" value=\"\" class=\"inlineLabel\">\n<input
+        type=\"submit\" id=\"btnJoinNow\" class=\"button primary\" value=\"Sign Up\">\n</fieldset>\n</form>\n</li>\n</ul>\n<div
+        id=\"gc_social_links\" class=\"gc_grid_leftBorderLeft\">\n<h3>Connect With
+        Us</h3>\n<ul id=\"gc_social_media_icons\">\n\t<li id=\"gc_social_fb\"><a href=\"http://www.facebook.com/GuitarCenter\"
+        target=\"_blank\">Facebook</a></li>\n\t<li id=\"gc_social_tw\"><a href=\"http://twitter.com/guitarcenter\"
+        \ target=\"_blank\">Twitter</a></li>\n\t<li id=\"gc_social_yt\"><a href=\"http://www.youtube.com/guitarcenter\"
+        target=\"_blank\">YouTube</a></li>\n\t<li id=\"gc_social_in\"><a href=\"http://instagram.com/guitarcenter#\"
+        target=\"_blank\">Instagram</a></li>\n</ul>\t<div id=\"gc_country_changer\"
+        class=\"country-selector\" >\n<img class=\"countryFlag\" src=\"//static.guitarcenter.com/img/cmn/international/flags_small/US.gif\"
+        alt=\"US Flag\" height=\"14\" title=\"US Flag\" width=\"21\">\n<span class=\"countryName\">United
+        States</span>&nbsp;\n<span class=\"magicLink change-country countryChooser\"
+        data-url=\"\" id=\"intPayment\">\nChange Country\n<div id=\"contextSwithConfirm\"></div>\n</span>\n</div>\n</div>\n</div>\n<div
+        id=\"gc_footer_row2\">\n<ul class=\"gc_footer_promos\">\n<li class=\"gc_grid_big\">\n<h3>Account</h3>\r<ul>\r\t<li><a
+        href=\"/trackorder/\">Order History</a></li>\r\t<li><a href=\"/pages/return-policy\">Returns</a></li>\r\t<li><a
+        href=\"/wishlists/\">Wish List</a></li>\r\t<li><a href=\"/pages/manage-subscription\">Email
+        Preferences</a></li>\r</ul>\t</li>\n<li class=\"gc_grid_small\">\n<h3>Features</h3>\r<ul>\r\t\t<!--
+        NOTE: May add this back later:R.C.S.: 04.01.15 li><a href=\"\">Gift Guide</a></li
+        -->\r\t\t<li><a href=\"/Rebates.gc\">Rebates</a></li>\r\t\t<li><a href=\"/pages/financing#layaway\">Layaway</a></li>\r\t\t<li><a
+        href=\"/pages/corporate-giving\">Donations</a></li>\r\t\t<li><a href=\"/pages/gc-advantages#pro-coverage\">Pro
+        Coverage</a></li>\r\t\t<li><a href=\"/pages/affiliate-program\">Affiliate
+        Program</a></li>\r\t\t<li><a href=\"/pages/press-room\">Press Room</a></li>\r\t\t<li><a
+        href=\"/pages/Buyers-Guide\">Catalog</a></li>\t\t\t\t\t\t\t\t\t\r</ul>\t\t\t</li>\n<li
+        class=\"gc_grid_small\">\n<h3>Support</h3>\r<ul>\r\t<li><a href=\"/customer-service/\">Service
+        &amp; Support</a></li>\r\t<li><a href=\"/pages/company-information\">About</a></li>\r\t<li><a
+        href=\"/pages/careers\">Careers</a></li>\r\t<li><a href=\"/sitemap/\">Site
+        Map</a></li>\r      <li><a href=\"/?mobile=yes\">Mobile Site</a></li>\t\r</ul>\t\t</li>\n</ul>\n<div
+        class=\"gc_grid_leftBorderLeft\">\n<div id=\"gc_banner_bbbTrust\">\n<span
+        class=\"magicLink targetBlank\" data-url=\"http://www.bbb.org/\"><img src=\"//static.guitarcenter.com/img/brand/gc/cmn/icon-bbb.png\"
+        alt=\"Better Business Bureau\" border=\"0\" height=\"141\" title=\"Better
+        Business Bureau\" width=\"117\"></span>\n</div>\n<!-- Google Trusted Store
+        -->\n<div id=\"GTS_CONTAINER\"></div>\n</div>\n<a href=\"/\" id=\"logo_footer\"
+        title=\"guitarcenter.com\"><img src=\"//static.guitarcenter.com/img/brand/gc/cmn/gc_footer_logo.png\"
+        alt=\"guitarcenter.com\" height=\"63\" width=\"96\"></a>\n</div>\n<div id=\"copyright_row\">\n<p>\n<span>Copyright
+        &copy; Guitar Center, Inc.</span>\n-\n<span>All Rights Reserved.</span>\n-\n<a
+        href=\"/pages/terms-of-use\">Terms of Use</a>\n|\n<a href=\"/pages/privacy-rights-policy\">Your
+        Privacy Rights</a>\n|\n<a href=\"/pages/purchase-terms\">Purchase Terms &amp;
+        Conditions</a>\n|\n<a href=\"/pages/ca-transparency-supply-chain\">California
+        Transparency In Supply Chains Act</a>\n</p>\n</div>\n</div>\n</footer>\n<!--
+        end [footer] -->\n<div class=\"accoutrements top\"></div>\n<div class=\"accoutrements
+        bot\"></div>\n<input type=\"hidden\" id=\"unica_UN\"\nvalue=\"\" />\n<input
+        type=\"hidden\" id=\"unica_newtofile\"\nvalue=\"null\" />\n<div id=\"confirmCountryChange\">\n<div
+        id=\"arrowFlag\"></div>\n<div>\n<span class=\"modalHeading\">You are changing
+        the Ship-To country.</span>\n</div>\n<div>\n<p>\nOur product catalog varies
+        by country due to manufacturer\nrestrictions. If you change the Ship-To country,
+        some or\nall of the items in your cart may not ship to the\nnew destination.\n</p>\n</div>\n<div
+        id=\"bottom-links\">\n<input id=\"btnChangeCountry\" type=\"button\" value=\"Change
+        Country\" />  <span class=\"magicLink close\" data-url=\"#\">Cancel</span>\n</div>\n<var
+        class=\"hidden omnitureData\">\n{\"reportSuiteIds\":\"\",\"prop2\":\"\",\"prop1\":\"\",\"prop5\":\"\",\"prop6\":\"\",\"prop3\":\"\",\"prop4\":\"\",\"channel\":\"\",\"linkInternalFilters\":\"\"}</var>\n</div>\n<var
+        id=\"gcHeaderContentLoaded\" class=\"hidden\"></var>\n<div id=\"nav-content\">\n</div>\n<!--
+        end [footer] -->\n<var id=\"bundleTemplate\" class=\"hidden\">category</var>\n<script
+        type=\"text/javascript\">\n//must wait until the globalHeader.js has loaded
+        since it has jQuery\n/*********************\n* FIRE CUSTOM HEADER JS - once
+        the header script and flyoutmenu DOM has loaded\n*********************/\n$(document).trigger('headerInit');\n//make
+        sure this page isn't loading into mobile site via ajax\n$(document).trigger('preDesktopJavascriptIncludes');\n//convert
+        magic links now that the DOM has loaded\n//header specific magicLinks are
+        converted as part of global_site.js and header_v2.js\nmagicSpanLinks();\nvar
+        captureOnLoad = false;\nfunction initPostLoad(){\ncaptureOnLoad = true;\n}\nif(window.addEventListener)
+        {\nwindow.addEventListener('load', initPostLoad, false);\n}else if(window.attachEvent){\nwindow.attachEvent('onload',
+        initPostLoad);\n}\n//initialize a new ScriptLoader object to load the main
+        JS include files and functions\nvar scriptLoader = new ScriptLoader();\nscriptLoader.push(\"http://static.guitarcenter.com/cmn/productionJs/global.js?vId=GCCOM_1.1.22&cb=6\",
+        true);\n\nscriptLoader.push(\"http://static.guitarcenter.com/cmn/productionJs/category.js?vId=GCCOM_1.1.22&cb=6\",
+        true);\n\nscriptLoader.push(function() {\nfunction loadScript(){\n$.ajax({\nurl:
+        'http://static.guitarcenter.com/cmn/productionJs/3rdPartyGlobalPostLoad.js?vId=GCCOM_1.1.22&cb=6',\ndataType:
+        \"script\",\ncache: true\n});\n}\nif(captureOnLoad){\nloadScript();\n}else{\nif(window.addEventListener)
+        {\nwindow.addEventListener('load', loadScript, false);\n}else if(window.attachEvent){\nwindow.attachEvent('onload',
+        loadScript);\n}\n}\n}, false);\n\nscriptLoader.loadAndRunScriptsInOrder();\n//Adobe
+        Dynamic Tag Management - Footer Embed\n_satellite.pageBottom();\n</script>\n<var
+        class=\"hidden\" id=\"rootURL\">/Used/</var>\n<var id=\"browseTemplate\" class=\"hidden\">used</var>\n</body>\n</html>\n"
+    http_version: 
+  recorded_at: Tue, 17 Nov 2015 18:02:40 GMT
+recorded_with: VCR 2.9.2
