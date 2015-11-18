@@ -1,9 +1,9 @@
 require 'sinatra/base'
-require_relative 'models/crawler'
-Dir[__dir__ + '/models/**/*.rb'].each { |file| require file }
-Dir[__dir__ + '/config/*.rb'].each    { |file| require file }
+Dir[__dir__ + '/app/**/*.rb'].each { |file| require file }
 
 class GearCrawler < Sinatra::Base
+
+  set :views, Proc.new { File.join(__dir__, 'app/views') }
 
   CRAWLERS = [
     GuitarCenter,

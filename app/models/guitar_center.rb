@@ -1,3 +1,4 @@
+require_relative 'crawler'
 require 'nokogiri'
 require 'open-uri'
 
