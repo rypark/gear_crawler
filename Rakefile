@@ -8,6 +8,7 @@ end
 task :console do
   require 'irb'
   require 'irb/completion'
+  require_relative 'models/crawler'
   Dir[__dir__ + '/models/**/*.rb'].each { |file| require file }
   ARGV.clear
   IRB.start

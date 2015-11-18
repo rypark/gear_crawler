@@ -14,10 +14,11 @@ class GearCrawler < Sinatra::Base
   ONE_DAY = 86400 # Since we have have no `1.days` from rails :)
 
   get '/' do
-    results = []
+    results           = []
+    selected_crawlers = find_selected_crawlers
 
     if params[:q]
-      CRAWLERS.each do |crawler|
+      selected_crawlers.each do |crawler|
 
         # TODO maybe move the VCR config into Crawler.search
         VCR.use_cassette("#{crawler}_#{params[:q]}", re_record_interval: ONE_DAY) do
@@ -32,7 +33,15 @@ class GearCrawler < Sinatra::Base
       results.sort_by!(&:price)
     end
 
-    haml :index, locals: {results: results, recent_searches: recent_searches}
+    haml :index, locals: {results: results, recent_searches: recent_searches, selected_crawlers: selected_crawlers.map(&:to_s)}
+  end
+
+  def find_selected_crawlers
+    if params[:crawlers] && params[:crawlers].any?
+      CRAWLERS.select { |c| params[:crawlers].include?(c.to_s) }
+    else
+      CRAWLERS
+    end
   end
 
   def recent_searches
