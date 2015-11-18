@@ -1,5 +1,4 @@
 # TODO Other crawlers:
-# - craigslist (maybe use https://github.com/mark-nery/craigslist_scraper)
 # - ebay
 # - music go round?
 # - maybe even amazon?

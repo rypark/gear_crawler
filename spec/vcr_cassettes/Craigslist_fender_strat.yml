@@ -1,0 +1,626 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://oklahomacity.craigslist.org/search/sss?query=fender%20strat&sort=rel
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - max-age=900, public
+      Last-Modified:
+      - Wed, 18 Nov 2015 14:15:46 GMT
+      Date:
+      - Wed, 18 Nov 2015 14:15:46 GMT
+      Vary:
+      - Accept-Encoding
+      Content-Length:
+      - '18994'
+      Content-Type:
+      - text/html; charset=utf-8
+      X-Mod-Pagespeed:
+      - 1.6.29.7-3566
+      Server:
+      - Apache
+      Expires:
+      - Wed, 18 Nov 2015 14:30:46 GMT
+    body:
+      encoding: ASCII-8BIT
+      string: |-
+        <!DOCTYPE html>
+        <html class="no-js"><head>
+        <title>oklahoma city for sale &quot;fender strat&quot; - craigslist</title>
+        <meta name="description" content="oklahoma city for sale &quot;fender strat&quot; - craigslist">
+        <link rel="canonical" href="https://oklahomacity.craigslist.org/search/sss">
+        <link rel="alternate" type="application/rss+xml" href="https://oklahomacity.craigslist.org/search/sss?format=rss&amp;query=fender%20strat&amp;sort=rel" title="RSS feed for craigslist | oklahoma city for sale &quot;fender strat&quot; - craigslist ">
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=1">
+        <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/cl.css?v=4c601abdc54d1bc546a8e0c650ddbecb">
+        <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/search.css?v=9a56cb7c538fd8ae19867478cbc167e2">
+        <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/jquery-ui-clcustom.css?v=a2b949791ca2b6e0853826199c684c5f">
+        <link rel="prefetch" href="//www.craigslist.org/js/postings-concat.min.js?v=1d799a731e5520b99ff5fbc3cfb15022">
+        <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/leaflet-stock.css?v=9beff37f1a66f89f2dcbd90bdfffe826">
+        <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/MarkerCluster.css?v=c9937ed03fbb57f185493cd8c283efeb">
+        <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps.css?v=4b8e149bc3b9ea301df4959bc7220040">
+        <!--[if IE]>
+            <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps-ie.css?v=b21742b2ebe243963373e956ea115db0">
+        <![endif]-->
+        <script type="text/javascript"><!--
+                    var defaultView = "grid";
+        var expiredFavIDs = [];
+        var subarea = null;
+        var maxResults = 2500;
+        var odaCats = {"193,194":["hvo","hvd","hva"],"20,190":["wan","wad","waa"],"122,163":["pts","ptd","pta"],"153,165":["mob","mod","moa"],"136,183":["mat","mad","maa"],"95,177":["clt","cbd","cba"],"5,179":["for","fod","foa"],"191,192":["snw","snd","sna"],"7,166":["sys","syd","sya"],"132,188":["tag","tad","taa"],"124,168":["rvs","rvd","rva"],"152,180":["hab","had","haa"],"68,172":["bik","bid","bia"],"97,181":["hsh","hsd","hsa"],"197,198":["bop","bdp","bip"],"98,184":["msg","msd","msa"],"134,174":["bfs","bfd","bfa"],"201,202":["bpo","bpd","bpa"],"145,146":["cto","ctd","cta"],"199,200":["sop","sdp","syp"],"94,176":["clo","cld","cla"],"133,178":["grd","grq","gra"],"150,169":["atq","atd","ata"],"118,187":["tls","tld","tla"],"151,189":["vgm","vgd","vga"],"96,167":["ele","eld","ela"],"107,171":["bab","bad","baa"],"117,175":["emd","emq","ema"],"section":["sso","ssq","sss"],"69,160":["mcy","mcd","mca"],"135,170":["art","ard","ara"],"149,162":["app","ppd","ppa"],"195,196":["mpo","mpd","mpa"],"141,142":["fuo","fud","fua"],"203,204":["wto","wtd","wta"],"93,186":["spo","sgd","sga"],"119,164":["boa","bod","boo"],"92,173":["bks","bkd","bka"],"120,182":["jwl","jwd","jwa"],"44,161":["tix","tid","tia"],"137,185":["pho","phd","pha"]};
+        var lessInfoText = "less info";
+        var showMapTabs = 1;
+        var areaID = "54";
+        var starHint = "save this post in your favorites list";
+        var sectionAbb = "sss";
+        var catAbb = "sss";
+        var currencySymbol = "&#x0024;";
+        var maptileBaseUrl = "//map{s}.craigslist.org/t07/{z}/{x}/{y}.png";
+        var areaRegion = "OK";
+        var noImageText = "no image";
+        var sectionBase = "sss";
+        var showInfoText = "show info";
+        var zoomToPosting = null;
+        var imageHost = "http://images.craigslist.org";
+        var areaCountry = "US";
+        var countOfTotalText = "image {count} of {total}";
+        var pID = null;
+
+                --></script>
+        <!--[if lt IE 9]>
+        <script src="//www.craigslist.org/js/html5shiv.min.js?v=096822b653643ed1af3136947e4ea79a" type="text/javascript" ></script>
+        <![endif]-->
+        <!--[if lte IE 7]>
+        <script src="//www.craigslist.org/js/json2.min.js?v=178d4ad319e0e0b4a451b15e49b71bec" type="text/javascript" ></script>
+        <![endif]-->
+        </head>
+        <body class="search">
+        <script type="text/javascript"><!--
+            function C(k){return(document.cookie.match('(^|; )'+k+'=([^;]*)')||0)[2]}
+            var pagetype, pagemode;
+            (function(){
+                var h = document.documentElement;
+                h.className = h.className.replace('no-js', 'js');
+                var b = document.body;
+                var bodyClassList = b.className.split(/\s+/);;
+                pagetype = bodyClassList[0]; // dangerous assumption
+                var fmt = C('cl_fmt');
+                if ( fmt === 'regular' || fmt === 'mobile' ) {
+                    pagemode = fmt;
+                } else if (screen.width <= 480) {
+                    pagemode = 'mobile';
+                } else {
+                    pagemode = 'regular';
+                }
+                var lng = C('cl_def_lang');
+                if (lng) bodyClassList.push(lng);
+                pagemode = pagemode === 'mobile' ? 'mobile' : 'desktop';
+                bodyClassList.push(pagemode);
+                if (C('hidesearch') === '1' && pagemode !== 'mobile') {
+                    bodyClassList.push('hide-search');
+                }
+                var width = window.innerWidth || document.documentElement.clientWidth;
+                if (width > 1000) { bodyClassList.push('w1024'); }
+                if (typeof window.sectionBase !== 'undefined') {
+                    var mode = (decodeURIComponent(C('cl_tocmode') || '').match(new RegExp(window.sectionBase + ':([^,]+)', 'i')) || {})[1] || window.defaultView;
+                    if (mode) {
+                        bodyClassList.push(mode);
+                    }
+                }
+                b.className = bodyClassList.join(' ');
+            }());
+        --></script>
+        <section id="pagecontainer">
+        <div class="bglogo"></div>
+        <header class="global-header">
+        <div class="mobile-header">
+        <div class="mobile-menu-button">menu</div>
+        <h2 class="mobile-logo">
+        <a class="mobile-logo-link" href="//oklahomacity.craigslist.org">craigslist</a> &gt; for sale
+        </h2>
+        </div>
+        <a class="header-logo" href="//oklahomacity.craigslist.org">CL</a>
+        <div class="mobile-menu-drawer">
+        <nav class="breadcrumbs-container">
+        <form id="breadcrumbform" method="get" action="/search/sss" data-action="/search/###/sss">
+        <input type="hidden" name="sort" value="rel"><input type="hidden" name="query" value="fender strat">
+        <ul class="breadcrumbs">
+        <li class="crumb area"><label for="areaAbb" class="mobile-only submenu-text">area</label><span class="no-js"><a href="/">oklahoma city</a></span>
+        <select name="areaAbb" id="areaAbb" class="js-only">
+        <option value="oklahomacity">oklahoma city</option>
+        <option value="dallas">dallas</option>
+        <option value="fayar">fayetteville, AR</option>
+        <option value="fortsmith">fort smith</option>
+        <option value="joplin">joplin</option>
+        <option value="lawton">lawton</option>
+        <option value="enid">northwest OK</option>
+        <option value="salina">salina</option>
+        <option value="seks">southeast KS</option>
+        <option value="swks">southwest KS</option>
+        <option value="stillwater">stillwater</option>
+        <option value="texoma">texoma</option>
+        <option value="tulsa">tulsa</option>
+        <option value="wichita">wichita</option>
+        <option value="wichitafalls">wichita falls</option>
+        </select>
+        <span class="breadcrumb-arrow">&gt;</span></li><li class="crumb section"><label for="catAbb" class="mobile-only submenu-text">section</label><select name="catAbb" id="catAbb">
+        <option value="ccc">community</option>
+        <option value="eee">events</option>
+        <option value="sss" selected>for sale</option>
+        <option value="ggg">gigs</option>
+        <option value="hhh">housing</option>
+        <option value="jjj">jobs</option>
+        <option value="ppp">personals</option>
+        <option value="rrr">resumes</option>
+        <option value="bbb">services</option>
+        </select>
+        <span class="breadcrumb-arrow">&gt;</span></li><li class="crumb category"><div class="mobile-only breadcrumb-labels">category</div>
+        <select id="subcatAbb" class="js-only">
+        <option value="sss">all</option><option value="ata">antiques</option>
+        <option value="ppa">appliances</option>
+        <option value="ara">arts+crafts</option>
+        <option value="sna">atvs/utvs/snow</option>
+        <option value="pta">auto parts - general</option>
+        <option value="wta">auto parts - wheels & tires</option>
+        <option value="baa">baby+kids</option>
+        <option value="bar">barter</option>
+        <option value="haa">beauty+hlth</option>
+        <option value="bip">bike parts</option>
+        <option value="bia">bikes</option>
+        <option value="bpa">boat parts</option>
+        <option value="boo">boats</option>
+        <option value="bka">books</option>
+        <option value="bfa">business</option>
+        <option value="cta">cars+trucks</option>
+        <option value="ema">cds/dvd/vhs</option>
+        <option value="moa">cell phones</option>
+        <option value="cla">clothes+acc</option>
+        <option value="cba">collectibles</option>
+        <option value="syp">computer parts</option>
+        <option value="sya">computers</option>
+        <option value="ela">electronics</option>
+        <option value="gra">farm+garden</option>
+        <option value="zip">free stuff</option>
+        <option value="fua">furniture</option>
+        <option value="gms">garage sales</option>
+        <option value="foa">general</option>
+        <option value="hva">heavy equipment</option>
+        <option value="hsa">household</option>
+        <option value="jwa">jewelry</option>
+        <option value="maa">materials</option>
+        <option value="mpa">motorcycle parts</option>
+        <option value="mca">motorcycles</option>
+        <option value="msa">music instr</option>
+        <option value="pha">photo+video</option>
+        <option value="rva">RVs</option>
+        <option value="sga">sporting</option>
+        <option value="tia">tickets</option>
+        <option value="tla">tools</option>
+        <option value="taa">toys+games</option>
+        <option value="vga">video gaming</option>
+        <option value="waa">wanted</option>
+        </select><span class="no-js">for sale</span>
+        <span class="no-js"> <input type="submit" value="go"></span></li>
+        </ul>
+        </form>
+        </nav>
+        <ul class="userlinks">
+        <li class="user post">
+        <a class="no-mobile" href="https://post.craigslist.org/c/okc">post</a>
+        <a class="mobile-only" href="https://post.craigslist.org/c/okc">post to classifieds</a>
+        </li>
+        <li class="user account">
+        <span>[ </span>
+        <a class="no-mobile" href="https://accounts.craigslist.org/login/home">account</a>
+        <a class="mobile-only" href="https://accounts.craigslist.org/login/home">my account</a>
+        <span> ]</span>
+        </li>
+        <li class="user fav">
+        <div class="favorites">
+        <a href="#" class="favlink"><span class="n">0</span><span class="no-mobile"> favorites</span></a>
+        </div>
+        </li>
+        </ul>
+        </div>
+        </header>
+        <div class="middle">
+        <form id="searchform" action="/search/sss">
+        <div class="searchbox">
+        <input id="excats" type="hidden" name="excats">
+        <input type="hidden" name="sort" value="rel">
+        <div class="searchgroup showoptions linklike closed">
+        <div class="mobile-favorites mobile-only"><div class="favorites">
+        <a href="#" class="favlink"><span class="n">0</span><span class="no-mobile"> favorites</span></a>
+        </div></div>
+        <span class="open">&ndash;</span><span class="closed">+</span> search options
+        </div>
+        <div class="searchoptions closed">
+        <div class="searchgroup categories">
+        <div class="cattitle"><a href="/search/sss" title="clear all search parameters" class="reset">for sale</a></div>
+        <ul class="maincats">
+        <li>
+        <input type="checkbox" name="cat_id" value="98,184" class="catcheck multi_checkbox" data-abb="msa" id="cat_msa" checked="checked">
+        <a href="/search/msa?query=fender%20strat&amp;amp;sort=rel" class="category">musical instruments</a> <span class="count">41</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="42" class="catcheck multi_checkbox" data-abb="bar" id="cat_bar" checked="checked">
+        <a href="/search/bar?query=fender%20strat&amp;amp;sort=rel" class="category">barter</a> <span class="count">1</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="195,196" class="catcheck multi_checkbox" data-abb="mpa" id="cat_mpa" checked="checked">
+        <a href="/search/mpa?query=fender%20strat&amp;amp;sort=rel" class="category">motorcycle parts & accessories</a> <span class="count">1</span>
+        </li>
+        <li class="morecats js-only closed"><span class="linklike closed"><b>+</b> show 40 more</span> <span class="linklike open"><b>&ndash;</b> hide 40 more</span>
+        <span class="count">0</span>
+        </li>
+        </ul>
+        <ul class="othercats closed">
+        <li>
+        <input type="checkbox" name="cat_id" value="150,169" class="catcheck multi_checkbox" data-abb="ata" id="cat_ata" checked="checked">
+        <a href="/search/ata?query=fender%20strat&amp;amp;sort=rel" class="category">antiques</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="149,162" class="catcheck multi_checkbox" data-abb="ppa" id="cat_ppa" checked="checked">
+        <a href="/search/ppa?query=fender%20strat&amp;amp;sort=rel" class="category">appliances</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="135,170" class="catcheck multi_checkbox" data-abb="ara" id="cat_ara" checked="checked">
+        <a href="/search/ara?query=fender%20strat&amp;amp;sort=rel" class="category">arts & crafts</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="191,192" class="catcheck multi_checkbox" data-abb="sna" id="cat_sna" checked="checked">
+        <a href="/search/sna?query=fender%20strat&amp;amp;sort=rel" class="category">atvs, utvs, snowmobiles</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="122,163" class="catcheck multi_checkbox" data-abb="pta" id="cat_pta" checked="checked">
+        <a href="/search/pta?query=fender%20strat&amp;amp;sort=rel" class="category">auto parts - general</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="203,204" class="catcheck multi_checkbox" data-abb="wta" id="cat_wta" checked="checked">
+        <a href="/search/wta?query=fender%20strat&amp;amp;sort=rel" class="category">auto parts - wheels & tires</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="107,171" class="catcheck multi_checkbox" data-abb="baa" id="cat_baa" checked="checked">
+        <a href="/search/baa?query=fender%20strat&amp;amp;sort=rel" class="category">baby & kid stuff</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="197,198" class="catcheck multi_checkbox" data-abb="bip" id="cat_bip" checked="checked">
+        <a href="/search/bip?query=fender%20strat&amp;amp;sort=rel" class="category">bicycle parts</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="68,172" class="catcheck multi_checkbox" data-abb="bia" id="cat_bia" checked="checked">
+        <a href="/search/bia?query=fender%20strat&amp;amp;sort=rel" class="category">bicycles</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="201,202" class="catcheck multi_checkbox" data-abb="bpa" id="cat_bpa" checked="checked">
+        <a href="/search/bpa?query=fender%20strat&amp;amp;sort=rel" class="category">boat parts & accessories</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="119,164" class="catcheck multi_checkbox" data-abb="boo" id="cat_boo" checked="checked">
+        <a href="/search/boo?query=fender%20strat&amp;amp;sort=rel" class="category">boats</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="92,173" class="catcheck multi_checkbox" data-abb="bka" id="cat_bka" checked="checked">
+        <a href="/search/bka?query=fender%20strat&amp;amp;sort=rel" class="category">books & magazines</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="134,174" class="catcheck multi_checkbox" data-abb="bfa" id="cat_bfa" checked="checked">
+        <a href="/search/bfa?query=fender%20strat&amp;amp;sort=rel" class="category">business</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="145,146" class="catcheck multi_checkbox" data-abb="cta" id="cat_cta" checked="checked">
+        <a href="/search/cta?query=fender%20strat&amp;amp;sort=rel" class="category">cars & trucks</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="117,175" class="catcheck multi_checkbox" data-abb="ema" id="cat_ema" checked="checked">
+        <a href="/search/ema?query=fender%20strat&amp;amp;sort=rel" class="category">cds / dvds / vhs</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="153,165" class="catcheck multi_checkbox" data-abb="moa" id="cat_moa" checked="checked">
+        <a href="/search/moa?query=fender%20strat&amp;amp;sort=rel" class="category">cell phones</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="94,176" class="catcheck multi_checkbox" data-abb="cla" id="cat_cla" checked="checked">
+        <a href="/search/cla?query=fender%20strat&amp;amp;sort=rel" class="category">clothing & accessories</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="95,177" class="catcheck multi_checkbox" data-abb="cba" id="cat_cba" checked="checked">
+        <a href="/search/cba?query=fender%20strat&amp;amp;sort=rel" class="category">collectibles</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="199,200" class="catcheck multi_checkbox" data-abb="syp" id="cat_syp" checked="checked">
+        <a href="/search/syp?query=fender%20strat&amp;amp;sort=rel" class="category">computer parts</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="7,166" class="catcheck multi_checkbox" data-abb="sya" id="cat_sya" checked="checked">
+        <a href="/search/sya?query=fender%20strat&amp;amp;sort=rel" class="category">computers</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="96,167" class="catcheck multi_checkbox" data-abb="ela" id="cat_ela" checked="checked">
+        <a href="/search/ela?query=fender%20strat&amp;amp;sort=rel" class="category">electronics</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="133,178" class="catcheck multi_checkbox" data-abb="gra" id="cat_gra" checked="checked">
+        <a href="/search/gra?query=fender%20strat&amp;amp;sort=rel" class="category">farm & garden</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="101" class="catcheck multi_checkbox" data-abb="zip" id="cat_zip" checked="checked">
+        <a href="/search/zip?query=fender%20strat&amp;amp;sort=rel" class="category">free stuff</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="141,142" class="catcheck multi_checkbox" data-abb="fua" id="cat_fua" checked="checked">
+        <a href="/search/fua?query=fender%20strat&amp;amp;sort=rel" class="category">furniture</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="73" class="catcheck multi_checkbox" data-abb="gms" id="cat_gms" checked="checked">
+        <a href="/search/gms?query=fender%20strat&amp;amp;sort=rel" class="category">garage & moving sales</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="5,179" class="catcheck multi_checkbox" data-abb="foa" id="cat_foa" checked="checked">
+        <a href="/search/foa?query=fender%20strat&amp;amp;sort=rel" class="category">general for sale</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="152,180" class="catcheck multi_checkbox" data-abb="haa" id="cat_haa" checked="checked">
+        <a href="/search/haa?query=fender%20strat&amp;amp;sort=rel" class="category">health and beauty</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="193,194" class="catcheck multi_checkbox" data-abb="hva" id="cat_hva" checked="checked">
+        <a href="/search/hva?query=fender%20strat&amp;amp;sort=rel" class="category">heavy equipment</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="97,181" class="catcheck multi_checkbox" data-abb="hsa" id="cat_hsa" checked="checked">
+        <a href="/search/hsa?query=fender%20strat&amp;amp;sort=rel" class="category">household items</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="120,182" class="catcheck multi_checkbox" data-abb="jwa" id="cat_jwa" checked="checked">
+        <a href="/search/jwa?query=fender%20strat&amp;amp;sort=rel" class="category">jewelry</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="136,183" class="catcheck multi_checkbox" data-abb="maa" id="cat_maa" checked="checked">
+        <a href="/search/maa?query=fender%20strat&amp;amp;sort=rel" class="category">materials</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="69,160" class="catcheck multi_checkbox" data-abb="mca" id="cat_mca" checked="checked">
+        <a href="/search/mca?query=fender%20strat&amp;amp;sort=rel" class="category">motorcycles/scooters</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="137,185" class="catcheck multi_checkbox" data-abb="pha" id="cat_pha" checked="checked">
+        <a href="/search/pha?query=fender%20strat&amp;amp;sort=rel" class="category">photo/video</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="124,168" class="catcheck multi_checkbox" data-abb="rva" id="cat_rva" checked="checked">
+        <a href="/search/rva?query=fender%20strat&amp;amp;sort=rel" class="category">recreational vehicles</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="93,186" class="catcheck multi_checkbox" data-abb="sga" id="cat_sga" checked="checked">
+        <a href="/search/sga?query=fender%20strat&amp;amp;sort=rel" class="category">sporting goods</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="44,161" class="catcheck multi_checkbox" data-abb="tia" id="cat_tia" checked="checked">
+        <a href="/search/tia?query=fender%20strat&amp;amp;sort=rel" class="category">tickets</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="118,187" class="catcheck multi_checkbox" data-abb="tla" id="cat_tla" checked="checked">
+        <a href="/search/tla?query=fender%20strat&amp;amp;sort=rel" class="category">tools</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="132,188" class="catcheck multi_checkbox" data-abb="taa" id="cat_taa" checked="checked">
+        <a href="/search/taa?query=fender%20strat&amp;amp;sort=rel" class="category">toys & games</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="151,189" class="catcheck multi_checkbox" data-abb="vga" id="cat_vga" checked="checked">
+        <a href="/search/vga?query=fender%20strat&amp;amp;sort=rel" class="category">video gaming</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="20,190" class="catcheck multi_checkbox" data-abb="waa" id="cat_waa" checked="checked">
+        <a href="/search/waa?query=fender%20strat&amp;amp;sort=rel" class="category">wanted</a> <span class="count">0</span>
+        </li>
+        </ul>
+        <li class="selectall js-only checked"><label><input type="checkbox" class="catcheck selectallcb" checked="checked"> <span class="all linklike">^ select all</span><span class="none linklike">^ deselect all</span></label></li>
+        </div>
+        <div class="searchgroup purveyor"><li class="buttongroup"><a href="/search/sss?query=fender%20strat&sort=rel" class="button sel" data-val="a">all</a><a href="/search/sso?query=fender%20strat&sort=rel" class="button" data-val="o">owner</a><a href="/search/ssq?query=fender%20strat&sort=rel" class="button" data-val="d">dealer</a></li></div>
+        <input type="hidden" name="is_paid" id="is_paid" value="">
+        <div class="searchgroup">
+        <ul><li><label class="srchType"><input type="checkbox" name="srchType" class="autosubmit" value="T">search titles only</label></li><li><label class="hasPic"><input type="checkbox" name="hasPic" class="autosubmit" value="1">has image</label></li><li><label class="postedToday"><input type="checkbox" name="postedToday" class="autosubmit" value="1">posted today</label></li><li><label class="searchNearby"><input type="checkbox" name="searchNearby" class="autosubmit" value="1">search nearby areas</label></li></ul>
+        <ul class="js-only nearbyAreas ">
+        <li class="nearbyZone nearbyZone_2"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_16" value="364" disabled="disabled">abilene <small>(abi)</small></label><li class="nearbyZone nearbyZone_2"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_15" value="269" disabled="disabled">amarillo <small>(ama)</small></label><li class="nearbyZone nearbyZone_1"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_9" value="21" disabled="disabled">dallas / fort worth <small>(dal)</small></label><li class="nearbyZone nearbyZone_1"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_10" value="293" disabled="disabled">fayetteville, AR <small>(fyv)</small></label><li class="nearbyZone nearbyZone_1"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_8" value="358" disabled="disabled">fort smith, AR <small>(fsm)</small></label><li class="nearbyZone nearbyZone_1"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_11" value="423" disabled="disabled">joplin <small>(jln)</small></label><li class="nearbyZone nearbyZone_4"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_25" value="30" disabled="disabled">kansas city, MO <small>(ksc)</small></label><li class="nearbyZone nearbyZone_4"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_28" value="327" disabled="disabled">killeen / temple / ft hood <small>(grk)</small></label><li class="nearbyZone nearbyZone_3"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_22" value="347" disabled="disabled">lawrence <small>(lwr)</small></label><li class=""><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_2" checked="checked" value="422" disabled="disabled">lawton <small>(law)</small></label><li class="nearbyZone nearbyZone_4"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_26" value="100" disabled="disabled">little rock <small>(lit)</small></label><li class="nearbyZone nearbyZone_3"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_23" value="267" disabled="disabled">lubbock <small>(lbb)</small></label><li class="nearbyZone nearbyZone_3"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_18" value="428" disabled="disabled">manhattan, KS <small>(mhk)</small></label><li class="nearbyZone nearbyZone_4"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_27" value="688" disabled="disabled">northwest KS <small>(nwk)</small></label><li class=""><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_1" checked="checked" value="650" disabled="disabled">northwest OK <small>(end)</small></label><li class="nearbyZone nearbyZone_2"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_13" value="690" disabled="disabled">salina <small>(sns)</small></label><li class="nearbyZone nearbyZone_4"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_24" value="206" disabled="disabled">shreveport <small>(shv)</small></label><li class="nearbyZone nearbyZone_1"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_7" value="689" disabled="disabled">southeast KS <small>(sek)</small></label><li class="nearbyZone nearbyZone_2"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_12" value="687" disabled="disabled">southwest KS <small>(swk)</small></label><li class="nearbyZone nearbyZone_3"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_19" value="221" disabled="disabled">springfield, MO <small>(sgf)</small></label><li class=""><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_0" checked="checked" value="433" disabled="disabled">stillwater <small>(osu)</small></label><li class="nearbyZone nearbyZone_2"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_14" value="359" disabled="disabled">texarkana <small>(txk)</small></label><li class=""><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_5" checked="checked" value="649" disabled="disabled">texoma <small>(txm)</small></label><li class="nearbyZone nearbyZone_3"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_20" value="280" disabled="disabled">topeka <small>(tpk)</small></label><li class=""><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_3" checked="checked" value="70" disabled="disabled">tulsa <small>(tul)</small></label><li class="nearbyZone nearbyZone_2"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_17" value="308" disabled="disabled">tyler / east TX <small>(etx)</small></label><li class="nearbyZone nearbyZone_3"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_21" value="270" disabled="disabled">waco <small>(wco)</small></label><li class="nearbyZone nearbyZone_1"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_6" value="99" disabled="disabled">wichita <small>(wic)</small></label><li class=""><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_4" checked="checked" value="365" disabled="disabled">wichita falls <small>(wtf)</small></label><li><span class="nextNearbyZone linklike" data-zone="1">+ show <span id="nearbyNumber">23</span> more...</span></li>
+        </ul>
+        </div>
+        <div class="searchgroup minmax price">
+        <span class="searchfieldlabel">price</span> <input type="tel" name="min_price" class="flatinput min" placeholder="min" title="whole number, no letters or symbols" value=""> <input type="tel" name="max_price" class="flatinput max" placeholder="max" title="whole number, no letters or symbols" value="">
+        </div>
+        <div class="searchgroup resetsearch">
+        <a href="/search/sss" title="clear all search parameters" class="reset linklike">reset</a>
+        <button type="submit" class="searchlink linklike">search</button>
+        </div>
+        <div class="no-mobile">
+        <aside class="tsb">
+        <ul>
+        <li><a href="//www.craigslist.org/about/safety">safety tips</a>
+        <li><a href="//www.craigslist.org/about/prohibited">prohibited items</a>
+        <li><a href="//www.craigslist.org/about/recalled_items">product recalls</a>
+        <li><a href="//www.craigslist.org/about/scams">avoiding scams</a>
+        </ul>
+        </aside>
+        </div>
+        </div>
+        </div>
+        <div class="rightpane">
+        <div class="querybox">
+        <span class="form-tab js-only"><span class="search-open" title="hide search">&laquo;</span><span class="search-closed" title="show search">&raquo;</span></span>
+        <input type="text" placeholder="search for sale" name="query" id="query" value="fender strat" autocorrect="off" autocapitalize="off" autocomplete="off" data-autocomplete="search" class="flatinput ui-autocomplete-input">
+        <button type="submit" class="searchbtn"><span class="searchicon"></span></button>
+        <div class="savealert">
+        <a class="saveme no-mobile" data-action="alert" href="https://accounts.craigslist.org/login?rt=L&amp;rp=%2Fsavesearch%2Falert%3FURL%3Dhttps%253A%252F%252Foklahomacity%252Ecraigslist%252Eorg%252Fsearch%252Fsss%253Fquery%253Dfender%252520strat%2526sort%253Drel" title="save this search with email alerts ">email alert</a>
+        <a class="saveme no-mobile" data-action="save" href="https://accounts.craigslist.org/login?rt=L&amp;rp=%2Fsavesearch%2Fsave%3FURL%3Dhttps%253A%252F%252Foklahomacity%252Ecraigslist%252Eorg%252Fsearch%252Fsss%253Fquery%253Dfender%252520strat%2526sort%253Drel" title="save this search ">save search</a>
+        <a class="saveme mobile-only" href="https://accounts.craigslist.org/login?rt=L&amp;rp=%2Fsavesearch%2Falert%3FURL%3Dhttps%253A%252F%252Foklahomacity%252Ecraigslist%252Eorg%252Fsearch%252Fsss%253Fquery%253Dfender%252520strat%2526sort%253Drel">search alert</a>
+        </div>
+        </div>
+        <div class="search-legend">
+        <div class="center">
+        <div class="search-view"><span class="buttongroup js-only"><a href="#list" title="show results in a list" class="mode button" data-view="list" id="listview">list</a><a href="#pic" title="show results in a list with thumbnail pictures" class="mode button" data-view="pic" id="picview">thumb</a><a href="#grid" title="show results side-by-side with larger pictures" class="mode button" data-view="grid" id="gridview">gallery</a><a href="#map" title="show results on a map" class="mode button" data-view="map" id="mapview">map</a></span></div><div class="search-sort">
+        <span class="buttongroup">
+        <a class="button" title="show newest matches first" href="/search/sss?sort=date&query=fender%20strat">newest</a><span class="button sel">relevant</span><a class="button" title="sort by price, lowest to highest" href="/search/sss?sort=priceasc&query=fender%20strat"><span class='pricesort'><span class='pricesort'>&#x0024;</span>&#x0024;</span>&#x0024;</a><a class="button" title="sort by price, highest to lowest" href="/search/sss?sort=pricedsc&query=fender%20strat">&#x0024;<span class="pricesort">&#x0024;<span class="pricesort">&#x0024;</span></span></a>
+        </span>
+        </div><span class="paginator buttongroup  firstpage lastpage"><span class="resulttotal">displaying <span class="displaycount">...</span> postings</span><span class="buttons"><a href="/search/sss?query=fender%20strat&amp;sort=rel" class="button first" title="first page">&lt;&lt;</a><span class="button first" title="first page">&lt;&lt;</span><a href="/search/sss?query=fender%20strat&amp;sort=rel" class="button prev" title="previous page">&lt; prev</a><span class="button prev" title="previous page">&lt; prev</span><span class="button pagenum"><span class="range"><span class="rangeFrom">1</span> to <span class="rangeTo">43</span></span> <span class="of-total">of <span class="totalcount">43</span></span></span><a href="/search/sss?s=43&amp;query=fender%20strat&amp;sort=rel" class="button next" title="next page"> next &gt; </a><span class="button next" title="next page"> next &gt; </span></span></span>
+        </div>
+        </div>
+        <div class="content">
+        <section class="favlistsection">
+        <section class="favlistinfo">
+        </section>
+        </section>
+        <p class="row" data-pid="5318935473" data-repost-of="5276834455"> <a href="/msg/5318935473.html" class="i" data-ids="0:00c0c_aLNkYabcL4y,0:00D0D_5sc5YUfxYtc,0:00v0v_j7b24OCVgi9,0:00c0c_fEvwj11nMPz"><span class="price">$600</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-16 15:26" title="Mon 16 Nov 03:26:18 PM">Nov 16</time> <a href="/msg/5318935473.html" data-id="5318935473" class="hdrlnk">Fender Usa strat.</a> </span> <span class="l2"> <span class="price">$600</span> <span class="pnr"> <small> (Norman)</small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5311631234"> <a href="/msg/5311631234.html" class="i" data-ids="0:00606_ljDQkVx2svO,0:00I0I_158PVIpXs3v,0:00k0k_4R2gK2zsnma,0:00u0u_isZjwMObrBv,0:00808_j5JNE2AGxF0"><span class="price">$700</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-14 10:03" title="Sat 14 Nov 10:03:59 AM">Nov 14</time> <a href="/msg/5311631234.html" data-id="5311631234" class="hdrlnk">Fender Road Worn strat with CS 60's</a> </span> <span class="l2"> <span class="price">$700</span> <span class="pnr"> <small> (Edmond)</small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5318565490"> <a href="/msg/5318565490.html" class="i" data-ids="0:00l0l_7fPAdGNsDhU,0:00v0v_dmIyjkx9Pjt,0:01212_69gx1yeFjRe"><span class="price">$600</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-16 12:13" title="Mon 16 Nov 12:13:24 PM">Nov 16</time> <a href="/msg/5318565490.html" data-id="5318565490" class="hdrlnk">Fender Strat Sunburst, Line6 Spider Amp, Digital Effects Pedal</a> </span> <span class="l2"> <span class="price">$600</span> <span class="pnr"> <small> (yukon, ok)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5318565490">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5315946294"> <a href="/msd/5315946294.html" class="i" data-ids="0:01414_gMNilvUqwVe,0:00W0W_cit1h6D1GKE,0:00q0q_9xobmeT9lKo,0:00P0P_aonyDjrl4jk,0:00X0X_e0D8l3osANS,0:00h0h_4j9qLTw3fNB,0:00X0X_eJ5SPGP5Mqa"><span class="price">$79</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-14 14:29" title="Sat 14 Nov 02:29:22 PM">Nov 14</time> <a href="/msd/5315946294.html" data-id="5315946294" class="hdrlnk">Fender Squire Strat electric guitar</a> </span> <span class="l2"> <span class="price">$79</span> <span class="pnr"> <small> (Oklahoma City)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5315946294">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5315887461"> <a href="/msd/5315887461.html" class="i" data-ids="0:00E0E_cdnn6cxM6oK,0:00808_gBTDvAU8ZKf,0:00B0B_kug4IASH6jx,0:00101_jWo2FXmavmv,0:00e0e_k21k0PKRw3x"><span class="price">$89</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-14 13:50" title="Sat 14 Nov 01:50:18 PM">Nov 14</time> <a href="/msd/5315887461.html" data-id="5315887461" class="hdrlnk">Fender Squire Strat Electric Guitar</a> </span> <span class="l2"> <span class="price">$89</span> <span class="pnr"> <small> (Oklahoma City)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5315887461">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5315855767"> <a href="/msd/5315855767.html" class="i" data-ids="0:00t0t_90BFE8FX1vI,0:00R0R_ji4eqBcSuR0,0:00X0X_1QeAHdE0G6z,0:00d0d_EJi7YF5dCb,0:00101_g22DZCn3Wet"><span class="price">$69</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-14 13:28" title="Sat 14 Nov 01:28:03 PM">Nov 14</time> <a href="/msd/5315855767.html" data-id="5315855767" class="hdrlnk">Fender Squire Strat electric guitar</a> </span> <span class="l2"> <span class="price">$69</span> <span class="pnr"> <small> (Oklahoma City)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5315855767">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5315784483"> <a href="/msd/5315784483.html" class="i" data-ids="0:00n0n_9BpnZEfYwS0,0:00X0X_29USQ2y3wX7,0:01111_i54BK3FL7mm,0:00T0T_4mx4nLBz28E,0:00C0C_d9p3l096wjd"><span class="price">$95</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-14 12:47" title="Sat 14 Nov 12:47:56 PM">Nov 14</time> <a href="/msd/5315784483.html" data-id="5315784483" class="hdrlnk">Fender Squire Strat Electric Guitar</a> </span> <span class="l2"> <span class="price">$95</span> <span class="pnr"> <small> (Oklahoma City)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5315784483">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5303966167"> <a href="/msg/5303966167.html" class="i" data-ids="0:00V0V_3qRniMvhvLQ,0:00r0r_3AQVwA09iDi,0:00Q0Q_b4OhUwVBkxc,0:00L0L_8bHl1GzuwEq"><span class="price">$500</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-14 10:03" title="Sat 14 Nov 10:03:28 AM">Nov 14</time> <a href="/msg/5303966167.html" data-id="5303966167" class="hdrlnk">Fender Strat with CS fat 50's</a> </span> <span class="l2"> <span class="price">$500</span> <span class="pnr"> <small> (Edmond)</small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5307151564"> <a href="/msg/5307151564.html" class="i" data-ids="0:00h0h_kZpz23Szs8Y,0:00l0l_iK51XhvJojj,0:00000_efCnTdqPuSm,0:00707_40M2NXZLuF0,0:00W0W_3ErU48KuLgw"><span class="price">$1</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-09 02:46" title="Mon 09 Nov 02:46:49 AM">Nov 9</time> <a href="/msg/5307151564.html" data-id="5307151564" class="hdrlnk">2012 fender Mexican strat Awesome condition!!</a> </span> <span class="l2"> <span class="price">$1</span> <span class="pnr"> <small> (ada ok)</small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5310711752"> <a href="/msg/5310711752.html" class="i" data-ids="0:00U0U_6pycxMwtRc9"></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-11 09:40" title="Wed 11 Nov 09:40:19 AM">Nov 11</time> <a href="/msg/5310711752.html" data-id="5310711752" class="hdrlnk">Fender strat!!!! Long 5 months old!!!</a> </span> <span class="l2"> <span class="pnr"> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5299141109"> <a href="/msg/5299141109.html" class="i" data-ids="0:00K0K_a0zrpaFhwOG,0:00a0a_8GJvf73Bl5M,0:00o0o_2w1V0523G2z,0:00L0L_g6CWiwcM3aY"><span class="price">$450</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-03 17:36" title="Tue 03 Nov 05:36:14 PM">Nov 3</time> <a href="/msg/5299141109.html" data-id="5299141109" class="hdrlnk">Fender Squire Strat</a> </span> <span class="l2"> <span class="price">$450</span> <span class="pnr"> <small> (Okarche)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5299141109">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5289803416" data-repost-of="5210477171"> <a href="/msg/5289803416.html" class="i" data-ids="0:00q0q_1l48DB4N7rt"><span class="price">$100</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-16 16:05" title="Mon 16 Nov 04:05:14 PM">Nov 16</time> <a href="/msg/5289803416.html" data-id="5289803416" class="hdrlnk">fender strat neck plate (cbs era 1966)</a> </span> <span class="l2"> <span class="price">$100</span> <span class="pnr"> <small> (Edmond)</small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5316084714"> <a href="/msg/5316084714.html" class="i" data-ids="0:00808_a2tsLhqs9qD"><span class="price">$750</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-17 05:44" title="Tue 17 Nov 05:44:48 AM">Nov 17</time> <a href="/msg/5316084714.html" data-id="5316084714" class="hdrlnk">Fender "Fiesta Red" Calif. Series Stratocaster</a> </span> <span class="l2"> <span class="price">$750</span> <span class="pnr"> <small> (Nicoma Park)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5316084714">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5307296895"> <a href="/mpo/5307296895.html" class="i" data-ids="0:00z0z_dc3sk4eOX8J,0:00V0V_7fMlmJkNCkW,0:00O0O_iImcZn4Vx2C"><span class="price">$70</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-09 07:54" title="Mon 09 Nov 07:54:57 AM">Nov 9</time> <a href="/mpo/5307296895.html" data-id="5307296895" class="hdrlnk">Squier by Fender Strat</a> </span> <span class="l2"> <span class="price">$70</span> <span class="pnr"> <small> (Paseo)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5307296895">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5315693508"> <a href="/msg/5315693508.html" class="i" data-ids="0:00i0i_3dV1dNgDk3m"><span class="price">$175</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-14 11:58" title="Sat 14 Nov 11:58:21 AM">Nov 14</time> <a href="/msg/5315693508.html" data-id="5315693508" class="hdrlnk">Fender guitar</a> </span> <span class="l2"> <span class="price">$175</span> <span class="pnr"> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5315693508">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5294388870" data-repost-of="5174172981"> <a href="/msg/5294388870.html" class="i" data-ids="0:01616_PyB1X06kSH,0:00606_8kJYAydvh8Y,0:01111_izy0Rf6RRAb"><span class="price">$300</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-13 17:44" title="Fri 13 Nov 05:44:15 PM">Nov 13</time> <a href="/msg/5294388870.html" data-id="5294388870" class="hdrlnk">fender strat mexico (shawnee)</a> </span> <span class="l2"> <span class="price">$300</span> <span class="pnr"> <small> (shawnee)</small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5313095097"> <a href="/msd/5313095097.html" class="i" data-ids="0:00o0o_90rCox9ggLe,0:00s0s_hbt9oQFFrmR,0:00W0W_cY2QVcCv67V"><span class="price">$399</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-12 16:59" title="Thu 12 Nov 04:59:36 PM">Nov 12</time> <a href="/msd/5313095097.html" data-id="5313095097" class="hdrlnk">Fender 60th MiM Black Strat w/ Noiseless PU's</a> </span> <span class="l2"> <span class="price">$399</span> <span class="pnr"> <small> (NW 50th &amp; Portland)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5313095097">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5310722084"> <a href="/bar/5310722084.html" class="i" data-ids="0:00U0U_6pycxMwtRc9"></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-11 09:46" title="Wed 11 Nov 09:46:12 AM">Nov 11</time> <a href="/bar/5310722084.html" data-id="5310722084" class="hdrlnk">Fender strat!!!! Long 5 months old!!!</a> </span> <span class="l2"> <span class="pnr"> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5310143038"> <a href="/msg/5310143038.html" class="i" data-ids="0:01616_92mjK4KjsBg"><span class="price">$700</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-17 08:50" title="Tue 17 Nov 08:50:43 AM">Nov 17</time> <a href="/msg/5310143038.html" data-id="5310143038" class="hdrlnk">1985 MIJ Fender Stratocaster System One &amp; OHSC</a> </span> <span class="l2"> <span class="price">$700</span> <span class="pnr"> <small> (Tulsa)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5310143038">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5301018043"> <a href="/msg/5301018043.html" class="i" data-ids="0:00f0f_1YIp8d7xTh8,0:00101_ccHb1g9qLPo,0:01111_iREUnVsoerO"><span class="price">$475</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-16 12:46" title="Mon 16 Nov 12:46:33 PM">Nov 16</time> <a href="/msg/5301018043.html" data-id="5301018043" class="hdrlnk">American Highway one strat, black</a> </span> <span class="l2"> <span class="price">$475</span> <span class="pnr"> <small> (Oklahoma City Ok)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5301018043">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5271188278"> <a href="/msg/5271188278.html" class="i" data-ids="0:00q0q_jLLSvVvXCib,0:00t0t_aHGV3M3LYJL,0:00909_3R8MRQun5BA,0:00r0r_1leAfrAZTuF,0:00O0O_1Gykkxwbnc4,0:00h0h_bQLJlBVdldl,0:00h0h_7veenCDQaLw,0:00U0U_kSjjNvrAX1c"><span class="price">$1</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-30 09:12" title="Fri 30 Oct 09:12:59 AM">Oct 30</time> <a href="/msg/5271188278.html" data-id="5271188278" class="hdrlnk">Fender Strat STOLEN- REWARD!!!</a> </span> <span class="l2"> <span class="price">$1</span> <span class="pnr"> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5315312046"> <a href="/msg/5315312046.html" class="i"><span class="price">$1</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-14 08:01" title="Sat 14 Nov 08:01:12 AM">Nov 14</time> <a href="/msg/5315312046.html" data-id="5315312046" class="hdrlnk">Want to buy Strat body</a> </span> <span class="l2"> <span class="price">$1</span> <span class="pnr"> <small> (Okc)</small> <span class="px"> <span class="p"> </span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5295608871"> <a href="/msg/5295608871.html" class="i" data-ids="0:00w0w_2q78iJvLBy0,0:00J0J_d8MWZUD74iS"><span class="price">$225</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-01 14:42" title="Sun 01 Nov 02:42:13 PM">Nov 1</time> <a href="/msg/5295608871.html" data-id="5295608871" class="hdrlnk">epiphone strat</a> </span> <span class="l2"> <span class="price">$225</span> <span class="pnr"> <small> (okc)</small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5276922660"> <a href="/msg/5276922660.html" class="i" data-ids="0:01616_7WbOlO3kPLP,0:00l0l_ewolJvdisjW,0:00D0D_giskxBoDGpY,0:00V0V_6u3SBVuBSxn,0:00D0D_aOHpwgQlJAG"><span class="price">$1000</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-20 12:24" title="Tue 20 Oct 12:24:16 PM">Oct 20</time> <a href="/msg/5276922660.html" data-id="5276922660" class="hdrlnk">Fender American Strat</a> </span> <span class="l2"> <span class="price">$1000</span> <span class="pnr"> <small> (Midwest City)</small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5288738055"> <a href="/msg/5288738055.html" class="i"><span class="price">$800</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-27 22:31" title="Tue 27 Oct 10:31:13 PM">Oct 27</time> <a href="/msg/5288738055.html" data-id="5288738055" class="hdrlnk">Fender American made stratocaster</a> </span> <span class="l2"> <span class="price">$800</span> <span class="pnr"> <small> (Norman)</small> <span class="px"> <span class="p"> </span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5303424084"> <a href="/msg/5303424084.html" class="i" data-ids="0:01313_5Of3G4CfwOG,0:00e0e_7Xta19w9wVZ,0:00505_juoUHLKGtof,0:00m0m_e0CDZVw7ANr"><span class="price">$90</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-06 12:40" title="Fri 06 Nov 12:40:32 PM">Nov 6</time> <a href="/msg/5303424084.html" data-id="5303424084" class="hdrlnk">Squirer Strat Guitar and SP 10 practice amp</a> </span> <span class="l2"> <span class="price">$90</span> <span class="pnr"> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5277380456" data-repost-of="4817891547"> <a href="/msg/5277380456.html" class="i" data-ids="0:00R0R_gybL3J5tQtu,0:00o0o_8SKHucKfVhb,0:00W0W_3yeBrxnh6Gi"><span class="price">$90</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-20 16:29" title="Tue 20 Oct 04:29:22 PM">Oct 20</time> <a href="/msg/5277380456.html" data-id="5277380456" class="hdrlnk">Fender Affinity Squire Strat</a> </span> <span class="l2"> <span class="price">$90</span> <span class="pnr"> <small> (okc)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5277380456">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5286310815"> <a href="/msg/5286310815.html" class="i" data-ids="0:00b0b_9dVlNgNAjcP,0:00w0w_l7Qj5ersW40,0:00x0x_h0Kt53nihF9,0:01616_9LnFUyMIuMk,0:00C0C_jNhtOwwn3ef,0:00g0g_jnA3a2bMeFf,0:00h0h_8JAMSMX2eVj"><span class="price">$400</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-28 18:32" title="Wed 28 Oct 06:32:02 PM">Oct 28</time> <a href="/msg/5286310815.html" data-id="5286310815" class="hdrlnk">Fender Stratocaster and Crate tube amp</a> </span> <span class="l2"> <span class="price">$400</span> <span class="pnr"> <small> (Moore, OK)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5286310815">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5274091470" data-repost-of="5125672911"> <a href="/msg/5274091470.html" class="i"><span class="price">$100</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-18 16:17" title="Sun 18 Oct 04:17:31 PM">Oct 18</time> <a href="/msg/5274091470.html" data-id="5274091470" class="hdrlnk">Fender squier strat for sale</a> </span> <span class="l2"> <span class="price">$100</span> <span class="pnr"> <small> (SW 104th &amp; S May)</small> <span class="px"> <span class="p"> </span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5279236051"> <a href="/msg/5279236051.html" class="i" data-ids="0:00T0T_6xhBqVkPBAR,0:00z0z_4QUlOFbqe9S,0:00A0A_dmN5SnBcxDN,0:00X0X_8L4KRBDqDwM,0:00707_4xnG6CRxFYB,0:00i0i_8iJMGJSZOUP"><span class="price">$350</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-21 19:04" title="Wed 21 Oct 07:04:00 PM">Oct 21</time> <a href="/msg/5279236051.html" data-id="5279236051" class="hdrlnk">Fender strat/line 6 amp</a> </span> <span class="l2"> <span class="price">$350</span> <span class="pnr"> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5279236051">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5317090198"> <a href="/msg/5317090198.html" class="i" data-ids="0:00w0w_fLbSl2cVN4Y,0:00w0w_8cJ8sMLrKl4,0:00O0O_3pQosEhmvW3,0:00i0i_ghpf0PHLBU4,0:00v0v_8UJtodNwWpx,0:00k0k_8bpSq3TcnX,0:01212_ht9P1Z3WNE8,0:00C0C_dg9ZxvdcAbe,0:00x0x_5U0QexaZsMq,0:00707_8YioFjcrbI,0:00T0T_3PlatKYNmto,0:00P0P_emmGMD4BI0P,0:00f0f_ao1P2x5mx2U,0:00m0m_5ORv66ELlBF"><span class="price">$2500</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-15 12:15" title="Sun 15 Nov 12:15:17 PM">Nov 15</time> <a href="/msg/5317090198.html" data-id="5317090198" class="hdrlnk">Jackson PC-1 Phil Collen Electric Guitar (with Case) 2011 Solar</a> </span> <span class="l2"> <span class="price">$2500</span> <span class="pnr"> <small> (Norman)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5317090198">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5316891392"> <a href="/msg/5316891392.html" class="i" data-ids="0:00707_3ROH3qcNZaf,0:00909_kVzokxssR1M"><span class="price">$1500</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-15 10:02" title="Sun 15 Nov 10:02:26 AM">Nov 15</time> <a href="/msg/5316891392.html" data-id="5316891392" class="hdrlnk">USA Charvel San Dimas style 2 2H Pagan Gold</a> </span> <span class="l2"> <span class="price">$1500</span> <span class="pnr"> <small> (Norman)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5316891392">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5264036406"> <a href="/msg/5264036406.html" class="i" data-ids="0:00w0w_9mSx7fAfoVY,0:00Q0Q_iYiA8axtunz,0:00505_hxRKpzkotXp"><span class="price">$350</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-12 10:08" title="Mon 12 Oct 10:08:24 AM">Oct 12</time> <a href="/msg/5264036406.html" data-id="5264036406" class="hdrlnk">Special Edition Squier Strat by Fender Guitar w/amp</a> </span> <span class="l2"> <span class="price">$350</span> <span class="pnr"> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5264036406">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5268637685"> <a href="/msg/5268637685.html" class="i" data-ids="0:00u0u_gAFF4dEHFL3,0:00X0X_5XDny0Y9VGd,0:00o0o_cOC7CIQg0YE,0:00p0p_8qOozCCk2Ga,0:00w0w_6Fj2amvlh8q,0:01717_cxa7yhEJCaJ"><span class="price">$250</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-15 00:35" title="Thu 15 Oct 12:35:41 AM">Oct 15</time> <a href="/msg/5268637685.html" data-id="5268637685" class="hdrlnk">Fender Stratocaster</a> </span> <span class="l2"> <span class="price">$250</span> <span class="pnr"> <small> (Seminole,Ok)</small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5271144336"> <a href="/msg/5271144336.html" class="i" data-ids="0:00M0M_gGaXNrSdPEf,0:00o0o_jkvTx8XiZBP"><span class="price">$299</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-16 14:57" title="Fri 16 Oct 02:57:26 PM">Oct 16</time> <a href="/msg/5271144336.html" data-id="5271144336" class="hdrlnk">Fender Stratocaster (Mexican) &amp; Guitar Case</a> </span> <span class="l2"> <span class="price">$299</span> <span class="pnr"> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5298339206"> <a href="/msg/5298339206.html" class="i" data-ids="0:00I0I_gFttr8hPVRx,0:00a0a_koEKhhTjKps"><span class="price">$1800</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-03 10:17" title="Tue 03 Nov 10:17:35 AM">Nov 3</time> <a href="/msg/5298339206.html" data-id="5298339206" class="hdrlnk">1994 PRS CE 24 FSOT RARE</a> </span> <span class="l2"> <span class="price">$1800</span> <span class="pnr"> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5298339206">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5228421817" data-repost-of="5060660609"> <a href="/msg/5228421817.html" class="i" data-ids="0:00T0T_iFwWf1jb5Mc,0:00404_4UfnZCuSQSq,0:00n0n_kigILh0gnYK,0:01010_4q3Ns0Uf3z3,0:00q0q_hZO9pVXLItp"><span class="price">$400</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-13 19:32" title="Tue 13 Oct 07:32:35 PM">Oct 13</time> <a href="/msg/5228421817.html" data-id="5228421817" class="hdrlnk">Frankenstrat Guitar Fender EVH</a> </span> <span class="l2"> <span class="price">$400</span> <span class="pnr"> <small> (Enid/Okc)</small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5265949367"> <a href="/msg/5265949367.html" class="i" data-ids="0:00V0V_cqewtsQQ7pR,0:00N0N_8OdeklF3eCP,0:00y0y_24UEUnvH3Is,0:00R0R_1passNfiUW7,0:00b0b_akJSJSsKzpj,0:00d0d_hnHtuDECv76"><span class="price">$95</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-13 11:53" title="Tue 13 Oct 11:53:40 AM">Oct 13</time> <a href="/msg/5265949367.html" data-id="5265949367" class="hdrlnk">Squier by Fender Stratocaster</a> </span> <span class="l2"> <span class="price">$95</span> <span class="pnr"> <small> (Edmond)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5265949367">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5257445649"> <a href="/msg/5257445649.html" class="i" data-ids="0:00w0w_1mcu8pf6mv2,0:00404_4nFjINPPzTz,0:00F0F_5FjPu9GNcC6"><span class="price">$350</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-07 19:26" title="Wed 07 Oct 07:26:03 PM">Oct 7</time> <a href="/msg/5257445649.html" data-id="5257445649" class="hdrlnk">Special Edition Squier Strat by Fender w/amp</a> </span> <span class="l2"> <span class="price">$350</span> <span class="pnr"> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5257445649">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5259591256"> <a href="/msg/5259591256.html" class="i" data-ids="0:00J0J_jam69YYLQGA,0:00Y0Y_1TMWym5HTuv,0:00p0p_bV1IjxGITf5,0:00i0i_a9J8GMoyG7c,0:00p0p_kg46aPwlwsv,0:01212_iErmKrBHEPo"><span class="price">$650</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-09 09:31" title="Fri 09 Oct 09:31:32 AM">Oct 9</time> <a href="/msg/5259591256.html" data-id="5259591256" class="hdrlnk">Custom Strat - Butterscotch (NICE!)</a> </span> <span class="l2"> <span class="price">$650</span> <span class="pnr"> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5259591256">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5247704838"> <a href="/msg/5247704838.html" class="i" data-ids="0:00m0m_jdlkBiBtPQ7,0:00B0B_dDzqQhxVWxM,0:00808_e12NkX7RRJ4,0:00N0N_2eKKjddtPhM"><span class="price">$125</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-07 18:06" title="Wed 07 Oct 06:06:59 PM">Oct 7</time> <a href="/msg/5247704838.html" data-id="5247704838" class="hdrlnk">Fender Starter set!</a> </span> <span class="l2"> <span class="price">$125</span> <span class="pnr"> <small> (OKC)</small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5217256794"> <a href="/msg/5217256794.html" class="i" data-ids="0:00b0b_f9FMv4g6RFv,0:00n0n_aJoNdcGwzCy,0:00p0p_bFV7e3zLt3R"><span class="price">$250</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-04 16:12" title="Sun 04 Oct 04:12:23 PM">Oct 4</time> <a href="/msg/5217256794.html" data-id="5217256794" class="hdrlnk">New Fender strat and amp</a> </span> <span class="l2"> <span class="price">$250</span> <span class="pnr"> <small> (Moore)</small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5227955096"> <a href="/msg/5227955096.html" class="i" data-ids="0:00t0t_1LqwA5xa9NM,0:00c0c_bdHylJL6slo,0:00F0F_4UbLYel3ESV"><span class="price">$750</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-04 10:55" title="Sun 04 Oct 10:55:08 AM">Oct 4</time> <a href="/msg/5227955096.html" data-id="5227955096" class="hdrlnk">Peavey 6505 2x12</a> </span> <span class="l2"> <span class="price">$750</span> <span class="pnr"> <small> (NW OKC)</small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5227955096">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p>
+        <h4 class="ban nearby"><span class="bantext">Few local results found. Here are some from nearby areas. Checking 'search nearby areas' will expand your search.</span></h4>
+        <p class="row" data-pid="5318908017" data-repost-of="4901521805"> <a href="//tulsa.craigslist.org/msg/5318908017.html" class="i" data-ids="0:00R0R_4Sv6XMJs3e7"><span class="price">$110</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-16 15:10" title="Mon 16 Nov 03:10:47 PM">Nov 16</time> <a href="//tulsa.craigslist.org/msg/5318908017.html" data-id="5318908017" class="hdrlnk">Fender Squier Strat - Brand New</a> </span> <span class="l2"> <span class="price">$110</span> <span class="pnr"> <small><span class="nearby" title="tulsa"> (tul &gt; South Tulsa)</span></small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5318908017">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5295273771"> <a href="//tulsa.craigslist.org/msg/5295273771.html" class="i" data-ids="0:00f0f_3kOYgrwELtv,0:01212_dOJhe6mCxB0,0:00i0i_lvblgWSh6E9,0:00x0x_fGXMlxBypfj"><span class="price">$300</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-11 12:18" title="Wed 11 Nov 12:18:01 PM">Nov 11</time> <a href="//tulsa.craigslist.org/msg/5295273771.html" data-id="5295273771" class="hdrlnk">Fender strat</a> </span> <span class="l2"> <span class="price">$300</span> <span class="pnr"> <small><span class="nearby" title="tulsa"> (tul &gt; Pawhuska)</span></small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5302221184" data-repost-of="5295371512"> <a href="//tulsa.craigslist.org/msg/5302221184.html" class="i" data-ids="0:00a0a_l1LpcaSaeXT,0:00z0z_bfmsAVyIC5y,0:00202_8PR5IpO62sS,0:00r0r_9tRJ7Ob86Rz,0:00N0N_9KYE0D1pX64,0:00D0D_kGK6Feb97vE,0:00a0a_92lvxvMgLxe,0:00U0U_lxvC78UeJaS,0:00Z0Z_31qiB19tE0n"><span class="price">$300</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-17 23:13" title="Tue 17 Nov 11:13:29 PM">Nov 17</time> <a href="//tulsa.craigslist.org/msg/5302221184.html" data-id="5302221184" class="hdrlnk">Warmoth Relic Strat</a> </span> <span class="l2"> <span class="price">$300</span> <span class="pnr"> <small><span class="nearby" title="tulsa"> (tul &gt; Tulsa)</span></small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5294768092"> <a href="//tulsa.craigslist.org/msg/5294768092.html" class="i" data-ids="0:00c0c_21N7vNpK9KR,0:00x0x_iFrpV0KRaD4,0:00f0f_6Le6lnU3kVG,0:00A0A_aUcZTT3AQv2,0:00k0k_5MTHVgqBLOg"><span class="price">$150</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-15 22:40" title="Sun 15 Nov 10:40:53 PM">Nov 15</time> <a href="//tulsa.craigslist.org/msg/5294768092.html" data-id="5294768092" class="hdrlnk">1998 Fender Bass Guitar</a> </span> <span class="l2"> <span class="price">$150</span> <span class="pnr"> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5294768092">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5306738617"> <a href="//tulsa.craigslist.org/msg/5306738617.html" class="i" data-ids="0:00R0R_aMq64YD5oxc"><span class="price">$150</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-12 12:25" title="Thu 12 Nov 12:25:36 PM">Nov 12</time> <a href="//tulsa.craigslist.org/msg/5306738617.html" data-id="5306738617" class="hdrlnk">Selling a Cherry Sunburst Squire Strat Re-finished</a> </span> <span class="l2"> <span class="price">$150</span> <span class="pnr"> <small><span class="nearby" title="tulsa"> (tul &gt; Tulsa)</span></small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5306738617">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5277869606" data-repost-of="5259773937"> <a href="//tulsa.craigslist.org/msg/5277869606.html" class="i" data-ids="0:00606_l07ALKjeUi1,0:00g0g_8k0neWTVulj,0:01717_gTkEGYWWBCI,0:00q0q_e90fqfxGgXc,0:00e0e_1We6uLa85Yb"><span class="price">$299</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-05 14:25" title="Thu 05 Nov 02:25:34 PM">Nov 5</time> <a href="//tulsa.craigslist.org/msg/5277869606.html" data-id="5277869606" class="hdrlnk">Fender Stratocaster</a> </span> <span class="l2"> <span class="price">$299</span> <span class="pnr"> <small><span class="nearby" title="tulsa"> (tul &gt; tulsa)</span></small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5277869606">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5301826469"> <a href="//tulsa.craigslist.org/msg/5301826469.html" class="i" data-ids="0:01313_4V9Lq0YmnpA,0:00J0J_3yuLaHDvm8U,0:00G0G_aMDLlqTc4Y5,0:00g0g_gdjV3stLtxL,0:00202_4Xy8yUcXB06,0:00f0f_lvFsa4ZshUT,0:00505_42elW3btKgS,0:00Y0Y_31ygKhxjweE,0:00F0F_4uP89MeLOCp,0:00p0p_9o1nIcXg95Z,0:00a0a_4HdWcRxR8y7,0:00R0R_581JzQTS30G,0:00w0w_kRrpA7Bp9Gl,0:00H0H_g4xjYZODL43,0:00b0b_3ZcwKIruNOo,0:00f0f_awYzxU15eN1,0:00w0w_2vAboyUxYdp,0:01414_jRnrShp3237,0:00X0X_3CW43t9ybGw,0:00I0I_iwwuXFfadsY,0:00303_gXVlWj6jLm0,0:00a0a_61VuamwbUPV,0:00X0X_kMLrUc8yFgt,0:00g0g_jv8fU66CeIi"><span class="price">$200</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-05 12:45" title="Thu 05 Nov 12:45:18 PM">Nov 5</time> <a href="//tulsa.craigslist.org/msg/5301826469.html" data-id="5301826469" class="hdrlnk">Fender, Epiphone, Ibanez Guitars</a> </span> <span class="l2"> <span class="price">$200</span> <span class="pnr"> <small><span class="nearby" title="tulsa"> (tul &gt; Tulsa)</span></small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5308492188"> <a href="//tulsa.craigslist.org/msg/5308492188.html" class="i" data-ids="0:01616_92mjK4KjsBg"><span class="price">$700</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-17 08:50" title="Tue 17 Nov 08:50:21 AM">Nov 17</time> <a href="//tulsa.craigslist.org/msg/5308492188.html" data-id="5308492188" class="hdrlnk">1985 MIJ Fender Stratocaster System One &amp; OHSC</a> </span> <span class="l2"> <span class="price">$700</span> <span class="pnr"> <small><span class="nearby" title="tulsa"> (tul &gt; Tulsa)</span></small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5308492188">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5297282739"> <a href="//texoma.craigslist.org/msd/5297282739.html" class="i" data-ids="0:00G0G_62ON6t4bDXn"><span class="price">$80</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-08 23:10" title="Sun 08 Nov 11:10:14 PM">Nov 8</time> <a href="//texoma.craigslist.org/msd/5297282739.html" data-id="5297282739" class="hdrlnk">Fender Squier Strat</a> </span> <span class="l2"> <span class="price">$80</span> <span class="pnr"> <small><span class="nearby" title="texoma"> (txm &gt; dickson/ardmore)</span></small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5297282739">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5305689610" data-repost-of="4941613864"> <a href="//tulsa.craigslist.org/msg/5305689610.html" class="i" data-ids="0:00Y0Y_kxjxfwuSlci,0:00i0i_k0X7srDJ4z1,0:00J0J_gBAxycHL7d5,0:00L0L_dFZWQqQpvJf,0:00K0K_74l7wG0Xn9"><span class="price">$150</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-07 22:23" title="Sat 07 Nov 10:23:26 PM">Nov 7</time> <a href="//tulsa.craigslist.org/msg/5305689610.html" data-id="5305689610" class="hdrlnk">1999 Squier Strat Affinity Series</a> </span> <span class="l2"> <span class="price">$150</span> <span class="pnr"> <small><span class="nearby" title="tulsa"> (tul &gt; Tulsa)</span></small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5305689610">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5302490976" data-repost-of="4866165006"> <a href="//wichitafalls.craigslist.org/msg/5302490976.html" class="i" data-ids="0:00r0r_bSZ10bTqNKW,0:00S0S_hrFqlYHU1oy,0:00Y0Y_ePn5sxPOeHT,0:00u0u_1CupK9xaenw"><span class="price">$325</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-05 19:38" title="Thu 05 Nov 07:38:37 PM">Nov 5</time> <a href="//wichitafalls.craigslist.org/msg/5302490976.html" data-id="5302490976" class="hdrlnk">87 Fender Japan Squire Stratocaster</a> </span> <span class="l2"> <span class="price">$325</span> <span class="pnr"> <small><span class="nearby" title="wichita falls"> (wtf &gt; Wichita Falls)</span></small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5318206130" data-repost-of="5168508504"> <a href="//tulsa.craigslist.org/msg/5318206130.html" class="i" data-ids="0:00T0T_4sX2gB3pLqr,0:00V0V_gygJ18tJGfl,0:00t0t_4u63i2asULQ,0:00L0L_gU43ALpROyu,0:00y0y_lNhhf60rMPy"><span class="price">$550</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-16 09:07" title="Mon 16 Nov 09:07:24 AM">Nov 16</time> <a href="//tulsa.craigslist.org/msg/5318206130.html" data-id="5318206130" class="hdrlnk">80's Black MIJ Strat E Serial</a> </span> <span class="l2"> <span class="price">$550</span> <span class="pnr"> <small><span class="nearby" title="tulsa"> (tul &gt; Tulsa)</span></small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5310786440"> <a href="//tulsa.craigslist.org/msg/5310786440.html" class="i" data-ids="0:01212_a0UofqdcIgV,0:00k0k_jkxjllwqnd6,0:00H0H_ir0MMJAD1gY"><span class="price">$250</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-14 10:21" title="Sat 14 Nov 10:21:42 AM">Nov 14</time> <a href="//tulsa.craigslist.org/msg/5310786440.html" data-id="5310786440" class="hdrlnk">Blue MIM Fender Stratocaster</a> </span> <span class="l2"> <span class="price">$250</span> <span class="pnr"> <small><span class="nearby" title="tulsa"> (tul &gt; Stillwater)</span></small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5286756788"> <a href="//tulsa.craigslist.org/msg/5286756788.html" class="i" data-ids="0:00h0h_kMNOafemN7h,0:00x0x_2u4EVSyrnAR"><span class="price">$65</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-26 17:47" title="Mon 26 Oct 05:47:05 PM">Oct 26</time> <a href="//tulsa.craigslist.org/msg/5286756788.html" data-id="5286756788" class="hdrlnk">Fender Strat (Squier 2)</a> </span> <span class="l2"> <span class="price">$65</span> <span class="pnr"> <small><span class="nearby" title="tulsa"> (tul &gt; Bixby)</span></small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5292316791"> <a href="//tulsa.craigslist.org/msg/5292316791.html" class="i" data-ids="0:00J0J_eoIlyPlnTWg,0:00r0r_1leAfrAZTuF,0:00U0U_kSjjNvrAX1c"><span class="price">$1</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-30 09:32" title="Fri 30 Oct 09:32:32 AM">Oct 30</time> <a href="//tulsa.craigslist.org/msg/5292316791.html" data-id="5292316791" class="hdrlnk">Fender Stratocaster American FSR</a> </span> <span class="l2"> <span class="price">$1</span> <span class="pnr"> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5276041965"> <a href="//tulsa.craigslist.org/msg/5276041965.html" class="i" data-ids="0:00909_dAwuTWUbrRU,0:00z0z_86ZoD5G4MaX"><span class="price">$1300</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-19 20:08" title="Mon 19 Oct 08:08:16 PM">Oct 19</time> <a href="//tulsa.craigslist.org/msg/5276041965.html" data-id="5276041965" class="hdrlnk">American Fender Select Strat HSS</a> </span> <span class="l2"> <span class="price">$1300</span> <span class="pnr"> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5270807501"> <a href="//stillwater.craigslist.org/msg/5270807501.html" class="i" data-ids="0:00I0I_g9UjnEZFgf9"><span class="price">$500</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-16 12:02" title="Fri 16 Oct 12:02:08 PM">Oct 16</time> <a href="//stillwater.craigslist.org/msg/5270807501.html" data-id="5270807501" class="hdrlnk">Fender Squire Strat, Cord, Fender Mustang 3 Amp</a> </span> <span class="l2"> <span class="price">$500</span> <span class="pnr"> <small><span class="nearby" title="stillwater"> (osu &gt; Drumright, OK)</span></small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5275660352"> <a href="//tulsa.craigslist.org/msg/5275660352.html" class="i" data-ids="0:00W0W_jJuOUmC3rT9"><span class="price">$120</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-19 15:51" title="Mon 19 Oct 03:51:09 PM">Oct 19</time> <a href="//tulsa.craigslist.org/msg/5275660352.html" data-id="5275660352" class="hdrlnk">Fender Squier Strat w/ Amp</a> </span> <span class="l2"> <span class="price">$120</span> <span class="pnr"> <small><span class="nearby" title="tulsa"> (tul &gt; Verdigris)</span></small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5275660352">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5320197993"> <a href="//texoma.craigslist.org/snw/5320197993.html" class="i" data-ids="0:00l0l_3AyStpsXw0B"><span class="price">$1966</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-17 12:52" title="Tue 17 Nov 12:52:15 PM">Nov 17</time> <a href="//texoma.craigslist.org/snw/5320197993.html" data-id="5320197993" class="hdrlnk">looks good and rides nice Brute Force Power Ready To Ride 07 Kawasaki</a> </span> <span class="l2"> <span class="price">$1966</span> <span class="pnr"> <small><span class="nearby" title="texoma"> (txm &gt; texoma)</span></small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5289850037" data-repost-of="5198674416"> <a href="//texoma.craigslist.org/msg/5289850037.html" class="i" data-ids="0:00J0J_kfBYilg7l2y"><span class="price">$1200</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-17 10:39" title="Tue 17 Nov 10:39:24 AM">Nov 17</time> <a href="//texoma.craigslist.org/msg/5289850037.html" data-id="5289850037" class="hdrlnk">2011 Eric Clapton Stratocaster Really like new</a> </span> <span class="l2"> <span class="price">$1200</span> <span class="pnr"> <small><span class="nearby" title="texoma"> (txm &gt; Paris, Texas)</span></small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5289850037">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5233835586" data-repost-of="4731232599"> <a href="//tulsa.craigslist.org/msg/5233835586.html" class="i" data-ids="0:00606_al06FjhUQYP"><span class="price">$125</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-18 16:50" title="Sun 18 Oct 04:50:20 PM">Oct 18</time> <a href="//tulsa.craigslist.org/msg/5233835586.html" data-id="5233835586" class="hdrlnk">SQUIRE STRAT FENDER ELECTRIC GUITAR</a> </span> <span class="l2"> <span class="price">$125</span> <span class="pnr"> <small><span class="nearby" title="tulsa"> (tul &gt; TAHLEQUAH)</span></small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5233835586">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5312383103"> <a href="//lawton.craigslist.org/msg/5312383103.html" class="i" data-ids="0:00Z0Z_bvs9PeOTNLN,0:00h0h_fM3CXHBvey,0:00n0n_13SSqYaDdmw,0:00k0k_doy9PPuKTDb,0:01616_eAUABlvuBk8"><span class="price">$1400</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-12 10:49" title="Thu 12 Nov 10:49:49 AM">Nov 12</time> <a href="//lawton.craigslist.org/msg/5312383103.html" data-id="5312383103" class="hdrlnk">2006 Paul Reed Smith Standard 24</a> </span> <span class="l2"> <span class="price">$1400</span> <span class="pnr"> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5295307577"> <a href="//tulsa.craigslist.org/msg/5295307577.html" class="i" data-ids="0:00o0o_9eRkjxX7fAU,0:00606_9GkLjhn5UuI,0:00l0l_aqngCPJDLTZ,0:01010_hvd7G81uvCZ,0:00909_72AZGPvXhu5"><span class="price">$1100</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-11 12:18" title="Wed 11 Nov 12:18:12 PM">Nov 11</time> <a href="//tulsa.craigslist.org/msg/5295307577.html" data-id="5295307577" class="hdrlnk">Mesa boogie lonestar amp</a> </span> <span class="l2"> <span class="price">$1100</span> <span class="pnr"> <small><span class="nearby" title="tulsa"> (tul &gt; Pawhuska)</span></small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5298980799"> <a href="//tulsa.craigslist.org/msg/5298980799.html" class="i" data-ids="0:00X0X_814lYHpkypb,0:00404_k8oUxeXJrwK"></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-03 15:52" title="Tue 03 Nov 03:52:04 PM">Nov 3</time> <a href="//tulsa.craigslist.org/msg/5298980799.html" data-id="5298980799" class="hdrlnk">Guitar/amp $175</a> </span> <span class="l2"> <span class="pnr"> <small><span class="nearby" title="tulsa"> (tul &gt; Tulsa)</span></small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5295692997"> <a href="//tulsa.craigslist.org/msg/5295692997.html" class="i" data-ids="0:00i0i_iNeTqEqKawo,0:00505_3DM6RaG9WsD,0:00a0a_c3bwgMZkmL1"><span class="price">$130</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-01 15:40" title="Sun 01 Nov 03:40:11 PM">Nov 1</time> <a href="//tulsa.craigslist.org/msg/5295692997.html" data-id="5295692997" class="hdrlnk">2 Guitars for 130$</a> </span> <span class="l2"> <span class="price">$130</span> <span class="pnr"> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5291086186" data-repost-of="5153139302"> <a href="//wichitafalls.craigslist.org/msg/5291086186.html" class="i"></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-29 12:55" title="Thu 29 Oct 12:55:26 PM">Oct 29</time> <a href="//wichitafalls.craigslist.org/msg/5291086186.html" data-id="5291086186" class="hdrlnk">Music Gear. Guitars, amps, pedals</a> </span> <span class="l2"> <span class="pnr"> <span class="px"> <span class="p"> </span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5236419152" data-repost-of="5104097663"> <a href="//tulsa.craigslist.org/msg/5236419152.html" class="i" data-ids="0:00808_9owDjA4swf,0:00H0H_kgbVPwB2snw,0:00S0S_jyNHutyExMS,0:00g0g_1FWzJMUVg9C,0:00606_67YPEBjy5iE,0:00R0R_ipoghCfEc31,0:00k0k_gpRSG8p4KUi,0:00b0b_j9TcUTiJq80,0:00404_iIC4OdsAvQZ,0:00404_cInI9995E2O,0:00K0K_1pZqeFKa5ta,0:00u0u_4srXgcPcq9r,0:00g0g_aQ4OUK6LtNr,0:00I0I_WMRAaaRiKz,0:00707_cNcCtnbRzSI,0:00W0W_eNjyNqqGVYD,0:00j0j_gbyaO3OJPiU,0:00r0r_2YwrPF3rKuJ,0:00E0E_97TK1EwhGEM"><span class="price">$1</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-17 13:55" title="Sat 17 Oct 01:55:25 PM">Oct 17</time> <a href="//tulsa.craigslist.org/msg/5236419152.html" data-id="5236419152" class="hdrlnk">GREAT DEALS ON BARELY USED MUSIC GEAR!</a> </span> <span class="l2"> <span class="price">$1</span> <span class="pnr"> <small><span class="nearby" title="tulsa"> (tul &gt; Tulsa)</span></small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5267489858"> <a href="//tulsa.craigslist.org/msg/5267489858.html" class="i" data-ids="0:00404_5aGN3RaWKr1"><span class="price">$120</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-14 10:52" title="Wed 14 Oct 10:52:05 AM">Oct 14</time> <a href="//tulsa.craigslist.org/msg/5267489858.html" data-id="5267489858" class="hdrlnk">Guitar</a> </span> <span class="l2"> <span class="price">$120</span> <span class="pnr"> <small><span class="nearby" title="tulsa"> (tul &gt; Muskogee)</span></small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5266587585" data-repost-of="5159255984"> <a href="//texoma.craigslist.org/msg/5266587585.html" class="i"></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-13 17:41" title="Tue 13 Oct 05:41:57 PM">Oct 13</time> <a href="//texoma.craigslist.org/msg/5266587585.html" data-id="5266587585" class="hdrlnk">Quality guitars @ low prices</a> </span> <span class="l2"> <span class="pnr"> <small><span class="nearby" title="texoma"> (txm &gt; Ardmore)</span></small> <span class="px"> <span class="p"> </span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5254547403"> <a href="//tulsa.craigslist.org/msg/5254547403.html" class="i" data-ids="0:00E0E_dOfwAWNHBfj,0:00Q0Q_lhoHXRtf8Gl,0:00101_6i74mePDJe6,0:01010_gIwp34CLNFJ,0:00000_fn92Ft0zLER"><span class="price">$1500</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-06 03:59" title="Tue 06 Oct 03:59:04 AM">Oct 6</time> <a href="//tulsa.craigslist.org/msg/5254547403.html" data-id="5254547403" class="hdrlnk">Fender Strat. &amp; Twin reverb</a> </span> <span class="l2"> <span class="price">$1500</span> <span class="pnr"> <small><span class="nearby" title="tulsa"> (tul &gt; Tulsa area)</span></small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5209318084" data-repost-of="5076314100"> <a href="//tulsa.craigslist.org/msg/5209318084.html" class="i" data-ids="0:01616_1dRaC6bw7Ti,0:00R0R_cb43mrx9vBo,0:00f0f_hzQlENz6ojk,0:00o0o_eG1TBbgdo91,0:00T0T_70cXEEEOu9y,0:00f0f_jXdtYDSA65Z,0:00606_g2HCUlYHMvs"><span class="price">$59</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-05 21:45" title="Mon 05 Oct 09:45:40 PM">Oct 5</time> <a href="//tulsa.craigslist.org/msg/5209318084.html" data-id="5209318084" class="hdrlnk">Fender Squier mini-strat Stratocaster</a> </span> <span class="l2"> <span class="price">$59</span> <span class="pnr"> <small><span class="nearby" title="tulsa"> (tul &gt; Tulsa)</span></small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5246909148" data-repost-of="4967114909"> <a href="//tulsa.craigslist.org/msg/5246909148.html" class="i"><span class="price">$35</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-05 16:05" title="Mon 05 Oct 04:05:17 PM">Oct 5</time> <a href="//tulsa.craigslist.org/msg/5246909148.html" data-id="5246909148" class="hdrlnk">Fender MIM strat pickups</a> </span> <span class="l2"> <span class="price">$35</span> <span class="pnr"> <small><span class="nearby" title="tulsa"> (tul &gt; South Tulsa)</span></small> <span class="px"> <span class="p"> </span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p><p class="row" data-pid="5258121096"> <a href="//tulsa.craigslist.org/gms/5258121096.html" class="i"></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-08 10:26" title="Thu 08 Oct 10:26:15 AM">Oct 8</time> <a href="//tulsa.craigslist.org/gms/5258121096.html" data-id="5258121096" class="hdrlnk">Garage Sale</a> </span> <span class="l2"> <span class="pnr"> <small><span class="nearby" title="tulsa"> (tul &gt; Oologah)</span></small> <span class="px"> <span class="p"> <span class="maptag" data-pid="5258121096">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p>
+        <div id="mapcontainer" data-arealat="35.467499" data-arealon="-97.516098">
+        <div id="noresult_overlay"></div>
+        <div id="noresult_text">
+        <span class="message">No mappable items found</span>
+        </div>
+        <div id="map" class="loading"><div class="closeFS">close fullscreen</div></div>
+        </div>
+        <div class="search-legend bottom">
+        <div class="center">
+        <div class="search-view">
+        <span class="buttongroup"><a class="backtotop button" href="#pagecontainer">^ back to top</a></span>
+        </div>
+        <div class="search-sort">
+        <span class="buttongroup"><a class="backtotop button" href="#pagecontainer">^ back to top</a></span>
+        </div>
+        <span class="paginator buttongroup  firstpage lastpage"><span class="resulttotal">displaying <span class="displaycount">...</span> postings</span><span class="buttons"><a href="/search/sss?query=fender%20strat&amp;sort=rel" class="button first" title="first page">&lt;&lt;</a><span class="button first" title="first page">&lt;&lt;</span><a href="/search/sss?query=fender%20strat&amp;sort=rel" class="button prev" title="previous page">&lt; prev</a><span class="button prev" title="previous page">&lt; prev</span><span class="button pagenum"><span class="range"><span class="rangeFrom">1</span> to <span class="rangeTo">43</span></span> <span class="of-total">of <span class="totalcount">43</span></span></span><a href="/search/sss?s=43&amp;query=fender%20strat&amp;sort=rel" class="button next" title="next page"> next &gt; </a><span class="button next" title="next page"> next &gt; </span></span></span>
+        </div>
+        </div>
+        </div>
+        </div>
+        <section class="blurbs">
+        </section>
+        <div id="floater">
+        <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+        <img class="payload" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+        </div>
+        <template id="gallerycarousel">
+        <div class="sliderinfo"></div><div class="sliderback arrow">&lt;</div><div class="sliderforward arrow">&gt;</div>
+        </template>
+        </form>
+        </div>
+        <div class="mobile-only">
+        <aside class="tsb">
+        <ul>
+        <li><a href="//www.craigslist.org/about/safety">safety tips</a>
+        <li><a href="//www.craigslist.org/about/prohibited">prohibited items</a>
+        <li><a href="//www.craigslist.org/about/recalled_items">product recalls</a>
+        <li><a href="//www.craigslist.org/about/scams">avoiding scams</a>
+        </ul>
+        </aside>
+        </div>
+        <div class="discards footstool no-mobile js-only">
+        <p><strong class="hidden_count withmap"></strong><strong class="hidden_count nomap"></strong> dismissed</p>
+        <div class="show-discards-link linklike" role="button" tabindex="0">click to show</div>
+        <div class="hide-discards-link linklike" role="button" tabindex="0">click to hide</div>
+        </div>
+        <footer>
+        <span class="rss">
+        <a class="l" href="https://oklahomacity.craigslist.org/search/sss?format=rss&amp;query=fender%20strat&amp;sort=rel">RSS</a>
+        <a href="http://www.craigslist.org/about/rss">(?)</a><br>
+        </span>
+        <ul class="clfooter">
+        <li>&copy; 2015 <span class="desktop">craigslist</span><span class="mobile">CL</span></li>
+        <li><a href="//www.craigslist.org/about/help/">help</a></li>
+        <li><a href="//www.craigslist.org/about/scams">safety</a></li>
+        <li class="desktop"><a href="//www.craigslist.org/about/privacy.policy">privacy</a></li>
+        <li class="desktop"><a href="https://forums.craigslist.org/?forumID=8">feedback</a></li>
+        <li class="desktop"><a href="//www.craigslist.org/about/craigslist_is_hiring">cl jobs</a></li>
+        <li><a href="//www.craigslist.org/about/terms.of.use">terms</a></li>
+        <li><a href="//www.craigslist.org/about/">about</a></li>
+        <li class="fsel desktop linklike" data-mode="mobile">mobile</li>
+        <li class="fsel mobile linklike" data-mode="regular">desktop</li>
+        </ul>
+        </footer>
+        </section>
+        <script src="//www.craigslist.org/js/general-concat.min.js?v=1a94c79813524ef10e7629a536afe029" type="text/javascript"></script>
+        <script type="text/javascript"><!--
+                var iframe = document.createElement('iframe');
+                iframe.style.display = 'none';
+                iframe.src = '//www.' + CL.url.baseDomain + '/static/localstorage.html?v=51a29e41f8e978141e4085ed4a77d170';
+                document.body.insertBefore(iframe, null);
+            --></script>
+        <script type="text/template" id="clustertemplate">
+            <li class="posting {visited}" data-pid="{PostingID}">
+                <img src="{ImageThumb}">
+                <div class="housing_bubble_banner">
+                    <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+                    <span class="bedrooms">{BedroomsContent}</span>
+                    <span class="postingtitle"><a>{PostingTitle}</a></span>
+                    <span class="js-only map-banish-unbanish no-mobile">
+                        <span class="banish" title="hide">[&times;]</span><span class="unbanish" title="unhide">[undo]</span>
+                    </span>
+                </div>
+            </li>
+        </script>
+        <script type="text/template" id="postingtemplate">
+            <div class="viewcontainer pics loading">
+                <div class="backtolist">
+                    &laquo; back to posting list
+                </div>
+                <div class="title">
+                    <span class="star" data-pid="{PostingID}"></span>
+                    <span class="postingtitle">
+                      <a href="{PostingURL}" target="_blank">{PostingTitle}</a>
+                    </span>
+                    <div>
+                        <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+                        <span class="bedrooms">{BedroomsContent}</span>
+                        <span class="js-only map-banish-unbanish no-mobile" data-pid="{PostingID}">
+                          <span class="banish" title="dismiss">[&times;]</span><span class="unbanish" title="allow">[undo]</span>
+                        </span>
+                    </div>
+                </div>
+                <hr style="clear:both">
+                <div class="picscontainer">
+                    <div class="slidernav">
+                        <span class="sliderback">&lt;</span><span class="sliderinfo"></span><span class="sliderforward">&gt;</span>
+                    </div>
+                    <div class="swipe">
+                        <div class="swipe-wrap">
+                            <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+                        </div>
+                    </div>
+                </div>
+                <div class="infocontainer"></div>
+                <hr style="clear:both">
+                <abbr class="date timeago" title="{isoPostedDate}">{humanPostedDate}</abbr>
+                <a class="viewpostinglink" href="{PostingURL}" target="_blank">view posting</a>
+                <div class="contenttoggle">
+                    <a class="moreinfo">more info</a>
+                    <a class="showpics">show images</a>
+                </div>
+            </div>
+        </script>
+        <script type="text/template" id="popuptemplate">
+            <div id="mapbubble" class="posting">
+                <ul id="clusterbubble"></ul>
+                <div id="postbubble"></div>
+            </div>
+        </script>
+        <script src="//www.craigslist.org/js/leaflet-concat.min.js?v=2173bed4f7c969e0e3a670ec6c1d73b4" type="text/javascript"></script>
+        <script src="//www.craigslist.org/js/search-concat.min.js?v=70372652bebd74563df0666668228a58" type="text/javascript"></script>
+        </body>
+        </html>
+    http_version: 
+  recorded_at: Wed, 18 Nov 2015 14:26:34 GMT
+recorded_with: VCR 2.9.2

@@ -1,4 +1,5 @@
 require 'sinatra/base'
+require_relative 'models/crawler'
 Dir[__dir__ + '/models/**/*.rb'].each { |file| require file }
 Dir[__dir__ + '/config/*.rb'].each    { |file| require file }
 
@@ -7,6 +8,7 @@ class GearCrawler < Sinatra::Base
   CRAWLERS = [
     GuitarCenter,
     Reverb,
+    Craigslist,
   ]
 
   ONE_DAY = 86400 # Since we have have no `1.days` from rails :)
@@ -17,7 +19,7 @@ class GearCrawler < Sinatra::Base
     if params[:q]
       CRAWLERS.each do |crawler|
 
-        # TODO maybe move the VCR part into Crawler.search
+        # TODO maybe move the VCR config into Crawler.search
         VCR.use_cassette("#{crawler}_#{params[:q]}", re_record_interval: ONE_DAY) do
           results.push(
             *crawler

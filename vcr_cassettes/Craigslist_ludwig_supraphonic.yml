@@ -1,0 +1,629 @@
+---
+http_interactions:
+- request:
+    method: get
+    uri: http://oklahomacity.craigslist.org/search/sss?query=ludwig%20supraphonic&sort=rel
+    body:
+      encoding: US-ASCII
+      string: ''
+    headers:
+      Accept-Encoding:
+      - gzip;q=1.0,deflate;q=0.6,identity;q=0.3
+      Accept:
+      - "*/*"
+      User-Agent:
+      - Ruby
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Cache-Control:
+      - max-age=900, public
+      Last-Modified:
+      - Wed, 18 Nov 2015 16:57:44 GMT
+      Date:
+      - Wed, 18 Nov 2015 16:57:43 GMT
+      Vary:
+      - Accept-Encoding
+      Content-Length:
+      - '9250'
+      Content-Type:
+      - text/html; charset=utf-8
+      X-Mod-Pagespeed:
+      - 1.6.29.7-3566
+      Set-Cookie:
+      - cl_b=kuF_fBWO5RGXrs9FYMm_nAFE+gw;path=/;domain=.craigslist.org;expires=Fri,
+        01-Jan-2038 00:00:00 GMT
+      Server:
+      - Apache
+      Expires:
+      - Wed, 18 Nov 2015 17:12:44 GMT
+    body:
+      encoding: ASCII-8BIT
+      string: |-
+        <!DOCTYPE html>
+        <html class="no-js"><head>
+        <title>oklahoma city for sale &quot;ludwig supraphonic&quot; - craigslist</title>
+        <meta name="description" content="oklahoma city for sale &quot;ludwig supraphonic&quot; - craigslist">
+        <link rel="canonical" href="https://oklahomacity.craigslist.org/search/sss">
+        <link rel="alternate" type="application/rss+xml" href="https://oklahomacity.craigslist.org/search/sss?format=rss&amp;query=ludwig%20supraphonic&amp;sort=rel" title="RSS feed for craigslist | oklahoma city for sale &quot;ludwig supraphonic&quot; - craigslist ">
+        <meta name="viewport" content="initial-scale=1.0, user-scalable=1">
+        <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/cl.css?v=4c601abdc54d1bc546a8e0c650ddbecb">
+        <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/search.css?v=9a56cb7c538fd8ae19867478cbc167e2">
+        <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/jquery-ui-clcustom.css?v=a2b949791ca2b6e0853826199c684c5f">
+        <link rel="prefetch" href="//www.craigslist.org/js/postings-concat.min.js?v=1d799a731e5520b99ff5fbc3cfb15022">
+        <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/leaflet-stock.css?v=9beff37f1a66f89f2dcbd90bdfffe826">
+        <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/MarkerCluster.css?v=c9937ed03fbb57f185493cd8c283efeb">
+        <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps.css?v=4b8e149bc3b9ea301df4959bc7220040">
+        <!--[if IE]>
+            <link type="text/css" rel="stylesheet" media="all" href="//www.craigslist.org/styles/tocsmaps-ie.css?v=b21742b2ebe243963373e956ea115db0">
+        <![endif]-->
+        <script type="text/javascript"><!--
+                    var defaultView = "grid";
+        var expiredFavIDs = [];
+        var subarea = null;
+        var maxResults = 2500;
+        var odaCats = {"193,194":["hvo","hvd","hva"],"20,190":["wan","wad","waa"],"122,163":["pts","ptd","pta"],"153,165":["mob","mod","moa"],"136,183":["mat","mad","maa"],"95,177":["clt","cbd","cba"],"5,179":["for","fod","foa"],"191,192":["snw","snd","sna"],"7,166":["sys","syd","sya"],"132,188":["tag","tad","taa"],"124,168":["rvs","rvd","rva"],"152,180":["hab","had","haa"],"68,172":["bik","bid","bia"],"97,181":["hsh","hsd","hsa"],"197,198":["bop","bdp","bip"],"98,184":["msg","msd","msa"],"134,174":["bfs","bfd","bfa"],"201,202":["bpo","bpd","bpa"],"145,146":["cto","ctd","cta"],"199,200":["sop","sdp","syp"],"94,176":["clo","cld","cla"],"133,178":["grd","grq","gra"],"150,169":["atq","atd","ata"],"118,187":["tls","tld","tla"],"151,189":["vgm","vgd","vga"],"96,167":["ele","eld","ela"],"107,171":["bab","bad","baa"],"117,175":["emd","emq","ema"],"section":["sso","ssq","sss"],"69,160":["mcy","mcd","mca"],"135,170":["art","ard","ara"],"149,162":["app","ppd","ppa"],"195,196":["mpo","mpd","mpa"],"141,142":["fuo","fud","fua"],"203,204":["wto","wtd","wta"],"93,186":["spo","sgd","sga"],"119,164":["boa","bod","boo"],"92,173":["bks","bkd","bka"],"120,182":["jwl","jwd","jwa"],"44,161":["tix","tid","tia"],"137,185":["pho","phd","pha"]};
+        var lessInfoText = "less info";
+        var showMapTabs = 1;
+        var areaID = "54";
+        var starHint = "save this post in your favorites list";
+        var sectionAbb = "sss";
+        var catAbb = "sss";
+        var currencySymbol = "&#x0024;";
+        var maptileBaseUrl = "//map{s}.craigslist.org/t07/{z}/{x}/{y}.png";
+        var areaRegion = "OK";
+        var noImageText = "no image";
+        var sectionBase = "sss";
+        var showInfoText = "show info";
+        var zoomToPosting = null;
+        var imageHost = "http://images.craigslist.org";
+        var areaCountry = "US";
+        var countOfTotalText = "image {count} of {total}";
+        var pID = null;
+
+                --></script>
+        <!--[if lt IE 9]>
+        <script src="//www.craigslist.org/js/html5shiv.min.js?v=096822b653643ed1af3136947e4ea79a" type="text/javascript" ></script>
+        <![endif]-->
+        <!--[if lte IE 7]>
+        <script src="//www.craigslist.org/js/json2.min.js?v=178d4ad319e0e0b4a451b15e49b71bec" type="text/javascript" ></script>
+        <![endif]-->
+        </head>
+        <body class="search">
+        <script type="text/javascript"><!--
+            function C(k){return(document.cookie.match('(^|; )'+k+'=([^;]*)')||0)[2]}
+            var pagetype, pagemode;
+            (function(){
+                var h = document.documentElement;
+                h.className = h.className.replace('no-js', 'js');
+                var b = document.body;
+                var bodyClassList = b.className.split(/\s+/);;
+                pagetype = bodyClassList[0]; // dangerous assumption
+                var fmt = C('cl_fmt');
+                if ( fmt === 'regular' || fmt === 'mobile' ) {
+                    pagemode = fmt;
+                } else if (screen.width <= 480) {
+                    pagemode = 'mobile';
+                } else {
+                    pagemode = 'regular';
+                }
+                var lng = C('cl_def_lang');
+                if (lng) bodyClassList.push(lng);
+                pagemode = pagemode === 'mobile' ? 'mobile' : 'desktop';
+                bodyClassList.push(pagemode);
+                if (C('hidesearch') === '1' && pagemode !== 'mobile') {
+                    bodyClassList.push('hide-search');
+                }
+                var width = window.innerWidth || document.documentElement.clientWidth;
+                if (width > 1000) { bodyClassList.push('w1024'); }
+                if (typeof window.sectionBase !== 'undefined') {
+                    var mode = (decodeURIComponent(C('cl_tocmode') || '').match(new RegExp(window.sectionBase + ':([^,]+)', 'i')) || {})[1] || window.defaultView;
+                    if (mode) {
+                        bodyClassList.push(mode);
+                    }
+                }
+                b.className = bodyClassList.join(' ');
+            }());
+        --></script>
+        <section id="pagecontainer">
+        <div class="bglogo"></div>
+        <header class="global-header">
+        <div class="mobile-header">
+        <div class="mobile-menu-button">menu</div>
+        <h2 class="mobile-logo">
+        <a class="mobile-logo-link" href="//oklahomacity.craigslist.org">craigslist</a> &gt; for sale
+        </h2>
+        </div>
+        <a class="header-logo" href="//oklahomacity.craigslist.org">CL</a>
+        <div class="mobile-menu-drawer">
+        <nav class="breadcrumbs-container">
+        <form id="breadcrumbform" method="get" action="/search/sss" data-action="/search/###/sss">
+        <input type="hidden" name="sort" value="rel"><input type="hidden" name="query" value="ludwig supraphonic">
+        <ul class="breadcrumbs">
+        <li class="crumb area"><label for="areaAbb" class="mobile-only submenu-text">area</label><span class="no-js"><a href="/">oklahoma city</a></span>
+        <select name="areaAbb" id="areaAbb" class="js-only">
+        <option value="oklahomacity">oklahoma city</option>
+        <option value="dallas">dallas</option>
+        <option value="fayar">fayetteville, AR</option>
+        <option value="fortsmith">fort smith</option>
+        <option value="joplin">joplin</option>
+        <option value="lawton">lawton</option>
+        <option value="enid">northwest OK</option>
+        <option value="salina">salina</option>
+        <option value="seks">southeast KS</option>
+        <option value="swks">southwest KS</option>
+        <option value="stillwater">stillwater</option>
+        <option value="texoma">texoma</option>
+        <option value="tulsa">tulsa</option>
+        <option value="wichita">wichita</option>
+        <option value="wichitafalls">wichita falls</option>
+        </select>
+        <span class="breadcrumb-arrow">&gt;</span></li><li class="crumb section"><label for="catAbb" class="mobile-only submenu-text">section</label><select name="catAbb" id="catAbb">
+        <option value="ccc">community</option>
+        <option value="eee">events</option>
+        <option value="sss" selected>for sale</option>
+        <option value="ggg">gigs</option>
+        <option value="hhh">housing</option>
+        <option value="jjj">jobs</option>
+        <option value="ppp">personals</option>
+        <option value="rrr">resumes</option>
+        <option value="bbb">services</option>
+        </select>
+        <span class="breadcrumb-arrow">&gt;</span></li><li class="crumb category"><div class="mobile-only breadcrumb-labels">category</div>
+        <select id="subcatAbb" class="js-only">
+        <option value="sss">all</option><option value="ata">antiques</option>
+        <option value="ppa">appliances</option>
+        <option value="ara">arts+crafts</option>
+        <option value="sna">atvs/utvs/snow</option>
+        <option value="pta">auto parts - general</option>
+        <option value="wta">auto parts - wheels & tires</option>
+        <option value="baa">baby+kids</option>
+        <option value="bar">barter</option>
+        <option value="haa">beauty+hlth</option>
+        <option value="bip">bike parts</option>
+        <option value="bia">bikes</option>
+        <option value="bpa">boat parts</option>
+        <option value="boo">boats</option>
+        <option value="bka">books</option>
+        <option value="bfa">business</option>
+        <option value="cta">cars+trucks</option>
+        <option value="ema">cds/dvd/vhs</option>
+        <option value="moa">cell phones</option>
+        <option value="cla">clothes+acc</option>
+        <option value="cba">collectibles</option>
+        <option value="syp">computer parts</option>
+        <option value="sya">computers</option>
+        <option value="ela">electronics</option>
+        <option value="gra">farm+garden</option>
+        <option value="zip">free stuff</option>
+        <option value="fua">furniture</option>
+        <option value="gms">garage sales</option>
+        <option value="foa">general</option>
+        <option value="hva">heavy equipment</option>
+        <option value="hsa">household</option>
+        <option value="jwa">jewelry</option>
+        <option value="maa">materials</option>
+        <option value="mpa">motorcycle parts</option>
+        <option value="mca">motorcycles</option>
+        <option value="msa">music instr</option>
+        <option value="pha">photo+video</option>
+        <option value="rva">RVs</option>
+        <option value="sga">sporting</option>
+        <option value="tia">tickets</option>
+        <option value="tla">tools</option>
+        <option value="taa">toys+games</option>
+        <option value="vga">video gaming</option>
+        <option value="waa">wanted</option>
+        </select><span class="no-js">for sale</span>
+        <span class="no-js"> <input type="submit" value="go"></span></li>
+        </ul>
+        </form>
+        </nav>
+        <ul class="userlinks">
+        <li class="user post">
+        <a class="no-mobile" href="https://post.craigslist.org/c/okc">post</a>
+        <a class="mobile-only" href="https://post.craigslist.org/c/okc">post to classifieds</a>
+        </li>
+        <li class="user account">
+        <span>[ </span>
+        <a class="no-mobile" href="https://accounts.craigslist.org/login/home">account</a>
+        <a class="mobile-only" href="https://accounts.craigslist.org/login/home">my account</a>
+        <span> ]</span>
+        </li>
+        <li class="user fav">
+        <div class="favorites">
+        <a href="#" class="favlink"><span class="n">0</span><span class="no-mobile"> favorites</span></a>
+        </div>
+        </li>
+        </ul>
+        </div>
+        </header>
+        <div class="middle">
+        <form id="searchform" action="/search/sss">
+        <div class="searchbox">
+        <input id="excats" type="hidden" name="excats">
+        <input type="hidden" name="sort" value="rel">
+        <div class="searchgroup showoptions linklike closed">
+        <div class="mobile-favorites mobile-only"><div class="favorites">
+        <a href="#" class="favlink"><span class="n">0</span><span class="no-mobile"> favorites</span></a>
+        </div></div>
+        <span class="open">&ndash;</span><span class="closed">+</span> search options
+        </div>
+        <div class="searchoptions closed">
+        <div class="searchgroup categories">
+        <div class="cattitle"><a href="/search/sss" title="clear all search parameters" class="reset">for sale</a></div>
+        <ul class="maincats">
+        <li>
+        <input type="checkbox" name="cat_id" value="98,184" class="catcheck multi_checkbox" data-abb="msa" id="cat_msa" checked="checked">
+        <a href="/search/msa?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">musical instruments</a> <span class="count">1</span>
+        </li>
+        <li class="morecats js-only closed"><span class="linklike closed"><b>+</b> show 42 more</span> <span class="linklike open"><b>&ndash;</b> hide 42 more</span>
+        <span class="count">0</span>
+        </li>
+        </ul>
+        <ul class="othercats closed">
+        <li class="selectall js-only checked"><label><input type="checkbox" class="catcheck selectallcb" checked="checked"> <span class="all linklike">^ select all</span><span class="none linklike">^ deselect all</span></label></li>
+        <li>
+        <input type="checkbox" name="cat_id" value="150,169" class="catcheck multi_checkbox" data-abb="ata" id="cat_ata" checked="checked">
+        <a href="/search/ata?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">antiques</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="149,162" class="catcheck multi_checkbox" data-abb="ppa" id="cat_ppa" checked="checked">
+        <a href="/search/ppa?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">appliances</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="135,170" class="catcheck multi_checkbox" data-abb="ara" id="cat_ara" checked="checked">
+        <a href="/search/ara?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">arts & crafts</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="191,192" class="catcheck multi_checkbox" data-abb="sna" id="cat_sna" checked="checked">
+        <a href="/search/sna?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">atvs, utvs, snowmobiles</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="122,163" class="catcheck multi_checkbox" data-abb="pta" id="cat_pta" checked="checked">
+        <a href="/search/pta?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">auto parts - general</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="203,204" class="catcheck multi_checkbox" data-abb="wta" id="cat_wta" checked="checked">
+        <a href="/search/wta?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">auto parts - wheels & tires</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="107,171" class="catcheck multi_checkbox" data-abb="baa" id="cat_baa" checked="checked">
+        <a href="/search/baa?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">baby & kid stuff</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="42" class="catcheck multi_checkbox" data-abb="bar" id="cat_bar" checked="checked">
+        <a href="/search/bar?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">barter</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="197,198" class="catcheck multi_checkbox" data-abb="bip" id="cat_bip" checked="checked">
+        <a href="/search/bip?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">bicycle parts</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="68,172" class="catcheck multi_checkbox" data-abb="bia" id="cat_bia" checked="checked">
+        <a href="/search/bia?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">bicycles</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="201,202" class="catcheck multi_checkbox" data-abb="bpa" id="cat_bpa" checked="checked">
+        <a href="/search/bpa?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">boat parts & accessories</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="119,164" class="catcheck multi_checkbox" data-abb="boo" id="cat_boo" checked="checked">
+        <a href="/search/boo?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">boats</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="92,173" class="catcheck multi_checkbox" data-abb="bka" id="cat_bka" checked="checked">
+        <a href="/search/bka?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">books & magazines</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="134,174" class="catcheck multi_checkbox" data-abb="bfa" id="cat_bfa" checked="checked">
+        <a href="/search/bfa?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">business</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="145,146" class="catcheck multi_checkbox" data-abb="cta" id="cat_cta" checked="checked">
+        <a href="/search/cta?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">cars & trucks</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="117,175" class="catcheck multi_checkbox" data-abb="ema" id="cat_ema" checked="checked">
+        <a href="/search/ema?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">cds / dvds / vhs</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="153,165" class="catcheck multi_checkbox" data-abb="moa" id="cat_moa" checked="checked">
+        <a href="/search/moa?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">cell phones</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="94,176" class="catcheck multi_checkbox" data-abb="cla" id="cat_cla" checked="checked">
+        <a href="/search/cla?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">clothing & accessories</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="95,177" class="catcheck multi_checkbox" data-abb="cba" id="cat_cba" checked="checked">
+        <a href="/search/cba?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">collectibles</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="199,200" class="catcheck multi_checkbox" data-abb="syp" id="cat_syp" checked="checked">
+        <a href="/search/syp?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">computer parts</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="7,166" class="catcheck multi_checkbox" data-abb="sya" id="cat_sya" checked="checked">
+        <a href="/search/sya?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">computers</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="96,167" class="catcheck multi_checkbox" data-abb="ela" id="cat_ela" checked="checked">
+        <a href="/search/ela?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">electronics</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="133,178" class="catcheck multi_checkbox" data-abb="gra" id="cat_gra" checked="checked">
+        <a href="/search/gra?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">farm & garden</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="101" class="catcheck multi_checkbox" data-abb="zip" id="cat_zip" checked="checked">
+        <a href="/search/zip?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">free stuff</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="141,142" class="catcheck multi_checkbox" data-abb="fua" id="cat_fua" checked="checked">
+        <a href="/search/fua?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">furniture</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="73" class="catcheck multi_checkbox" data-abb="gms" id="cat_gms" checked="checked">
+        <a href="/search/gms?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">garage & moving sales</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="5,179" class="catcheck multi_checkbox" data-abb="foa" id="cat_foa" checked="checked">
+        <a href="/search/foa?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">general for sale</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="152,180" class="catcheck multi_checkbox" data-abb="haa" id="cat_haa" checked="checked">
+        <a href="/search/haa?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">health and beauty</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="193,194" class="catcheck multi_checkbox" data-abb="hva" id="cat_hva" checked="checked">
+        <a href="/search/hva?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">heavy equipment</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="97,181" class="catcheck multi_checkbox" data-abb="hsa" id="cat_hsa" checked="checked">
+        <a href="/search/hsa?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">household items</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="120,182" class="catcheck multi_checkbox" data-abb="jwa" id="cat_jwa" checked="checked">
+        <a href="/search/jwa?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">jewelry</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="136,183" class="catcheck multi_checkbox" data-abb="maa" id="cat_maa" checked="checked">
+        <a href="/search/maa?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">materials</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="195,196" class="catcheck multi_checkbox" data-abb="mpa" id="cat_mpa" checked="checked">
+        <a href="/search/mpa?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">motorcycle parts & accessories</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="69,160" class="catcheck multi_checkbox" data-abb="mca" id="cat_mca" checked="checked">
+        <a href="/search/mca?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">motorcycles/scooters</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="137,185" class="catcheck multi_checkbox" data-abb="pha" id="cat_pha" checked="checked">
+        <a href="/search/pha?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">photo/video</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="124,168" class="catcheck multi_checkbox" data-abb="rva" id="cat_rva" checked="checked">
+        <a href="/search/rva?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">recreational vehicles</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="93,186" class="catcheck multi_checkbox" data-abb="sga" id="cat_sga" checked="checked">
+        <a href="/search/sga?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">sporting goods</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="44,161" class="catcheck multi_checkbox" data-abb="tia" id="cat_tia" checked="checked">
+        <a href="/search/tia?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">tickets</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="118,187" class="catcheck multi_checkbox" data-abb="tla" id="cat_tla" checked="checked">
+        <a href="/search/tla?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">tools</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="132,188" class="catcheck multi_checkbox" data-abb="taa" id="cat_taa" checked="checked">
+        <a href="/search/taa?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">toys & games</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="151,189" class="catcheck multi_checkbox" data-abb="vga" id="cat_vga" checked="checked">
+        <a href="/search/vga?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">video gaming</a> <span class="count">0</span>
+        </li>
+        <li>
+        <input type="checkbox" name="cat_id" value="20,190" class="catcheck multi_checkbox" data-abb="waa" id="cat_waa" checked="checked">
+        <a href="/search/waa?query=ludwig%20supraphonic&amp;amp;sort=rel" class="category">wanted</a> <span class="count">0</span>
+        </li>
+        </ul>
+        </div>
+        <div class="searchgroup purveyor"><li class="buttongroup"><a href="/search/sss?query=ludwig%20supraphonic&sort=rel" class="button sel" data-val="a">all</a><a href="/search/sso?query=ludwig%20supraphonic&sort=rel" class="button" data-val="o">owner</a><a href="/search/ssq?query=ludwig%20supraphonic&sort=rel" class="button" data-val="d">dealer</a></li></div>
+        <input type="hidden" name="is_paid" id="is_paid" value="">
+        <div class="searchgroup">
+        <ul><li><label class="srchType"><input type="checkbox" name="srchType" class="autosubmit" value="T">search titles only</label></li><li><label class="hasPic"><input type="checkbox" name="hasPic" class="autosubmit" value="1">has image</label></li><li><label class="postedToday"><input type="checkbox" name="postedToday" class="autosubmit" value="1">posted today</label></li><li><label class="searchNearby"><input type="checkbox" name="searchNearby" class="autosubmit" value="1">search nearby areas</label></li></ul>
+        <ul class="js-only nearbyAreas ">
+        <li class="nearbyZone nearbyZone_2"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_16" value="364" disabled="disabled">abilene <small>(abi)</small></label><li class="nearbyZone nearbyZone_2"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_15" value="269" disabled="disabled">amarillo <small>(ama)</small></label><li class="nearbyZone nearbyZone_1"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_9" value="21" disabled="disabled">dallas / fort worth <small>(dal)</small></label><li class="nearbyZone nearbyZone_1"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_10" value="293" disabled="disabled">fayetteville, AR <small>(fyv)</small></label><li class="nearbyZone nearbyZone_1"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_8" value="358" disabled="disabled">fort smith, AR <small>(fsm)</small></label><li class="nearbyZone nearbyZone_1"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_11" value="423" disabled="disabled">joplin <small>(jln)</small></label><li class="nearbyZone nearbyZone_4"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_25" value="30" disabled="disabled">kansas city, MO <small>(ksc)</small></label><li class="nearbyZone nearbyZone_4"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_28" value="327" disabled="disabled">killeen / temple / ft hood <small>(grk)</small></label><li class="nearbyZone nearbyZone_3"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_22" value="347" disabled="disabled">lawrence <small>(lwr)</small></label><li class=""><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_2" checked="checked" value="422" disabled="disabled">lawton <small>(law)</small></label><li class="nearbyZone nearbyZone_4"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_26" value="100" disabled="disabled">little rock <small>(lit)</small></label><li class="nearbyZone nearbyZone_3"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_23" value="267" disabled="disabled">lubbock <small>(lbb)</small></label><li class="nearbyZone nearbyZone_3"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_18" value="428" disabled="disabled">manhattan, KS <small>(mhk)</small></label><li class="nearbyZone nearbyZone_4"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_27" value="688" disabled="disabled">northwest KS <small>(nwk)</small></label><li class=""><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_1" checked="checked" value="650" disabled="disabled">northwest OK <small>(end)</small></label><li class="nearbyZone nearbyZone_2"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_13" value="690" disabled="disabled">salina <small>(sns)</small></label><li class="nearbyZone nearbyZone_4"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_24" value="206" disabled="disabled">shreveport <small>(shv)</small></label><li class="nearbyZone nearbyZone_1"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_7" value="689" disabled="disabled">southeast KS <small>(sek)</small></label><li class="nearbyZone nearbyZone_2"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_12" value="687" disabled="disabled">southwest KS <small>(swk)</small></label><li class="nearbyZone nearbyZone_3"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_19" value="221" disabled="disabled">springfield, MO <small>(sgf)</small></label><li class=""><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_0" checked="checked" value="433" disabled="disabled">stillwater <small>(osu)</small></label><li class="nearbyZone nearbyZone_2"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_14" value="359" disabled="disabled">texarkana <small>(txk)</small></label><li class=""><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_5" checked="checked" value="649" disabled="disabled">texoma <small>(txm)</small></label><li class="nearbyZone nearbyZone_3"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_20" value="280" disabled="disabled">topeka <small>(tpk)</small></label><li class=""><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_3" checked="checked" value="70" disabled="disabled">tulsa <small>(tul)</small></label><li class="nearbyZone nearbyZone_2"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_17" value="308" disabled="disabled">tyler / east TX <small>(etx)</small></label><li class="nearbyZone nearbyZone_3"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_21" value="270" disabled="disabled">waco <small>(wco)</small></label><li class="nearbyZone nearbyZone_1"><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_6" value="99" disabled="disabled">wichita <small>(wic)</small></label><li class=""><label class="nearby"><input type="checkbox" class="use-id" name="nearbyArea" id="nearbyArea_4" checked="checked" value="365" disabled="disabled">wichita falls <small>(wtf)</small></label><li><span class="nextNearbyZone linklike" data-zone="1">+ show <span id="nearbyNumber">23</span> more...</span></li>
+        </ul>
+        </div>
+        <div class="searchgroup minmax price">
+        <span class="searchfieldlabel">price</span> <input type="tel" name="min_price" class="flatinput min" placeholder="min" title="whole number, no letters or symbols" value=""> <input type="tel" name="max_price" class="flatinput max" placeholder="max" title="whole number, no letters or symbols" value="">
+        </div>
+        <div class="searchgroup resetsearch">
+        <a href="/search/sss" title="clear all search parameters" class="reset linklike">reset</a>
+        <button type="submit" class="searchlink linklike">search</button>
+        </div>
+        <div class="no-mobile">
+        <aside class="tsb">
+        <ul>
+        <li><a href="//www.craigslist.org/about/safety">safety tips</a>
+        <li><a href="//www.craigslist.org/about/prohibited">prohibited items</a>
+        <li><a href="//www.craigslist.org/about/recalled_items">product recalls</a>
+        <li><a href="//www.craigslist.org/about/scams">avoiding scams</a>
+        </ul>
+        </aside>
+        </div>
+        </div>
+        </div>
+        <div class="rightpane">
+        <div class="querybox">
+        <span class="form-tab js-only"><span class="search-open" title="hide search">&laquo;</span><span class="search-closed" title="show search">&raquo;</span></span>
+        <input type="text" placeholder="search for sale" name="query" id="query" value="ludwig supraphonic" autocorrect="off" autocapitalize="off" autocomplete="off" data-autocomplete="search" class="flatinput ui-autocomplete-input">
+        <button type="submit" class="searchbtn"><span class="searchicon"></span></button>
+        <div class="savealert">
+        <a class="saveme no-mobile" data-action="alert" href="https://accounts.craigslist.org/login?rt=L&amp;rp=%2Fsavesearch%2Falert%3FURL%3Dhttps%253A%252F%252Foklahomacity%252Ecraigslist%252Eorg%252Fsearch%252Fsss%253Fquery%253Dludwig%252520supraphonic%2526sort%253Drel" title="save this search with email alerts ">email alert</a>
+        <a class="saveme no-mobile" data-action="save" href="https://accounts.craigslist.org/login?rt=L&amp;rp=%2Fsavesearch%2Fsave%3FURL%3Dhttps%253A%252F%252Foklahomacity%252Ecraigslist%252Eorg%252Fsearch%252Fsss%253Fquery%253Dludwig%252520supraphonic%2526sort%253Drel" title="save this search ">save search</a>
+        <a class="saveme mobile-only" href="https://accounts.craigslist.org/login?rt=L&amp;rp=%2Fsavesearch%2Falert%3FURL%3Dhttps%253A%252F%252Foklahomacity%252Ecraigslist%252Eorg%252Fsearch%252Fsss%253Fquery%253Dludwig%252520supraphonic%2526sort%253Drel">search alert</a>
+        </div>
+        </div>
+        <div class="search-legend">
+        <div class="center">
+        <div class="search-view"><span class="buttongroup js-only"><a href="#list" title="show results in a list" class="mode button" data-view="list" id="listview">list</a><a href="#pic" title="show results in a list with thumbnail pictures" class="mode button" data-view="pic" id="picview">thumb</a><a href="#grid" title="show results side-by-side with larger pictures" class="mode button" data-view="grid" id="gridview">gallery</a><a href="#map" title="show results on a map" class="mode button" data-view="map" id="mapview">map</a></span></div><div class="search-sort">
+        <span class="buttongroup">
+        <a class="button" title="show newest matches first" href="/search/sss?sort=date&query=ludwig%20supraphonic">newest</a><span class="button sel">relevant</span><a class="button" title="sort by price, lowest to highest" href="/search/sss?sort=priceasc&query=ludwig%20supraphonic"><span class='pricesort'><span class='pricesort'>&#x0024;</span>&#x0024;</span>&#x0024;</a><a class="button" title="sort by price, highest to lowest" href="/search/sss?sort=pricedsc&query=ludwig%20supraphonic">&#x0024;<span class="pricesort">&#x0024;<span class="pricesort">&#x0024;</span></span></a>
+        </span>
+        </div><span class="paginator buttongroup  firstpage lastpage"><span class="resulttotal">displaying 1 posting</span><span class="buttons"><a href="/search/sss?query=ludwig%20supraphonic&amp;sort=rel" class="button first" title="first page">&lt;&lt;</a><span class="button first" title="first page">&lt;&lt;</span><a href="/search/sss?query=ludwig%20supraphonic&amp;sort=rel" class="button prev" title="previous page">&lt; prev</a><span class="button prev" title="previous page">&lt; prev</span><span class="button pagenum"><span class="range"><span class="rangeFrom">1</span> to <span class="rangeTo">1</span></span> <span class="of-total">of <span class="totalcount">1</span></span></span><a href="/search/sss?s=1&amp;query=ludwig%20supraphonic&amp;sort=rel" class="button next" title="next page"> next &gt; </a><span class="button next" title="next page"> next &gt; </span></span></span>
+        </div>
+        </div>
+        <div class="content">
+        <section class="favlistsection">
+        <section class="favlistinfo">
+        </section>
+        </section>
+        <p class="row" data-pid="5217781850"> <a href="/msg/5217781850.html" class="i" data-ids="0:00R0R_lRLd8ebLbD0,0:00a0a_sAaWQ4rrT7,0:00101_27gGpAMnbm7,0:00I0I_e2p5olRaONb,0:00303_jmASz1WCTX5,0:00y0y_e1wEP9SY9EE"><span class="price">$825</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-10-04 16:16" title="Sun 04 Oct 04:16:07 PM">Oct 4</time> <a href="/msg/5217781850.html" data-id="5217781850" class="hdrlnk">90s Slingerland 4 piece drum kit w/ '79 Ludwig snare</a> </span> <span class="l2"> <span class="price">$825</span> <span class="pnr"> <small> (Oklahoma City)</small> <span class="px"> <span class="p"> pic</span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p>
+        <h4 class="ban nearby"><span class="bantext">Few local results found. Here are some from nearby areas. Checking 'search nearby areas' will expand your search.</span></h4>
+        <p class="row" data-pid="5263272206"> <a href="//tulsa.craigslist.org/msg/5263272206.html" class="i" data-ids="0:01515_35HjyYSkSsQ,0:00A0A_enmgRLHybFw,0:00m0m_gUu19rJSe8m,0:00G0G_95pxjNDCZuC,0:00c0c_l1ueUxNT13n,0:00h0h_oiWrI1a3SY,0:00K0K_9ekFKYnUXmC,0:00o0o_1KiPFN3P3wj,0:00b0b_gheuShJ166H,0:00606_6WiN20Dz4nx,0:00j0j_3pwlEr4Er3"><span class="price">$2000</span></a> <span class="txt"> <span class="star"></span> <span class="pl"> <time datetime="2015-11-04 19:41" title="Wed 04 Nov 07:41:57 PM">Nov 4</time> <a href="//tulsa.craigslist.org/msg/5263272206.html" data-id="5263272206" class="hdrlnk">1966 Vintage Ludwig drum set + lots of extras</a> </span> <span class="l2"> <span class="price">$2000</span> <span class="pnr"> <small><span class="nearby" title="tulsa"> (tul &gt; Verdigris)</span></small> <span class="px"> <span class="p"> pic <span class="maptag" data-pid="5263272206">map</span></span></span> </span> </span> <span class="js-only banish-unbanish no-mobile"> <span class="banish" title="dismiss">[&times;]</span> <span class="unbanish" title="allow">[undo]</span></span> </span> </p>
+        <div id="mapcontainer" data-arealat="35.467499" data-arealon="-97.516098">
+        <div id="noresult_overlay"></div>
+        <div id="noresult_text">
+        <span class="message">No mappable items found</span>
+        </div>
+        <div id="map" class="loading"><div class="closeFS">close fullscreen</div></div>
+        </div>
+        <div class="search-legend bottom">
+        <div class="center">
+        <div class="search-view">
+        <span class="buttongroup"><a class="backtotop button" href="#pagecontainer">^ back to top</a></span>
+        </div>
+        <div class="search-sort">
+        <span class="buttongroup"><a class="backtotop button" href="#pagecontainer">^ back to top</a></span>
+        </div>
+        <span class="paginator buttongroup  firstpage lastpage"><span class="resulttotal">displaying 1 posting</span><span class="buttons"><a href="/search/sss?query=ludwig%20supraphonic&amp;sort=rel" class="button first" title="first page">&lt;&lt;</a><span class="button first" title="first page">&lt;&lt;</span><a href="/search/sss?query=ludwig%20supraphonic&amp;sort=rel" class="button prev" title="previous page">&lt; prev</a><span class="button prev" title="previous page">&lt; prev</span><span class="button pagenum"><span class="range"><span class="rangeFrom">1</span> to <span class="rangeTo">1</span></span> <span class="of-total">of <span class="totalcount">1</span></span></span><a href="/search/sss?s=1&amp;query=ludwig%20supraphonic&amp;sort=rel" class="button next" title="next page"> next &gt; </a><span class="button next" title="next page"> next &gt; </span></span></span>
+        </div>
+        </div>
+        </div>
+        </div>
+        <section class="blurbs">
+        </section>
+        <div id="floater">
+        <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+        <img class="payload" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+        </div>
+        <template id="gallerycarousel">
+        <div class="sliderinfo"></div><div class="sliderback arrow">&lt;</div><div class="sliderforward arrow">&gt;</div>
+        </template>
+        </form>
+        </div>
+        <div class="mobile-only">
+        <aside class="tsb">
+        <ul>
+        <li><a href="//www.craigslist.org/about/safety">safety tips</a>
+        <li><a href="//www.craigslist.org/about/prohibited">prohibited items</a>
+        <li><a href="//www.craigslist.org/about/recalled_items">product recalls</a>
+        <li><a href="//www.craigslist.org/about/scams">avoiding scams</a>
+        </ul>
+        </aside>
+        </div>
+        <div class="discards footstool no-mobile js-only">
+        <p><strong class="hidden_count withmap"></strong><strong class="hidden_count nomap"></strong> dismissed</p>
+        <div class="show-discards-link linklike" role="button" tabindex="0">click to show</div>
+        <div class="hide-discards-link linklike" role="button" tabindex="0">click to hide</div>
+        </div>
+        <footer>
+        <span class="rss">
+        <a class="l" href="https://oklahomacity.craigslist.org/search/sss?format=rss&amp;query=ludwig%20supraphonic&amp;sort=rel">RSS</a>
+        <a href="http://www.craigslist.org/about/rss">(?)</a><br>
+        </span>
+        <ul class="clfooter">
+        <li>&copy; 2015 <span class="desktop">craigslist</span><span class="mobile">CL</span></li>
+        <li><a href="//www.craigslist.org/about/help/">help</a></li>
+        <li><a href="//www.craigslist.org/about/scams">safety</a></li>
+        <li class="desktop"><a href="//www.craigslist.org/about/privacy.policy">privacy</a></li>
+        <li class="desktop"><a href="https://forums.craigslist.org/?forumID=8">feedback</a></li>
+        <li class="desktop"><a href="//www.craigslist.org/about/craigslist_is_hiring">cl jobs</a></li>
+        <li><a href="//www.craigslist.org/about/terms.of.use">terms</a></li>
+        <li><a href="//www.craigslist.org/about/">about</a></li>
+        <li class="fsel desktop linklike" data-mode="mobile">mobile</li>
+        <li class="fsel mobile linklike" data-mode="regular">desktop</li>
+        </ul>
+        </footer>
+        </section>
+        <script src="//www.craigslist.org/js/general-concat.min.js?v=1a94c79813524ef10e7629a536afe029" type="text/javascript"></script>
+        <script type="text/javascript"><!--
+                var iframe = document.createElement('iframe');
+                iframe.style.display = 'none';
+                iframe.src = '//www.' + CL.url.baseDomain + '/static/localstorage.html?v=51a29e41f8e978141e4085ed4a77d170';
+                document.body.insertBefore(iframe, null);
+            --></script>
+        <script type="text/template" id="clustertemplate">
+            <li class="posting {visited}" data-pid="{PostingID}">
+                <img src="{ImageThumb}">
+                <div class="housing_bubble_banner">
+                    <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+                    <span class="bedrooms">{BedroomsContent}</span>
+                    <span class="postingtitle"><a>{PostingTitle}</a></span>
+                    <span class="js-only map-banish-unbanish no-mobile">
+                        <span class="banish" title="hide">[&times;]</span><span class="unbanish" title="unhide">[undo]</span>
+                    </span>
+                </div>
+            </li>
+        </script>
+        <script type="text/template" id="postingtemplate">
+            <div class="viewcontainer pics loading">
+                <div class="backtolist">
+                    &laquo; back to posting list
+                </div>
+                <div class="title">
+                    <span class="star" data-pid="{PostingID}"></span>
+                    <span class="postingtitle">
+                      <a href="{PostingURL}" target="_blank">{PostingTitle}</a>
+                    </span>
+                    <div>
+                        <span class="{hasPrice}price">{currencySymbol}{Ask}</span>
+                        <span class="bedrooms">{BedroomsContent}</span>
+                        <span class="js-only map-banish-unbanish no-mobile" data-pid="{PostingID}">
+                          <span class="banish" title="dismiss">[&times;]</span><span class="unbanish" title="allow">[undo]</span>
+                        </span>
+                    </div>
+                </div>
+                <hr style="clear:both">
+                <div class="picscontainer">
+                    <div class="slidernav">
+                        <span class="sliderback">&lt;</span><span class="sliderinfo"></span><span class="sliderforward">&gt;</span>
+                    </div>
+                    <div class="swipe">
+                        <div class="swipe-wrap">
+                            <img class="loading" src="//www.craigslist.org/images/animated-spinny.gif" alt="">
+                        </div>
+                    </div>
+                </div>
+                <div class="infocontainer"></div>
+                <hr style="clear:both">
+                <abbr class="date timeago" title="{isoPostedDate}">{humanPostedDate}</abbr>
+                <a class="viewpostinglink" href="{PostingURL}" target="_blank">view posting</a>
+                <div class="contenttoggle">
+                    <a class="moreinfo">more info</a>
+                    <a class="showpics">show images</a>
+                </div>
+            </div>
+        </script>
+        <script type="text/template" id="popuptemplate">
+            <div id="mapbubble" class="posting">
+                <ul id="clusterbubble"></ul>
+                <div id="postbubble"></div>
+            </div>
+        </script>
+        <script src="//www.craigslist.org/js/leaflet-concat.min.js?v=2173bed4f7c969e0e3a670ec6c1d73b4" type="text/javascript"></script>
+        <script src="//www.craigslist.org/js/search-concat.min.js?v=70372652bebd74563df0666668228a58" type="text/javascript"></script>
+        </body>
+        </html>
+    http_version: 
+  recorded_at: Wed, 18 Nov 2015 16:57:44 GMT
+recorded_with: VCR 2.9.2
