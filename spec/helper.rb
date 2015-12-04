@@ -1,5 +1,8 @@
+ENV['RACK_ENV'] = 'test'
+ENV['USE_VCR_CACHING'] = 'false'
+
 require 'minitest/autorun'
-Dir[__dir__ + '/../app/**/*.rb'].each { |file| require file }
+require_relative '../gear_crawler'
 require 'vcr'
 
 VCR.configure do |config|
